@@ -9,10 +9,4 @@ categories:
 - Java
 ---
 
-**[The Rise and Fall and Rise of Java](http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java)**
-
-
-View more presentations from [sogrady](http://www.slideshare.net/sogrady)
-
-
-
+{% oembed http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java %}

@@ -12,6 +12,6 @@ categories:
 So if you are like me using [Mosso](http://www.mosso.com) and cant edit the php.ini file then if you want to increase the default upload size you need to edit your .htaccess file and add the following (adjust as needed):
 
     
-    php_value post_max_size 16M
+    `php_value post_max_size 16M
     php_value upload_max_filesize 16M
-    php_value max_execution_time 600
+    php_value max_execution_time 600`

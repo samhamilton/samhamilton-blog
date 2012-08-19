@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ecommerce | My Octopress Blog]]></title>
   <link href="http://yoursite.com/blog/categories/ecommerce/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-08-19T14:05:15+08:00</updated>
+  <updated>2012-08-19T15:07:04+08:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -34,9 +34,9 @@
 
 <p>Here is the China network diagram from a <a href="http://www.cdnetworks.com/solutions/china-acceleration/">decent CDN</a> who truly understand China - show me another CDN that has that network in China? Akamai perhaps but they won't show.</p>
 
-<p><img src="http://www.samhamilton.co.uk/wp-content/uploads/2011/07/china_acceleration.jpg" alt="" /></p>
+<p><img src="/images/china_acceleration.jpg"></p>
 
-<p>One last thing to throw on the fire - Shanghai has plenty of <a href="http://www.samhamilton.co.uk/wp-content/uploads/2011/07/Equinix_Submarine_TGMap_MTS_15.pdf">submarine cables</a> and also China has Hong Kong one of the greatest gathering of submarine cables in the world, if they wanted international internet to work they could, the trouble is that they dont.</p>
+<p>One last thing to throw on the fire - Shanghai has plenty of <a href="/images/Equinix_Submarine_TGMap_MTS_15.pdf">submarine cables</a> and also China has Hong Kong one of the greatest gathering of submarine cables in the world, if they wanted international internet to work they could, the trouble is that they dont.</p>
 ]]></content>
   </entry>
   
@@ -47,9 +47,7 @@
     <id>http://yoursite.com/blog/2011/05/31/amazon-the-hidden-empire</id>
     <content type="html"><![CDATA[<p>A comprehensive look at the business of Amazon.com</p>
 
-<p><strong><a href="http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire">Amazon.com: the Hidden Empire</a></strong></p>
-
-<p>View more presentations from <a href="http://www.slideshare.net/faberNovel">faberNovel</a></p>
+<p><iframe src="http://www.slideshare.net/slideshow/embed_code/7928875" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire" title="Amazon.com: the Hidden Empire" target="_blank">Amazon.com: the Hidden Empire</a> </strong> from <strong><a href="http://www.slideshare.net/faberNovel" target="_blank">faberNovel</a></strong> </div></p>
 ]]></content>
   </entry>
   
@@ -59,6 +57,8 @@
     <updated>2010-02-19T21:45:28+08:00</updated>
     <id>http://yoursite.com/blog/2010/02/19/shopping-just-wont-be-the-same</id>
     <content type="html"><![CDATA[<p>Well Google are extending their shopping engine - checkout the video or the blog post for <a href="http://googlemerchantblog.blogspot.com/2010/02/cross-posted-from-google-mobile-blog.html">more info</a></p>
+
+<p><iframe width="480" height="270" src="http://www.youtube.com/embed/du_G_xJw8WA?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 ]]></content>
   </entry>
   
@@ -78,7 +78,7 @@
     <id>http://yoursite.com/blog/2009/05/04/how-to-upgrade-magento-using-magento-connect-manager</id>
     <content type="html"><![CDATA[<p>This is a real quick post - if you want to upgrade Magento using the Connect Manager simply enter the following into the extention key box:</p>
 
-<p>magento-core/Mage_All_Latest</p>
+<p><code>magento-core/Mage_All_Latest</code></p>
 ]]></content>
   </entry>
   

@@ -14,9 +14,9 @@ OK I have just watched this and its brilliant, but what it spanks of is the fact
 Any way check it out.
 
 The T-Mobile Dance
-
+{% oembed http://www.youtube.com/watch?v=VQ3d3KigPQM&feature=player_embedded %}
 
 and
 
 T-Mobile Dance Rehearsal
-
+{% oembed http://www.youtube.com/watch?v=PxF8i-T9kcg&feature=player_embedded %}

@@ -9,4 +9,4 @@ categories:
 - Random Stuff
 ---
 
-
+{% oembed http://www.youtube.com/watch?v=s3dZfvTLbBE %}

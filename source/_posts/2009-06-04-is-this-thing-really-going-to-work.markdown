@@ -9,6 +9,6 @@ categories:
 - News
 ---
 
-
-
 watch this video and then tell me if anyone is going to get the type of experience that you just saw. Cant wait for real world experience review.
+
+{% oembed http://www.youtube.com/watch?v=oACt9R9z37U&feature=player_embedded %}

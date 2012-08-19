@@ -11,4 +11,4 @@ categories:
 
 OK so this is really an add for Google but the stats before they start selling are what makes it interesting.
 
-
+{% oembed http://www.youtube.com/watch?v=CjUcq_E4I-s %}

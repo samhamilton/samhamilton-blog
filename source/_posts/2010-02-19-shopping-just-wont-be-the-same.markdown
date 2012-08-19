@@ -11,4 +11,4 @@ categories:
 
 Well Google are extending their shopping engine - checkout the video or the blog post for [more info](http://googlemerchantblog.blogspot.com/2010/02/cross-posted-from-google-mobile-blog.html)
 
-
+{% oembed http://www.youtube.com/watch?v=du_G_xJw8WA&feature=player_embedded %}

@@ -27,6 +27,6 @@ Companies who want to expand into China need to remember that China is almost 
 
 Here is the China network diagram from a [decent CDN](http://www.cdnetworks.com/solutions/china-acceleration/) who truly understand China - show me another CDN that has that network in China? Akamai perhaps but they won't show.
 
-![](http://www.samhamilton.co.uk/wp-content/uploads/2011/07/china_acceleration.jpg)
+{% img /images/china_acceleration.jpg %}
 
-One last thing to throw on the fire - Shanghai has plenty of [submarine cables](http://www.samhamilton.co.uk/wp-content/uploads/2011/07/Equinix_Submarine_TGMap_MTS_15.pdf) and also China has Hong Kong one of the greatest gathering of submarine cables in the world, if they wanted international internet to work they could, the trouble is that they dont.
+One last thing to throw on the fire - Shanghai has plenty of [submarine cables](/images/Equinix_Submarine_TGMap_MTS_15.pdf) and also China has Hong Kong one of the greatest gathering of submarine cables in the world, if they wanted international internet to work they could, the trouble is that they dont.

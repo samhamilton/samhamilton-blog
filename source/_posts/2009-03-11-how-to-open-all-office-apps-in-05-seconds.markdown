@@ -12,3 +12,4 @@ categories:
 Well if you have a stupid amount of cash anything is possible, but this just probably what I would do if I was a millionaire just for kicks.
 
 
+{% oembed http://www.youtube.com/watch?v=96dWOEa4Djs&feature=player_embedded %}

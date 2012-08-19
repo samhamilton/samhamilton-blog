@@ -11,3 +11,4 @@ categories:
 
 Great video from Jeff BeZos about Amazon and what his keys to success are:
 
+{% oembed http://www.youtube.com/watch?v=-hxX_Q5CnaA %}

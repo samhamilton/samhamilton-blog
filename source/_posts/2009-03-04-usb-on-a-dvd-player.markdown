@@ -9,4 +9,4 @@ categories:
 - Random Stuff
 ---
 
-OK so perhaps I am the last person in the world to find the USB slot in my DVD player useful but DAM that thing is wicked. Stick in a USB stick filled with what ever you want and the DVD player reads and plays it - loving it!
+OK so perhaps I am the last person in the world to find the USB slot in my DVD player useful but that thing is wicked. Stick in a USB stick filled with what ever you want and the DVD player reads and plays it - loving it!

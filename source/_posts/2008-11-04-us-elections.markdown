@@ -9,4 +9,4 @@ categories:
 - News
 ---
 
-![](http://www.samhamilton.co.uk/wp-includes/js/tinymce/plugins/media/img/trans.gif)
+![](/images/trans.gif)

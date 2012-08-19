@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Random Stuff | My Octopress Blog]]></title>
   <link href="http://yoursite.com/blog/categories/random-stuff/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-08-19T14:05:15+08:00</updated>
+  <updated>2012-08-19T15:07:04+08:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -47,20 +47,22 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Serious Skils]]></title>
-    <link href="http://yoursite.com/blog/2011/01/27/serious-skils/"/>
-    <updated>2011-01-27T19:23:39+08:00</updated>
-    <id>http://yoursite.com/blog/2011/01/27/serious-skils</id>
-    <content type="html"><![CDATA[<p>My good friend Peter pointed me in the direction of this video - what skills!</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Making the Chevrolet Volt in 1m 55s]]></title>
     <link href="http://yoursite.com/blog/2010/12/03/making-the-chevrolet-volt-in-1m-55s/"/>
     <updated>2010-12-03T01:30:01+08:00</updated>
     <id>http://yoursite.com/blog/2010/12/03/making-the-chevrolet-volt-in-1m-55s</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p><iframe width="480" height="270" src="http://www.youtube.com/embed/s3dZfvTLbBE?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Where Good Ideas Come From by Steven Johnson]]></title>
+    <link href="http://yoursite.com/blog/2010/09/24/where-good-ideas-come-from-by-steven-johnson/"/>
+    <updated>2010-09-24T21:27:28+08:00</updated>
+    <id>http://yoursite.com/blog/2010/09/24/where-good-ideas-come-from-by-steven-johnson</id>
+    <content type="html"><![CDATA[<p>Don't ask why this video is super large - I am too jet lagged to fix it right now. Good video though - go to YouTube to watch it properly.</p>
+
+<p><iframe width="480" height="270" src="http://www.youtube.com/embed/NugRZGDbPFU?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 ]]></content>
   </entry>
   

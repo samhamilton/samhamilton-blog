@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Marketing | My Octopress Blog]]></title>
   <link href="http://yoursite.com/blog/categories/marketing/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-08-19T14:05:15+08:00</updated>
+  <updated>2012-08-19T15:07:04+08:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -19,6 +19,8 @@
     <updated>2011-06-11T17:59:51+08:00</updated>
     <id>http://yoursite.com/blog/2011/06/11/the-mobile-movement-understanding-smartphone-consumers</id>
     <content type="html"><![CDATA[<p>OK so this is really an add for Google but the stats before they start selling are what makes it interesting.</p>
+
+<p><iframe width="480" height="270" src="http://www.youtube.com/embed/CjUcq_E4I-s?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 ]]></content>
   </entry>
   
@@ -27,7 +29,7 @@
     <link href="http://yoursite.com/blog/2009/09/08/social-media-in-the-office/"/>
     <updated>2009-09-08T06:11:37+08:00</updated>
     <id>http://yoursite.com/blog/2009/09/08/social-media-in-the-office</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p><iframe width="459" height="344" src="http://www.youtube.com/embed/3f-hr1iWNyI?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 ]]></content>
   </entry>
   
@@ -38,9 +40,7 @@
     <id>http://yoursite.com/blog/2009/08/25/the-best-ppt-about-eye-candy</id>
     <content type="html"><![CDATA[<p>Going to make this required reading for the company next week!</p>
 
-<p><a href="http://www.slideshare.net/stephenpa/eye-candy-is-a-critical-business-requirement">Eye Candy IS A Critical Business Requirement</a></p>
-
-<p>View more <a href="http://www.slideshare.net/">documents</a> from <a href="http://www.slideshare.net/stephenpa">Stephen Anderson</a>.</p>
+<p><iframe src="http://www.slideshare.net/slideshow/embed_code/161377" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/stephenpa/eye-candy-is-a-critical-business-requirement" title="Eye Candy IS A Critical Business Requirement" target="_blank">Eye Candy IS A Critical Business Requirement</a> </strong> from <strong><a href="http://www.slideshare.net/stephenpa" target="_blank">Stephen Anderson</a></strong> </div></p>
 ]]></content>
   </entry>
   

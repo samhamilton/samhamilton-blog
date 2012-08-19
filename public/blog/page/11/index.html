@@ -7,7 +7,7 @@
 	<meta name="author" content="Your Name">
 
 	
-	<meta name="description" content="The upgrade was smooth as with all Wordpress upgrades - the only problem is that my theme does not support 2.3! Ah well off hunting for a new one&# &hellip;">
+	<meta name="description" content="Over the last couple of weeks I have been deeply involved with something that eBay calls VeRO - bascially this is a way that eBay pushes the &hellip;">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -73,131 +73,6 @@
 
 
     <article class="post">
-	<h1 class="title"><a href="/blog/2007/10/02/wordpress-23-upgrade/">Wordpress 2.3 Upgrade</a></h1>
-	<div class="entry-content">
-		<p>The upgrade was smooth as with all Wordpress upgrades - the only problem is that my theme does not support 2.3! Ah well off hunting for a new one&#8230;</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2007-10-02T19:55:02+08:00" pubdate data-updated="true">Oct 2<span>nd</span>, 2007</time></div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/news/'>News</a>
-
-
-</div>
-	
-</div></article>
-
-
-    <article class="post">
-	<h1 class="title"><a href="/blog/2007/09/24/online-backup/">Online Backup</a></h1>
-	<div class="entry-content">
-		<p>So this morning I was as usual reading my subscribed blogs &amp; found out about this company that just got bought for some <a href="http://www.techcrunch.com/2007/09/23/breaking-online-backup-startup-mozy-acquired-by-emc-for-76-million/">stupid amount of money</a> &amp; so I thought I would have a nice little look and see why they are worth the money. I still dont know to be honsest why they were worth so much cash but I dont mind becuase I found a nice and cheap backup system for my Apple which if you are a Apple user you will know that finding a cheap but good online backup system that support Mac is well&#8230; hard!</p>
-
-<p>At this time the Mac support is beta but I really dont mind too much as long as it does backup my stuff!</p>
-
-<p>$4.99 for &#8220;unlimited&#8221; backup space - um&#8230;. I thought where is that <a href="https://mozy.com/?ref=7JTKA8">signup button</a></p>
-
-<p>And with probally 90% of techies out there you have a parent who depends on you for help, so i pinged off an email to my Mum to subscribe too!</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2007-09-24T16:40:42+08:00" pubdate data-updated="true">Sep 24<span>th</span>, 2007</time></div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/random-stuff/'>Random Stuff</a>
-
-
-</div>
-	
-</div></article>
-
-
-    <article class="post">
-	<h1 class="title"><a href="/blog/2007/09/19/ofbiz-postgresql-and-a-worldwide-audience/">OFBiz, PostgreSQL and a Worldwide Audience</a></h1>
-	<div class="entry-content">
-		<p>So we were starting to talk to <a href="http://www.netsuite.com">Netsuite</a> about replacing our systems with theirs, I have to admit I do like the idea of one complete system from one person. It was just before they were going public so they wanted all the business they could muster and we had a &#8220;good&#8221; price until we got into extra storage space. I mean what does 1GB of storage space cost these days even if you do run <a href="http://www.oracle.com">Oracle</a> databases like they do to at Netsuite. Well it just made the whole deal crazy the scale out plans made the deal practically blow up and this is with me supporting the integrated system totally and really thinking about the cost savings, it just no longer made sense.</p>
-
-<p>Well fortunate as luck would have it we bumped into someone using OFBiz to run their warehouse here in China. To cut a long story short we then started working out how we could use it including getting me up to speed on Java which is a technology I have never touched. The fun begins we hire our first developer, we think which databases to use and we work out if this thing scales.</p>
-
-<p>The database is an easy choice after a short amount of reading, <a href="http://www.postgresql.org">postgreSQL</a> is a clear winner - why? Well really it comes down to data integrity. We are not building a social media site so really we are not going to end up with huge amounts of database writes after all, instead we are going to end up (in a few short years) with TB&#8217;s of data.</p>
-
-<p>The interesting part of the mix is that we need to have multiple database sites which include USA, UK, Hong Kong and China. The USA, UK and HK sites will be the ecommerce backbones and then also China as we need to ship the goods - the packing stations in the warehouse get PDF files of the address which can be quite large so a local server there keeps the speed and productivity up.</p>
-
-<p>Let me explain why three data centeres - first you always have a primary data centre so for us this will be Hong Kong as this is physically closest to Shanghai so for any internal tool this need to be as fast as possible. We build out tools such as <a href="http://www.alfresco.com">Alfresco</a> and <a href="http://www.jivesoftware.com/products/clearspace">Clearspace</a> in Hong Kong plus also a copy of OFBiz as all the customer and order information is inside, this node can also provide service to any Asian ecommerce customers.</p>
-
-<p>The US and UK sites are the main points of ecommerce so these sites primary function is to host anything customer facing and provide services using <a href="http://www.cisco.com/warp/public/117/css_glb_sticky.html">global load balancing</a> to ensure that each customer is getting just about the fastest response from our servers.</p>
-
-<p>Having customers in 9+ primary and 50+ secondary countries really makes delivering a great experiance to them all hard.</p>
-
-<p>Thats all for now - lets see how this gets on.</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2007-09-19T17:39:31+08:00" pubdate data-updated="true">Sep 19<span>th</span>, 2007</time></div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/work/'>Work</a>
-
-
-</div>
-	
-</div></article>
-
-
-    <article class="post">
 	<h1 class="title"><a href="/blog/2007/07/01/ebay-and-vero/">eBay and VeRO</a></h1>
 	<div class="entry-content">
 		<p>Over the last couple of weeks I have been deeply involved with something that eBay calls VeRO - bascially this is a way that eBay pushes the responsilbity of checking for fake, patent or trademark infringing goods back onto the owners of those trademarks. The rights owner simply sends in an email to VeRO and eBay removes the item and warns the seller of those goods to contact the rights owner and sort it out.</p>
@@ -241,7 +116,7 @@
 	<div class="entry-content">
 		<p>So got up this morning and was reading <a href="http://slashdot.org">Slashdot</a> with a cup of coffee and what do I read&#8230;. <a href="http://yro.slashdot.org/article.pl?sid=07/06/09/1914226">China Sensoring Flickr</a></p>
 
-<p>So as with most things related to the Chinese firewall you have to make sure it applys to you too and it does - I can get onto <a href="http://www.flickr.com">Flickr</a> but cant see any images.</p>
+<p>So as with most things related to the Chinese firewall you have to make sure it apples to you too and it does - I can get onto <a href="http://www.flickr.com">Flickr</a> but cant see any images.</p>
 
 <p>And I was going to update my photos this week too.</p>
 
@@ -356,7 +231,7 @@
     <article class="post">
 	<h1 class="title"><a href="/blog/2007/01/30/change-in-currency-laws/">Change in Currency Laws</a></h1>
 	<div class="entry-content">
-		<p>The Chinese goverment has decided to change the amount of forgin currency exchanged into RMB on a personal level from $50,000 per month to $50,000 per year!</p>
+		<p>The Chinese government has decided to change the amount of foreign currency exchanged into RMB on a personal level from $50,000 per month to $50,000 per year!</p>
 
 <p>Quite a change and this caused great questions for the business that need to be answered - general taxpayer or warehouse in Hong Kong!?!</p>
 

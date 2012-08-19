@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Java | My Octopress Blog]]></title>
   <link href="http://yoursite.com/blog/categories/java/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-08-19T14:05:15+08:00</updated>
+  <updated>2012-08-19T15:07:04+08:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,9 +18,7 @@
     <link href="http://yoursite.com/blog/2011/06/03/the-rise-and-fall-and-rise-of-java/"/>
     <updated>2011-06-03T18:21:37+08:00</updated>
     <id>http://yoursite.com/blog/2011/06/03/the-rise-and-fall-and-rise-of-java</id>
-    <content type="html"><![CDATA[<p><strong><a href="http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java">The Rise and Fall and Rise of Java</a></strong></p>
-
-<p>View more presentations from <a href="http://www.slideshare.net/sogrady">sogrady</a></p>
+    <content type="html"><![CDATA[<p><iframe src="http://www.slideshare.net/slideshow/embed_code/6890836" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java" title="The Rise and Fall and Rise of Java" target="_blank">The Rise and Fall and Rise of Java</a> </strong> from <strong><a href="http://www.slideshare.net/sogrady" target="_blank">sogrady</a></strong> </div></p>
 ]]></content>
   </entry>
   

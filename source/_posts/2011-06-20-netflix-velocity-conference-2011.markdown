@@ -11,8 +11,4 @@ categories:
 
 Great view into what it takes to run your website inside a cloud.
 
-
-
-**[Netflix Velocity Conference 2011](http://www.slideshare.net/adrianco/netflix-velocity-conference-2011)**
-
-View more [presentations](http://www.slideshare.net/) from [Adrian Cockcroft](http://www.slideshare.net/adrianco)
+{% oembed http://www.slideshare.net/adrianco/netflix-velocity-conference-2011 %}

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Business | My Octopress Blog]]></title>
   <link href="http://yoursite.com/blog/categories/business/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-08-19T14:05:15+08:00</updated>
+  <updated>2012-08-19T15:07:04+08:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -34,9 +34,9 @@
 
 <p>Here is the China network diagram from a <a href="http://www.cdnetworks.com/solutions/china-acceleration/">decent CDN</a> who truly understand China - show me another CDN that has that network in China? Akamai perhaps but they won't show.</p>
 
-<p><img src="http://www.samhamilton.co.uk/wp-content/uploads/2011/07/china_acceleration.jpg" alt="" /></p>
+<p><img src="/images/china_acceleration.jpg"></p>
 
-<p>One last thing to throw on the fire - Shanghai has plenty of <a href="http://www.samhamilton.co.uk/wp-content/uploads/2011/07/Equinix_Submarine_TGMap_MTS_15.pdf">submarine cables</a> and also China has Hong Kong one of the greatest gathering of submarine cables in the world, if they wanted international internet to work they could, the trouble is that they dont.</p>
+<p>One last thing to throw on the fire - Shanghai has plenty of <a href="/images/Equinix_Submarine_TGMap_MTS_15.pdf">submarine cables</a> and also China has Hong Kong one of the greatest gathering of submarine cables in the world, if they wanted international internet to work they could, the trouble is that they dont.</p>
 ]]></content>
   </entry>
   
@@ -45,9 +45,7 @@
     <link href="http://yoursite.com/blog/2011/07/06/data-driven-startups/"/>
     <updated>2011-07-06T21:29:22+08:00</updated>
     <id>http://yoursite.com/blog/2011/07/06/data-driven-startups</id>
-    <content type="html"><![CDATA[<p><strong><a href="http://www.slideshare.net/dcancel/data-drivenstartups">Data-Driven Startups</a></strong></p>
-
-<p>View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/dcancel">David Cancel</a></p>
+    <content type="html"><![CDATA[<p><iframe src="http://www.slideshare.net/slideshow/embed_code/4825914" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/dcancel/data-drivenstartups" title="Data-Driven Startups" target="_blank">Data-Driven Startups</a> </strong> from <strong><a href="http://www.slideshare.net/dcancel" target="_blank">David Cancel</a></strong> </div></p>
 ]]></content>
   </entry>
   
@@ -56,11 +54,7 @@
     <link href="http://yoursite.com/blog/2011/07/06/startup-metrics-for-pirates/"/>
     <updated>2011-07-06T21:28:27+08:00</updated>
     <id>http://yoursite.com/blog/2011/07/06/startup-metrics-for-pirates</id>
-    <content type="html"><![CDATA[<p><strong><a href="http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version">Startup Metrics for Pirates</a></strong></p>
-
-<p>{% oembed http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version %}</p>
-
-<p>View more presentations from <a href="http://www.slideshare.net/dmc500hats">Dave McClure</a></p>
+    <content type="html"><![CDATA[<p><iframe src="http://www.slideshare.net/slideshow/embed_code/89026" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version" title="Startup Metrics for Pirates" target="_blank">Startup Metrics for Pirates</a> </strong> from <strong><a href="http://www.slideshare.net/dmc500hats" target="_blank">Dave McClure</a></strong> </div></p>
 ]]></content>
   </entry>
   

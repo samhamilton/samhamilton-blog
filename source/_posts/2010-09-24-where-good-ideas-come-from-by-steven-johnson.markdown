@@ -11,4 +11,4 @@ categories:
 
 Don't ask why this video is super large - I am too jet lagged to fix it right now. Good video though - go to YouTube to watch it properly.
 
-
+{% oembed http://www.youtube.com/watch?v=NugRZGDbPFU %}

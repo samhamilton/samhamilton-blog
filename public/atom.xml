@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-08-19T14:04:56+08:00</updated>
+  <updated>2012-08-19T15:07:04+08:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -68,9 +68,9 @@ if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
 
 <p>Here is the China network diagram from a <a href="http://www.cdnetworks.com/solutions/china-acceleration/">decent CDN</a> who truly understand China - show me another CDN that has that network in China? Akamai perhaps but they won&#8217;t show.</p>
 
-<p><img src="http://www.samhamilton.co.uk/wp-content/uploads/2011/07/china_acceleration.jpg" alt="" /></p>
+<p><img src="http://yoursite.com/images/china_acceleration.jpg"></p>
 
-<p>One last thing to throw on the fire - Shanghai has plenty of <a href="http://www.samhamilton.co.uk/wp-content/uploads/2011/07/Equinix_Submarine_TGMap_MTS_15.pdf">submarine cables</a> and also China has Hong Kong one of the greatest gathering of submarine cables in the world, if they wanted international internet to work they could, the trouble is that they dont.</p>
+<p>One last thing to throw on the fire - Shanghai has plenty of <a href="http://yoursite.com/images/Equinix_Submarine_TGMap_MTS_15.pdf">submarine cables</a> and also China has Hong Kong one of the greatest gathering of submarine cables in the world, if they wanted international internet to work they could, the trouble is that they dont.</p>
 ]]></content>
   </entry>
   
@@ -79,9 +79,10 @@ if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
     <link href="http://yoursite.com/blog/2011/07/06/data-driven-startups/"/>
     <updated>2011-07-06T21:29:22+08:00</updated>
     <id>http://yoursite.com/blog/2011/07/06/data-driven-startups</id>
-    <content type="html"><![CDATA[<p><strong><a href="http://www.slideshare.net/dcancel/data-drivenstartups">Data-Driven Startups</a></strong></p>
+    <content type="html"><![CDATA[<iframe src="http://www.slideshare.net/slideshow/embed_code/4825914" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
 
-<p>View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/dcancel">David Cancel</a></p>
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/dcancel/data-drivenstartups" title="Data-Driven Startups" target="_blank">Data-Driven Startups</a> </strong> from <strong><a href="http://www.slideshare.net/dcancel" target="_blank">David Cancel</a></strong> </div></p>
 ]]></content>
   </entry>
   
@@ -90,14 +91,10 @@ if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
     <link href="http://yoursite.com/blog/2011/07/06/startup-metrics-for-pirates/"/>
     <updated>2011-07-06T21:28:27+08:00</updated>
     <id>http://yoursite.com/blog/2011/07/06/startup-metrics-for-pirates</id>
-    <content type="html"><![CDATA[<p><strong><a href="http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version">Startup Metrics for Pirates</a></strong></p>
-
-<iframe src="http://www.slideshare.net/slideshow/embed_code/89026" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
+    <content type="html"><![CDATA[<iframe src="http://www.slideshare.net/slideshow/embed_code/89026" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
 
 
 <p> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version" title="Startup Metrics for Pirates" target="_blank">Startup Metrics for Pirates</a> </strong> from <strong><a href="http://www.slideshare.net/dmc500hats" target="_blank">Dave McClure</a></strong> </div></p>
-
-<p>View more presentations from <a href="http://www.slideshare.net/dmc500hats">Dave McClure</a></p>
 ]]></content>
   </entry>
   
@@ -108,9 +105,10 @@ if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
     <id>http://yoursite.com/blog/2011/06/20/netflix-velocity-conference-2011</id>
     <content type="html"><![CDATA[<p>Great view into what it takes to run your website inside a cloud.</p>
 
-<p><strong><a href="http://www.slideshare.net/adrianco/netflix-velocity-conference-2011">Netflix Velocity Conference 2011</a></strong></p>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/8307969" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
 
-<p>View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/adrianco">Adrian Cockcroft</a></p>
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/adrianco/netflix-velocity-conference-2011" title="Netflix Velocity Conference 2011" target="_blank">Netflix Velocity Conference 2011</a> </strong> from <strong><a href="http://www.slideshare.net/adrianco" target="_blank">Adrian Cockcroft</a></strong> </div></p>
 ]]></content>
   </entry>
   
@@ -120,6 +118,9 @@ if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
     <updated>2011-06-11T17:59:51+08:00</updated>
     <id>http://yoursite.com/blog/2011/06/11/the-mobile-movement-understanding-smartphone-consumers</id>
     <content type="html"><![CDATA[<p>OK so this is really an add for Google but the stats before they start selling are what makes it interesting.</p>
+
+<iframe width="480" height="270" src="http://www.youtube.com/embed/CjUcq_E4I-s?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe>
+
 ]]></content>
   </entry>
   
@@ -137,9 +138,10 @@ if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
     <link href="http://yoursite.com/blog/2011/06/03/the-rise-and-fall-and-rise-of-java/"/>
     <updated>2011-06-03T18:21:37+08:00</updated>
     <id>http://yoursite.com/blog/2011/06/03/the-rise-and-fall-and-rise-of-java</id>
-    <content type="html"><![CDATA[<p><strong><a href="http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java">The Rise and Fall and Rise of Java</a></strong></p>
+    <content type="html"><![CDATA[<iframe src="http://www.slideshare.net/slideshow/embed_code/6890836" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
 
-<p>View more presentations from <a href="http://www.slideshare.net/sogrady">sogrady</a></p>
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java" title="The Rise and Fall and Rise of Java" target="_blank">The Rise and Fall and Rise of Java</a> </strong> from <strong><a href="http://www.slideshare.net/sogrady" target="_blank">sogrady</a></strong> </div></p>
 ]]></content>
   </entry>
   
@@ -175,9 +177,10 @@ if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
     <id>http://yoursite.com/blog/2011/05/31/amazon-the-hidden-empire</id>
     <content type="html"><![CDATA[<p>A comprehensive look at the business of Amazon.com</p>
 
-<p><strong><a href="http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire">Amazon.com: the Hidden Empire</a></strong></p>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/7928875" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
 
-<p>View more presentations from <a href="http://www.slideshare.net/faberNovel">faberNovel</a></p>
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire" title="Amazon.com: the Hidden Empire" target="_blank">Amazon.com: the Hidden Empire</a> </strong> from <strong><a href="http://www.slideshare.net/faberNovel" target="_blank">faberNovel</a></strong> </div></p>
 ]]></content>
   </entry>
   
@@ -195,29 +198,12 @@ if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Serious Skils]]></title>
-    <link href="http://yoursite.com/blog/2011/01/27/serious-skils/"/>
-    <updated>2011-01-27T19:23:39+08:00</updated>
-    <id>http://yoursite.com/blog/2011/01/27/serious-skils</id>
-    <content type="html"><![CDATA[<p>My good friend Peter pointed me in the direction of this video - what skills!</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Making the Chevrolet Volt in 1m 55s]]></title>
     <link href="http://yoursite.com/blog/2010/12/03/making-the-chevrolet-volt-in-1m-55s/"/>
     <updated>2010-12-03T01:30:01+08:00</updated>
     <id>http://yoursite.com/blog/2010/12/03/making-the-chevrolet-volt-in-1m-55s</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Just a few more days]]></title>
-    <link href="http://yoursite.com/blog/2010/10/24/just-a-few-more-days/"/>
-    <updated>2010-10-24T05:04:05+08:00</updated>
-    <id>http://yoursite.com/blog/2010/10/24/just-a-few-more-days</id>
-    <content type="html"><![CDATA[<p>Nearly time to upgrade again</p>
+    <content type="html"><![CDATA[<iframe width="480" height="270" src="http://www.youtube.com/embed/s3dZfvTLbBE?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe>
+
 ]]></content>
   </entry>
   
@@ -246,11 +232,8 @@ if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
     <id>http://yoursite.com/blog/2010/10/10/how-to-run-banks</id>
     <content type="html"><![CDATA[<p>I just read this interesting piece on the New York Times website where due to the change in how the companies that work on Wall Street have changed their corporate structure has had massive effects on how they work but the bit that really stuck out was</p>
 
-<blockquote><p>When Goldman went public in 1999, unlike other firms it decided that a group of its 400 or so top executives would get paid not out of the firm’s revenues, but instead from the firm’s pretax profits. If the firm has no pretax profits in any given year, these executives get (only) their six-figure salaries, not the tens of millions in bonuses they count on.</p></blockquote>
+<blockquote><p>When Goldman went public in 1999, unlike other firms it decided that a group of its 400 or so top executives would get paid not out of the firm’s revenues, but instead from the firm’s pretax profits. If the firm has no pretax profits in any given year, these executives get (only) their six-figure salaries, not the tens of millions in bonuses they count on.</p><p>As a result, the senior brass at Goldman is hyperfocused on making sure the firm is always profitable, and it always has been. This may very well be the precise reason that Goldman alone saw the brewing mortgage meltdown and did something about it.</p><p>When other firms were losing billions of dollars in 2007 as the mortgage market exploded, Goldman made $17.6 billion in pretax profits, one of its most profitable years ever, and its top three executives split around $200 million. You would think the rest of Wall Street would emulate Goldman’s approach to compensating its top executives. But it hasn’t.</p></blockquote>
 
-<p>As a result, the senior brass at Goldman is hyperfocused on making sure the firm is always profitable, and it always has been. This may very well be the precise reason that Goldman alone saw the brewing mortgage meltdown and did something about it.</p>
-
-<p>When other firms were losing billions of dollars in 2007 as the mortgage market exploded, Goldman made $17.6 billion in pretax profits, one of its most profitable years ever, and its top three executives split around $200 million. You would think the rest of Wall Street would emulate Goldman’s approach to compensating its top executives. But it hasn’t.</p>
 
 <p>It a good read if you have 10 mins - <a href="http://opinionator.blogs.nytimes.com/2010/10/07/make-wall-street-risk-it-all/">Opinionator: Make Wall Street Risk It All</a></p>
 ]]></content>
@@ -263,7 +246,7 @@ if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
     <id>http://yoursite.com/blog/2010/10/07/a-new-week</id>
     <content type="html"><![CDATA[<p>So the last day in September was my last day working for my employeer - enough said.</p>
 
-<p>So today after a weeks rest I begin my next journey, one that has been calling me for oh&#8230;14 years or so. I am going to start a webhosting company. Yep I know I am mad, everyone and their bother is doing it, already done it, already got the biggest and best company in the world. Yep I know, don&#8217;t care because I want one too - I want to know if I can make a living out of probably one of the toughest parts of the internet.</p>
+<p>So today after a weeks rest I begin my next journey, one that has been calling me for oh&#8230;14 years or so. I am going to start a webhosting company. Yep I know I am mad, everyone and their brother is doing it, already done it, already got the biggest and best company in the world. Yep I know, don&#8217;t care because I want one too - I want to know if I can make a living out of probably one of the toughest parts of the internet.</p>
 
 <p>Now some people I have spoken to have said I need a niche, well I am not so sure that I do. I think that webhosting companies should not specialise in what they do except they should host the web - think about that for a second what does that mean, what does that take? Its a lot of things and different things all at the same time. They should not think that people or companies are all the same - everyone is different and they should not try and offer the same experience to everyone either as that is not going to fit. The trouble is that getting to this place where my hosting company can do all the things it should do for its customers is going to take time, lots of time. Why? Because only some of this exists and the rest needs to be created but today I am going to start out with something that really does not fit everyone and just get somewhere to prove that I can 1. do this myself and 2. it can earn enough money that I don&#8217;t need to get a job while it grows (that would be super boring!)</p>
 
@@ -277,6 +260,35 @@ if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
     <updated>2010-09-24T21:27:28+08:00</updated>
     <id>http://yoursite.com/blog/2010/09/24/where-good-ideas-come-from-by-steven-johnson</id>
     <content type="html"><![CDATA[<p>Don&#8217;t ask why this video is super large - I am too jet lagged to fix it right now. Good video though - go to YouTube to watch it properly.</p>
+
+<iframe width="480" height="270" src="http://www.youtube.com/embed/NugRZGDbPFU?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Enabling SSL in ProFTPD]]></title>
+    <link href="http://yoursite.com/blog/2010/09/14/enabling-ssl-in-proftpd/"/>
+    <updated>2010-09-14T05:27:07+08:00</updated>
+    <id>http://yoursite.com/blog/2010/09/14/enabling-ssl-in-proftpd</id>
+    <content type="html"><![CDATA[<p>If you need to enable SSL in ProFTPD, try this out:</p>
+
+<p><code>&lt;IfModule mod_tls.c&gt;
+TLSEngine on
+TLSRequired off
+TLSRSACertificateFile /etc/httpd/conf/ssl.crt/server.crt
+TLSRSACertificateKeyFile /etc/httpd/conf/ssl.key/server.key
+TLSVerifyClient off
+&lt;/IfModule&gt;</code></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Stats About Pharmaceutical Companies]]></title>
+    <link href="http://yoursite.com/blog/2010/07/01/the-stats-about-pharmaceutical-companies/"/>
+    <updated>2010-07-01T03:52:45+08:00</updated>
+    <id>http://yoursite.com/blog/2010/07/01/the-stats-about-pharmaceutical-companies</id>
+    <content type="html"><![CDATA[<p><a href="http://www.myconfinedspace.com/2010/06/30/the-stats-about-pharmaceutical-companies/pharma-jpg/">Great infographic</a> about the stupid prices we pay for drugs</p>
 ]]></content>
   </entry>
   

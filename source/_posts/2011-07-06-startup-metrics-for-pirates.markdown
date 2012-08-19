@@ -9,8 +9,4 @@ categories:
 - Business
 ---
 
-**[Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)**
-
 {% oembed http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version %}
-
-View more presentations from [Dave McClure](http://www.slideshare.net/dmc500hats)

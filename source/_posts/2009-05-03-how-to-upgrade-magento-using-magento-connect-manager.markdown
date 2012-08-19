@@ -11,4 +11,4 @@ categories:
 
 This is a real quick post - if you want to upgrade Magento using the Connect Manager simply enter the following into the extention key box:
 
-magento-core/Mage_All_Latest
+`magento-core/Mage_All_Latest`

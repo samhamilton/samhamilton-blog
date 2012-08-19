@@ -4,7 +4,7 @@
   <title><![CDATA[Category: News | My Octopress Blog]]></title>
   <link href="http://yoursite.com/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-08-19T14:05:15+08:00</updated>
+  <updated>2012-08-19T15:07:04+08:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -19,6 +19,8 @@
     <updated>2009-06-04T22:00:12+08:00</updated>
     <id>http://yoursite.com/blog/2009/06/04/is-this-thing-really-going-to-work</id>
     <content type="html"><![CDATA[<p>watch this video and then tell me if anyone is going to get the type of experience that you just saw. Cant wait for real world experience review.</p>
+
+<p><a href="http://www.youtube.com/watch?v=oACt9R9z37U&amp;feature=player_embedded">http://www.youtube.com/watch?v=oACt9R9z37U&amp;feature=player_embedded</a></p>
 ]]></content>
   </entry>
   

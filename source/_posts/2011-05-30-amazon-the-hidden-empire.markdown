@@ -12,7 +12,4 @@ categories:
 
 A comprehensive look at the business of Amazon.com
 
-
-**[Amazon.com: the Hidden Empire](http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire)**
-
-View more presentations from [faberNovel](http://www.slideshare.net/faberNovel)
+{% oembed http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire %}

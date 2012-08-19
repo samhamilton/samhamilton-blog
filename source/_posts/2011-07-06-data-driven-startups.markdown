@@ -9,6 +9,4 @@ categories:
 - Business
 ---
 
-**[Data-Driven Startups](http://www.slideshare.net/dcancel/data-drivenstartups)**
-
-View more [presentations](http://www.slideshare.net/) from [David Cancel](http://www.slideshare.net/dcancel)
+{% oembed http://www.slideshare.net/dcancel/data-drivenstartups %}
