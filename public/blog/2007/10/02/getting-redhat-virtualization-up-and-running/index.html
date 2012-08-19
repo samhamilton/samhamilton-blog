@@ -1,0 +1,168 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Getting Redhat Virtualization Up and Running - My Octopress Blog</title>
+	<meta name="author" content="Your Name">
+
+	
+	<meta name="description" content="So today I started the companies migration to Linux - Redhat EL 5 Linux to be exact from our entirely Microsoft based systems into a 99% Linux run IT &hellip;">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+	<link rel="canonical" href="">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	
+</head>
+
+<body>
+	<header id="header" class="inner"><h1><a href="/">My Octopress Blog</a></h1>
+<nav id="main-nav"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</nav>
+<nav id="mobile-nav">
+	<div class="alignleft menu">
+		<a class="button">Menu</a>
+		<div class="container"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</div>
+	</div>
+	<div class="alignright search">
+		<a class="button"></a>
+		<div class="container">
+			<form action="http://google.com/search" method="get">
+				<input type="text" name="q" results="0">
+				<input type="hidden" name="q" value="site:yoursite.com">
+			</form>
+		</div>
+	</div>
+</nav>
+<nav id="sub-nav" class="alignright">
+	<div class="social">
+		
+		
+		
+		
+		
+		
+		
+		
+		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
+		
+	</div>
+	<form class="search" action="http://google.com/search" method="get">
+		<input class="alignright" type="text" name="q" results="0">
+		<input type="hidden" name="q" value="site:yoursite.com">
+	</form>
+</nav>
+
+</header>
+	
+		
+	
+	<div id="content" class="inner"><article class="post">
+	<h1 class="title">Getting Redhat Virtualization Up and Running</h1>
+	<div class="entry-content"><p>So today I started the companies migration to Linux - Redhat EL 5 Linux to be exact from our entirely Microsoft based systems into a 99% Linux run IT system.</p>
+
+<p>Heres the plan:</p>
+
+<ol>
+<li><p>Servers all Redhat</p></li>
+<li><p>Desktops 99% Ubuntu - Accounting needs Windows for internet banking :-(</p></li>
+<li><p>All networking Cisco</p></li>
+</ol>
+
+
+<p>Why RHEL5 - well because it offers commercial support of virtualization and great support of HP server hardware out the box. Basically it just needs to work &amp; work properly. I feel that I can get the best of all these with Redhat.</p>
+
+<p>For the desktops Ubuntu simply because its a quick install, minimal software in-fact its almost perfect for a company desktop PC.</p>
+
+<p>So where to start - well first I need to setup one of the Redhat servers with virtualization.</p>
+
+<p>After reading the Fedora wiki and then the first thing to do is copy the install media to the hard drive and share via NFS - I dont like NFS so install I opt for the HTTP installed option and copy everything (excluding CD6) on to my MacBook Pro and setup a web server.</p>
+
+<p>After everything is copied over then time to run the install wizard</p>
+
+<p>on the RedHat machine run the command</p>
+
+<p>virt-install</p>
+
+<p>This starts a very simple and easy to follow wizard that will baby you through the whole installation process.</p>
+
+<p>Reading:</p>
+
+<ul>
+<li><p><a href="http://tldp.org/HOWTO/NFS-HOWTO/">NFS Howto</a></p></li>
+<li><p><a href="http://fedoraproject.org/wiki/FedoraXenQuickstartFC6">Fedora Wiki about Xen</a></p></li>
+</ul>
+
+</div>
+
+
+<div class="meta">
+	<div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-10-02T22:32:29+08:00" pubdate data-updated="true">Oct 2<span>nd</span>, 2007</time></div>
+	<div class="tags">
+
+
+	<a class='category' href='/blog/categories/linux-apple/'>Linux / Apple</a>
+
+
+</div>
+	
+</div></article>
+
+	<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
+	
+	
+	<a class="addthis_button_tweet"></a>
+	
+	
+	<a class="addthis_counter addthis_pill_style"></a>
+	</div>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
+</div>
+
+
+</div>
+	<footer id="footer" class="inner">Copyright &copy; 2012
+
+    Your Name
+
+</footer>
+	<script src="/javascripts/slash.js"></script>
+<script src="/javascripts/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+	$('.fancybox').fancybox();
+})(jQuery);
+</script> <!-- Delete or comment this line to disable Fancybox -->
+
+
+
+
+
+
+</body>
+</html>

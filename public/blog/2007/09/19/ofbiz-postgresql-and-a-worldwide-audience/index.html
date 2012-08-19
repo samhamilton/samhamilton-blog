@@ -1,0 +1,149 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>OFBiz, PostgreSQL and a worldwide audience - My Octopress Blog</title>
+	<meta name="author" content="Your Name">
+
+	
+	<meta name="description" content="So we were starting to talk to Netsuite about replacing our systems with theirs, I have to admit I do like the idea of one complete system from one &hellip;">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+	<link rel="canonical" href="">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	
+</head>
+
+<body>
+	<header id="header" class="inner"><h1><a href="/">My Octopress Blog</a></h1>
+<nav id="main-nav"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</nav>
+<nav id="mobile-nav">
+	<div class="alignleft menu">
+		<a class="button">Menu</a>
+		<div class="container"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</div>
+	</div>
+	<div class="alignright search">
+		<a class="button"></a>
+		<div class="container">
+			<form action="http://google.com/search" method="get">
+				<input type="text" name="q" results="0">
+				<input type="hidden" name="q" value="site:yoursite.com">
+			</form>
+		</div>
+	</div>
+</nav>
+<nav id="sub-nav" class="alignright">
+	<div class="social">
+		
+		
+		
+		
+		
+		
+		
+		
+		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
+		
+	</div>
+	<form class="search" action="http://google.com/search" method="get">
+		<input class="alignright" type="text" name="q" results="0">
+		<input type="hidden" name="q" value="site:yoursite.com">
+	</form>
+</nav>
+
+</header>
+	
+		
+	
+	<div id="content" class="inner"><article class="post">
+	<h1 class="title">OFBiz, PostgreSQL and a Worldwide Audience</h1>
+	<div class="entry-content"><p>So we were starting to talk to <a href="http://www.netsuite.com">Netsuite</a> about replacing our systems with theirs, I have to admit I do like the idea of one complete system from one person. It was just before they were going public so they wanted all the business they could muster and we had a &#8220;good&#8221; price until we got into extra storage space. I mean what does 1GB of storage space cost these days even if you do run <a href="http://www.oracle.com">Oracle</a> databases like they do to at Netsuite. Well it just made the whole deal crazy the scale out plans made the deal practically blow up and this is with me supporting the integrated system totally and really thinking about the cost savings, it just no longer made sense.</p>
+
+<p>Well fortunate as luck would have it we bumped into someone using OFBiz to run their warehouse here in China. To cut a long story short we then started working out how we could use it including getting me up to speed on Java which is a technology I have never touched. The fun begins we hire our first developer, we think which databases to use and we work out if this thing scales.</p>
+
+<p>The database is an easy choice after a short amount of reading, <a href="http://www.postgresql.org">postgreSQL</a> is a clear winner - why? Well really it comes down to data integrity. We are not building a social media site so really we are not going to end up with huge amounts of database writes after all, instead we are going to end up (in a few short years) with TB&#8217;s of data.</p>
+
+<p>The interesting part of the mix is that we need to have multiple database sites which include USA, UK, Hong Kong and China. The USA, UK and HK sites will be the ecommerce backbones and then also China as we need to ship the goods - the packing stations in the warehouse get PDF files of the address which can be quite large so a local server there keeps the speed and productivity up.</p>
+
+<p>Let me explain why three data centeres - first you always have a primary data centre so for us this will be Hong Kong as this is physically closest to Shanghai so for any internal tool this need to be as fast as possible. We build out tools such as <a href="http://www.alfresco.com">Alfresco</a> and <a href="http://www.jivesoftware.com/products/clearspace">Clearspace</a> in Hong Kong plus also a copy of OFBiz as all the customer and order information is inside, this node can also provide service to any Asian ecommerce customers.</p>
+
+<p>The US and UK sites are the main points of ecommerce so these sites primary function is to host anything customer facing and provide services using <a href="http://www.cisco.com/warp/public/117/css_glb_sticky.html">global load balancing</a> to ensure that each customer is getting just about the fastest response from our servers.</p>
+
+<p>Having customers in 9+ primary and 50+ secondary countries really makes delivering a great experiance to them all hard.</p>
+
+<p>Thats all for now - lets see how this gets on.</p>
+</div>
+
+
+<div class="meta">
+	<div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2007-09-19T17:39:31+08:00" pubdate data-updated="true">Sep 19<span>th</span>, 2007</time></div>
+	<div class="tags">
+
+
+	<a class='category' href='/blog/categories/work/'>Work</a>
+
+
+</div>
+	
+</div></article>
+
+	<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
+	
+	
+	<a class="addthis_button_tweet"></a>
+	
+	
+	<a class="addthis_counter addthis_pill_style"></a>
+	</div>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
+</div>
+
+
+</div>
+	<footer id="footer" class="inner">Copyright &copy; 2012
+
+    Your Name
+
+</footer>
+	<script src="/javascripts/slash.js"></script>
+<script src="/javascripts/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+	$('.fancybox').fancybox();
+})(jQuery);
+</script> <!-- Delete or comment this line to disable Fancybox -->
+
+
+
+
+
+
+</body>
+</html>

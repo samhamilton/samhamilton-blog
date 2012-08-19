@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2012-08-19T14:04:56+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Internet Speed]]></title>
+    <link href="http://yoursite.com/blog/2011/11/12/internet-speed/"/>
+    <updated>2011-11-12T18:30:18+08:00</updated>
+    <id>http://yoursite.com/blog/2011/11/12/internet-speed</id>
+    <content type="html"><![CDATA[<p>Well the internet speed in Hangzhou is much better than Shanghai. I am paying the same amount of money as in Shanghai but getting a better connection!</p>
+
+<p><img src="http://www.speedtest.net/result/1587255700.png" alt="" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Small Script to Remove a List of Directories]]></title>
+    <link href="http://yoursite.com/blog/2011/09/23/small-script-to-remove-a-list-of-directories/"/>
+    <updated>2011-09-23T04:13:38+08:00</updated>
+    <id>http://yoursite.com/blog/2011/09/23/small-script-to-remove-a-list-of-directories</id>
+    <content type="html"><![CDATA[<p><code>cat list-of-directories.txt|while read f; do
+if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
+
+<p>thanks <a href="http://www.linuxquestions.org/questions/programming-9/scripting-problem-rm-filelist-460910/#post2320128">unSpawn</a>!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Amazing Himalayas Photos]]></title>
+    <link href="http://yoursite.com/blog/2011/09/21/amazing-himalayas-photos/"/>
+    <updated>2011-09-21T23:39:01+08:00</updated>
+    <id>http://yoursite.com/blog/2011/09/21/amazing-himalayas-photos</id>
+    <content type="html"><![CDATA[<p>Just ran across this guys <a href="http://www.flickr.com/photos/jankovoy/sets/72157627338647869/with/6048498636/">photos from the Himalayas</a></p>
+
+<p><a href="http://www.flickr.com/photos/jankovoy/6048498636/"><img src="http://farm7.static.flickr.com/6195/6048498636_e5d6986d4c_z.jpg" alt="NILGIRI SOUTH (6839 m)" /></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Crappy Internet]]></title>
+    <link href="http://yoursite.com/blog/2011/07/25/crappy-internet/"/>
+    <updated>2011-07-25T20:51:33+08:00</updated>
+    <id>http://yoursite.com/blog/2011/07/25/crappy-internet</id>
+    <content type="html"><![CDATA[<p>Alex, a good friend of mine here in Shanghai, recently vented his <a href="http://alex-duncan.co.uk/i-spend-3-weeks-a-year-waiting-for-websites-to-load-2011-07-23.html">frustration about working and living in China</a> when your work relies on a good quality internet connection and I can&#8217;t agree more.</p>
+
+<p>For the last couple of weeks Google has been once again targeted by the censors but in a truly frustrating way, you can search for something and get back the first page of results (most of the time) but then if you refine your search or do another search straight after the great firewall blocks Google and you end up with an error page. I am very ashamed to say that I have had to resort to using Bing to find some things over the past couple of weeks but the Bing results are just of a poorer quality which then frustrates me even more as I know Google would have found what I was looking for after a couple of refinements.</p>
+
+<p>There are a couple of points where our view diverge:</p>
+
+<p>He brings up the point that a US company will need good internet to the USA to use their tools (ERP, CRM etc etc) but this is not what the majority of the companies who are here need to use, the government regulations have restricted the truely massive corporations coming into China in one way or another and so far the largest companies in China probably are mostly Chinese in origin and probably most of them are government owned.</p>
+
+<p>Alex ponders if bad internet will have a knock on economic effect and I think it will but not in the way that he expects. Instead of China becoming the next India where you can outsource your &#8220;services&#8221;, bad international internet will localise people and already has, just look at the Chinese Twitter and Facebook clones. China will become more introverted and that is a bad thing because a country so large and a people so proud should be sharing with the rest of the world not looking inwards.</p>
+
+<p>What you have to remember is that local internet, i.e. internet within China is OK - you can perfectly stream videos, watch tv, search the internet, tweet on the local twitter clone and not hit a single problem. I have had 2M internet for nearly seven years and ok the upgrade to 10M+ is well overdue if you compare internet speeds to Hong Kong, Korea or even the UK but compared to the USA it seems just about on a par.</p>
+
+<p>Companies who want to expand into China need to remember that China is almost like a sparate zone of the internet where the normal rule dont apply, sticking a CDN box in Hong Kong does not mean people in Shanghai or Beijing will have good speeds even if the normal rules about proximity would mean that it would. If you truly want fast local access to your services in China then get a CDN with local Chinese nodes and no Hong Kong does not count.</p>
+
+<p>Here is the China network diagram from a <a href="http://www.cdnetworks.com/solutions/china-acceleration/">decent CDN</a> who truly understand China - show me another CDN that has that network in China? Akamai perhaps but they won&#8217;t show.</p>
+
+<p><img src="http://www.samhamilton.co.uk/wp-content/uploads/2011/07/china_acceleration.jpg" alt="" /></p>
+
+<p>One last thing to throw on the fire - Shanghai has plenty of <a href="http://www.samhamilton.co.uk/wp-content/uploads/2011/07/Equinix_Submarine_TGMap_MTS_15.pdf">submarine cables</a> and also China has Hong Kong one of the greatest gathering of submarine cables in the world, if they wanted international internet to work they could, the trouble is that they dont.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Data-Driven Startups]]></title>
+    <link href="http://yoursite.com/blog/2011/07/06/data-driven-startups/"/>
+    <updated>2011-07-06T21:29:22+08:00</updated>
+    <id>http://yoursite.com/blog/2011/07/06/data-driven-startups</id>
+    <content type="html"><![CDATA[<p><strong><a href="http://www.slideshare.net/dcancel/data-drivenstartups">Data-Driven Startups</a></strong></p>
+
+<p>View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/dcancel">David Cancel</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Startup Metrics for Pirates]]></title>
+    <link href="http://yoursite.com/blog/2011/07/06/startup-metrics-for-pirates/"/>
+    <updated>2011-07-06T21:28:27+08:00</updated>
+    <id>http://yoursite.com/blog/2011/07/06/startup-metrics-for-pirates</id>
+    <content type="html"><![CDATA[<p><strong><a href="http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version">Startup Metrics for Pirates</a></strong></p>
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/89026" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
+
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version" title="Startup Metrics for Pirates" target="_blank">Startup Metrics for Pirates</a> </strong> from <strong><a href="http://www.slideshare.net/dmc500hats" target="_blank">Dave McClure</a></strong> </div></p>
+
+<p>View more presentations from <a href="http://www.slideshare.net/dmc500hats">Dave McClure</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Netflix Velocity Conference 2011]]></title>
+    <link href="http://yoursite.com/blog/2011/06/20/netflix-velocity-conference-2011/"/>
+    <updated>2011-06-20T17:56:55+08:00</updated>
+    <id>http://yoursite.com/blog/2011/06/20/netflix-velocity-conference-2011</id>
+    <content type="html"><![CDATA[<p>Great view into what it takes to run your website inside a cloud.</p>
+
+<p><strong><a href="http://www.slideshare.net/adrianco/netflix-velocity-conference-2011">Netflix Velocity Conference 2011</a></strong></p>
+
+<p>View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/adrianco">Adrian Cockcroft</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Mobile Movement: Understanding Smartphone Consumers]]></title>
+    <link href="http://yoursite.com/blog/2011/06/11/the-mobile-movement-understanding-smartphone-consumers/"/>
+    <updated>2011-06-11T17:59:51+08:00</updated>
+    <id>http://yoursite.com/blog/2011/06/11/the-mobile-movement-understanding-smartphone-consumers</id>
+    <content type="html"><![CDATA[<p>OK so this is really an add for Google but the stats before they start selling are what makes it interesting.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Windows 8 is a Mac copy]]></title>
+    <link href="http://yoursite.com/blog/2011/06/03/windows-8-is-a-mac-copy/"/>
+    <updated>2011-06-03T18:34:42+08:00</updated>
+    <id>http://yoursite.com/blog/2011/06/03/windows-8-is-a-mac-copy</id>
+    <content type="html"><![CDATA[<p>None</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Rise and Fall and Rise of Java]]></title>
+    <link href="http://yoursite.com/blog/2011/06/03/the-rise-and-fall-and-rise-of-java/"/>
+    <updated>2011-06-03T18:21:37+08:00</updated>
+    <id>http://yoursite.com/blog/2011/06/03/the-rise-and-fall-and-rise-of-java</id>
+    <content type="html"><![CDATA[<p><strong><a href="http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java">The Rise and Fall and Rise of Java</a></strong></p>
+
+<p>View more presentations from <a href="http://www.slideshare.net/sogrady">sogrady</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Moving to Ubuntu, Saying goodbye to CentOS/Redhat]]></title>
+    <link href="http://yoursite.com/blog/2011/05/31/moving-to-ubuntu-saying-goodbye-to-centosredhat/"/>
+    <updated>2011-05-31T22:51:38+08:00</updated>
+    <id>http://yoursite.com/blog/2011/05/31/moving-to-ubuntu-saying-goodbye-to-centosredhat</id>
+    <content type="html"><![CDATA[<p>I have been a fan of Redhat for a very long time I bought my first copy of Redhat back in 1997 - it was in a boxset, I kept it for years even after I upgraded! Redhat has been stable and reliable (well ok, most of the time) - just what you need for a server distribution but this month marks the first time I cheat on Redhat by installing a copy of Ubuntu on one of my production servers.</p>
+
+<p>In the beginning when I first had company production machines we also used Redhat because a couple of hundred dollars a year for support for one box seemed reasonable. Then as less and less things broke and we as sysadmins grew and learned what was needed to fix things that couple hundred dollars seems more and more expensive. Our collection of servers grew and we started switching over to CentOS as the support contracts ran out.  At the same time we also became a customer of Rackspace and we used Redhat 5 on the servers because well it was &#8220;free&#8221; with each server and it complimented the existing Redhat/CentOS we had in the office.</p>
+
+<p>We were happy with our lot - things were at peace, CentOS boxes got point upgrades fairly quickly but it never really mattered too much they were not facing the outside world or targets of external hacks.</p>
+
+<p>After leaving my last company I started out with my own hardware which I bought and put into a datacenter in the UK. I stuck CentOS on it and things again were all good. Then Redhat released 5.6 and CentOS started working on the upgrade and they kept working and working and working. Then Redhat started patching security holes but still no upgrade came from CentOS.</p>
+
+<p>For a long time using CentOS was a pleasure but now after sitting with a bunch of unpatched servers that were targets of hacking attempts for several months while they work out the upgrade process to 5.6 left me with a very bitter taste in my mouth. While I totally understand that they cant change the OS they are building, that defeats the point of binary compatibility with Redhat, the amount of time that it took to get a dot point release upgrade was just too long. Think about how many web hosting companies were sitting there with unpatched servers waiting for the upgrade - scary!</p>
+
+<p>I toyed with the idea of moving to Fedora but they dont officially support a yum version upgrade route and physically upgrading all the physical machines from media is crazy, so instead Ubuntu jumped to my mind. Its has been on the up for the last few years and more projects seem to be using it as a starting point for releasing software.</p>
+
+<p>Ubuntu ticks all the right boxes, it has a free server version, apt based version upgrades and paid support if I ever really need it. I have had the server now online for 2 weeks and things have been rather smooth, everything works as expected. Some config files are in a different location but thats no biggie and the system is getting regular security updates.</p>
+
+<p>The only negative I have with Ubuntu is that PostgreSQL 9 is not in the default distribution even though they have had it out for a couple of Ubuntu releases now, but if that is all I have to gripe about then things are defiantly ok.</p>
+
+<p>Somehow I think CentOS is going to keep having an uphill battle to keep up with Redhat who seem intent to try and disrupt other companies making a buck off their software like Oracle and even though they have the best of intentions I now don&#8217;t think that CentOS is the distro of choice for a internet facing server, sad times.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Amazon: The Hidden Empire]]></title>
+    <link href="http://yoursite.com/blog/2011/05/31/amazon-the-hidden-empire/"/>
+    <updated>2011-05-31T00:21:06+08:00</updated>
+    <id>http://yoursite.com/blog/2011/05/31/amazon-the-hidden-empire</id>
+    <content type="html"><![CDATA[<p>A comprehensive look at the business of Amazon.com</p>
+
+<p><strong><a href="http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire">Amazon.com: the Hidden Empire</a></strong></p>
+
+<p>View more presentations from <a href="http://www.slideshare.net/faberNovel">faberNovel</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[World Petrol Prices]]></title>
+    <link href="http://yoursite.com/blog/2011/05/28/world-petrol-prices/"/>
+    <updated>2011-05-28T17:54:12+08:00</updated>
+    <id>http://yoursite.com/blog/2011/05/28/world-petrol-prices</id>
+    <content type="html"><![CDATA[<p>Click the image if to play with a interactive version</p>
+
+<p><a href="http://www.staveleyhead.co.uk/utilities/petrol-prices/"><img src="http://www.staveleyhead.co.uk/utilities/petrol-prices/img/petrol-prices-480x326.jpg" alt="How do UK petrol prices compare with other countries?" /></a></p>
+
+<p>Infographic by <a href="http://www.staveleyhead.co.uk">Staveley Head</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Serious Skils]]></title>
+    <link href="http://yoursite.com/blog/2011/01/27/serious-skils/"/>
+    <updated>2011-01-27T19:23:39+08:00</updated>
+    <id>http://yoursite.com/blog/2011/01/27/serious-skils</id>
+    <content type="html"><![CDATA[<p>My good friend Peter pointed me in the direction of this video - what skills!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Making the Chevrolet Volt in 1m 55s]]></title>
+    <link href="http://yoursite.com/blog/2010/12/03/making-the-chevrolet-volt-in-1m-55s/"/>
+    <updated>2010-12-03T01:30:01+08:00</updated>
+    <id>http://yoursite.com/blog/2010/12/03/making-the-chevrolet-volt-in-1m-55s</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Just a few more days]]></title>
+    <link href="http://yoursite.com/blog/2010/10/24/just-a-few-more-days/"/>
+    <updated>2010-10-24T05:04:05+08:00</updated>
+    <id>http://yoursite.com/blog/2010/10/24/just-a-few-more-days</id>
+    <content type="html"><![CDATA[<p>Nearly time to upgrade again</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Editing your hosts file on a Mac]]></title>
+    <link href="http://yoursite.com/blog/2010/10/20/editing-your-hosts-file-on-a-mac/"/>
+    <updated>2010-10-20T00:02:40+08:00</updated>
+    <id>http://yoursite.com/blog/2010/10/20/editing-your-hosts-file-on-a-mac</id>
+    <content type="html"><![CDATA[<p>Found a new way to edit my hosts file while normally I would use vi this means that I can use TextEdit which sometimes is easier.</p>
+
+<p>Open the Terminal:
+<code>Applications &gt; Utilities &gt; Terminial</code></p>
+
+<p>Type the following and hit enter:
+<code>sudo open -e /etc/hosts</code></p>
+
+<p>Or if you fancy vi then:
+<code>sudo vi /etc/hosts</code></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How to run Banks]]></title>
+    <link href="http://yoursite.com/blog/2010/10/10/how-to-run-banks/"/>
+    <updated>2010-10-10T20:11:28+08:00</updated>
+    <id>http://yoursite.com/blog/2010/10/10/how-to-run-banks</id>
+    <content type="html"><![CDATA[<p>I just read this interesting piece on the New York Times website where due to the change in how the companies that work on Wall Street have changed their corporate structure has had massive effects on how they work but the bit that really stuck out was</p>
+
+<blockquote><p>When Goldman went public in 1999, unlike other firms it decided that a group of its 400 or so top executives would get paid not out of the firm’s revenues, but instead from the firm’s pretax profits. If the firm has no pretax profits in any given year, these executives get (only) their six-figure salaries, not the tens of millions in bonuses they count on.</p></blockquote>
+
+<p>As a result, the senior brass at Goldman is hyperfocused on making sure the firm is always profitable, and it always has been. This may very well be the precise reason that Goldman alone saw the brewing mortgage meltdown and did something about it.</p>
+
+<p>When other firms were losing billions of dollars in 2007 as the mortgage market exploded, Goldman made $17.6 billion in pretax profits, one of its most profitable years ever, and its top three executives split around $200 million. You would think the rest of Wall Street would emulate Goldman’s approach to compensating its top executives. But it hasn’t.</p>
+
+<p>It a good read if you have 10 mins - <a href="http://opinionator.blogs.nytimes.com/2010/10/07/make-wall-street-risk-it-all/">Opinionator: Make Wall Street Risk It All</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A New Week]]></title>
+    <link href="http://yoursite.com/blog/2010/10/07/a-new-week/"/>
+    <updated>2010-10-07T08:31:56+08:00</updated>
+    <id>http://yoursite.com/blog/2010/10/07/a-new-week</id>
+    <content type="html"><![CDATA[<p>So the last day in September was my last day working for my employeer - enough said.</p>
+
+<p>So today after a weeks rest I begin my next journey, one that has been calling me for oh&#8230;14 years or so. I am going to start a webhosting company. Yep I know I am mad, everyone and their bother is doing it, already done it, already got the biggest and best company in the world. Yep I know, don&#8217;t care because I want one too - I want to know if I can make a living out of probably one of the toughest parts of the internet.</p>
+
+<p>Now some people I have spoken to have said I need a niche, well I am not so sure that I do. I think that webhosting companies should not specialise in what they do except they should host the web - think about that for a second what does that mean, what does that take? Its a lot of things and different things all at the same time. They should not think that people or companies are all the same - everyone is different and they should not try and offer the same experience to everyone either as that is not going to fit. The trouble is that getting to this place where my hosting company can do all the things it should do for its customers is going to take time, lots of time. Why? Because only some of this exists and the rest needs to be created but today I am going to start out with something that really does not fit everyone and just get somewhere to prove that I can 1. do this myself and 2. it can earn enough money that I don&#8217;t need to get a job while it grows (that would be super boring!)</p>
+
+<p>Hardware bought, datacenter picked, operating system chosen, hosting software purchased - time to pull it all together.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Where Good Ideas Come From by Steven Johnson]]></title>
+    <link href="http://yoursite.com/blog/2010/09/24/where-good-ideas-come-from-by-steven-johnson/"/>
+    <updated>2010-09-24T21:27:28+08:00</updated>
+    <id>http://yoursite.com/blog/2010/09/24/where-good-ideas-come-from-by-steven-johnson</id>
+    <content type="html"><![CDATA[<p>Don&#8217;t ask why this video is super large - I am too jet lagged to fix it right now. Good video though - go to YouTube to watch it properly.</p>
+]]></content>
+  </entry>
+  
+</feed>

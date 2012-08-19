@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Marketing | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/marketing/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2012-08-19T14:05:15+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Mobile Movement: Understanding Smartphone Consumers]]></title>
+    <link href="http://yoursite.com/blog/2011/06/11/the-mobile-movement-understanding-smartphone-consumers/"/>
+    <updated>2011-06-11T17:59:51+08:00</updated>
+    <id>http://yoursite.com/blog/2011/06/11/the-mobile-movement-understanding-smartphone-consumers</id>
+    <content type="html"><![CDATA[<p>OK so this is really an add for Google but the stats before they start selling are what makes it interesting.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Social Media in the Office]]></title>
+    <link href="http://yoursite.com/blog/2009/09/08/social-media-in-the-office/"/>
+    <updated>2009-09-08T06:11:37+08:00</updated>
+    <id>http://yoursite.com/blog/2009/09/08/social-media-in-the-office</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The best ppt about Eye Candy]]></title>
+    <link href="http://yoursite.com/blog/2009/08/25/the-best-ppt-about-eye-candy/"/>
+    <updated>2009-08-25T03:38:16+08:00</updated>
+    <id>http://yoursite.com/blog/2009/08/25/the-best-ppt-about-eye-candy</id>
+    <content type="html"><![CDATA[<p>Going to make this required reading for the company next week!</p>
+
+<p><a href="http://www.slideshare.net/stephenpa/eye-candy-is-a-critical-business-requirement">Eye Candy IS A Critical Business Requirement</a></p>
+
+<p>View more <a href="http://www.slideshare.net/">documents</a> from <a href="http://www.slideshare.net/stephenpa">Stephen Anderson</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Secret to good customer service?]]></title>
+    <link href="http://yoursite.com/blog/2009/08/15/secret-to-good-customer-service/"/>
+    <updated>2009-08-15T06:49:54+08:00</updated>
+    <id>http://yoursite.com/blog/2009/08/15/secret-to-good-customer-service</id>
+    <content type="html"><![CDATA[<p>After reading a great post on <a href="http://uk.techcrunch.com/2009/08/13/how-do-startups-make-customer-service-scale-into-awesomeness/">customer service</a>, it does make me wonder what is the best possible way to scale customer service and I don't think it can be just as simple as writing something on the wall. Things like good customer service are built on many layers, things like managers, good processes and a great working environment I reckon are all part of what really makes a small team scale. Imagine if you have a team of 40 or 50 people working out of just a single mailbox is that really going to work, I doubt it. Add a simple CRM and bingo all the customers are going to get an answer.</p>
+
+<p>Now think about the phone, perhaps one of the most badly used tools in any customer service department some companies get it right like Rackspace who always manage to pickup the phone within the first couple of rings and I speak to a human, none of this press 1 for sales press 2 for tech support and most importantly don't leave me hanging on hold! If this means that your accounting department needs to man the phone then make it happen because if I have a problem or a question anyone who is willing to help me even if they do not know the answer of the top of their head is going to make me feel 10x better.</p>
+
+<p>So how to scale - it is still a valid question and perhaps one of the hardest things to get right but if you want an example of a company that does it right then go checkout <a href="http://www.rackspace.com">Rackspace</a>, I have been using them for nearly 5 years and was the victim of their last downtime but how they responded with email, blog posts, messages in the control panel, youtube video from the CEO and a cash refund gave me trust and actually increased my loyalty.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Required Reading]]></title>
+    <link href="http://yoursite.com/blog/2009/05/23/required-reading/"/>
+    <updated>2009-05-23T07:38:37+08:00</updated>
+    <id>http://yoursite.com/blog/2009/05/23/required-reading</id>
+    <content type="html"><![CDATA[<ul>
+<li><p>Ecommerce</p>
+
+<ul>
+<li><p><a href="http://www.getelastic.com/no-required-registration/">Checkout Inspiration From Top Converting Sites</a></p></li>
+<li><p><a href="http://econsultancy.com/blog/3807-one-in-three-web-users-afraid-of-shopping-online">One in three web users afraid of shopping online</a></p></li>
+<li><p><a href="http://econsultancy.com/blog/3827-taking-shopping-cart-abandonment-too-far">Taking shopping cart abandonment too far?</a></p></li>
+<li><p><a href="http://econsultancy.com/blog/3821-the-25-factors-behind-brilliant-brand-domain-names">The 25 factors behind brilliant brand / domain names</a></p></li>
+<li><p><a href="http://feeds.searchenginewatch.com/~r/sewblog/~3/2FquJzi4ZBM/090514-140807">Barcode Scanning Now Available for Google Product Search on Android</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/readwriteweb/~3/TNhdVIGaWmY/shopping_20_current_e-commerce_trends_redux.php">Shopping 2.0: Current E-commerce Trends (Redux)</a></p></li>
+<li><p><a href="http://www.googleanalyticsresults.com/2009/05/goal-abandonment-rate-in-google.html"> Goal Abandonment Rate in Google Analytics Explained </a></p></li>
+<li><p><a href="http://ebaystrategies.blogs.com/ebay_strategies/2009/05/what-matters-most-to-consumers-free-shipping-low-prices-or-coupons.html">What matters most to consumers: free shipping, low prices, or coupons?</a></p></li>
+<li><p><a href="http://sitefling.com/blog/how-the-porn-guys-do-things/">How The Porn Guys Do Things</a></p></li>
+<li><p><a href="http://sitefling.com/blog/how-the-porn-guys-do-things-pt-2/">How The Porn Guys Do Things Pt. 2</a></p></li>
+<li><p><a href="http://www.searchenginepeople.com/blog/google-analytics-mega-post-23-google-analytics-tips-and-tweaks.html">Google Analytics Mega-Post: 23 Google Analytics Tips and Tweaks</a></p></li>
+</ul>
+</li>
+<li><p>Productivity</p>
+
+<ul>
+<li><p><a href="http://feeds.lifehack.org/~r/LifeHack/~3/HiM67TNuSgk/how-to-be-more-productive-in-your-business.html">How to Be More Productive In Your Business</a></p></li>
+<li><p><a href="http://feeds.lifehack.org/~r/LifeHack/~3/9iU8bo48ZJo/the-five-reasons-why-you-are-not-fulfilling-your-potential.html">The Five Reasons Why You Are Not Fulfilling Your Potential</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/Webworkerdaily/~3/QQqw5LtV9qM/">Losing Gracefully: What to Do When You Can’t Deliver</a></p></li>
+</ul>
+</li>
+<li><p>China</p>
+
+<ul>
+<li><p><a href="http://www.techcrunch.com/2009/05/10/china-where-patience-meets-speed/">China: Where Patience Meets Speed</a></p></li>
+<li><p><a href="http://www.ft.com/cms/s/0/4be93d94-42fe-11de-b793-00144feabdc0.html">Foreign-registered companies face China tax scrutiny</a></p></li>
+<li><p><a href="http://feeds.arstechnica.com/~r/arstechnica/index/~3/R6k_Bjoo1e8/analyst-cyberwarfare-arms-race-with-china-imminent.ars">Analyst: cyberwarfare arms race with China imminent</a></p></li>
+<li><p><a href="http://www.ft.com/cms/s/0/8b68e962-4176-11de-bdb7-00144feabdc0.html">China fails to silence voice from the grave</a></p></li>
+</ul>
+</li>
+<li><p>Databases:</p>
+
+<ul>
+<li><a href="http://www.dbms2.com/2009/05/11/facebook-hadoop-and-hive/">Facebook, Hadoop, and Hive</a></li>
+</ul>
+</li>
+<li><p>Development:</p>
+
+<ul>
+<li><p><a href="http://feedproxy.google.com/~r/blogspot/Dcni/~3/6GtC-PyydnU/yahoo-pipes-and.html">Yahoo! Pipes and the HTML5 canvas tag</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/readwriteweb/~3/rYa_G525ROc/linked_data_is_blooming_why_you_should_care.php">Linked Data is Blooming: Why You Should Care</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/ProbloggerHelpingBloggersEarnMoney/~3/9T1zER9sGWQ/">Designing a Custom WordPress Theme - Working with a Designer</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/ProbloggerHelpingBloggersEarnMoney/~3/cB5G32NhESU/">Designing a Custom WordPress Theme - Working with a Designer [PART 2]</a></p></li>
+</ul>
+</li>
+<li><p>Random Others:</p>
+
+<ul>
+<li><p><a href="http://feedproxy.google.com/~r/seomoz/~3/JM-qNwP4ybc/Blog-Launch-Check-list">Blog Launch Check List</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/seomoz/~3/NTqOCVFHwHE/a-brief-letter-to-startup-ceos-cpos-founders">A Brief Letter to Startup CEOs, CPOs &amp; Founders</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/sitefling/~3/xstCwxxuxGI/">Behind the Scenes Outsourcing with Chaunna</a></p></li>
+<li><p><a href="http://onlinemarketerblog.com/2009/05/5-reasons-to-buy-david-meerman-scotts-world-wide-rave-and-2-reasons-not-to/">5 Reasons To Buy David Meerman Scott’s World Wide Rave (And 2 Reasons Not To)</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/Techcrunch/~3/gAmoVUCCOBQ/">About Those iPhone App Store Revenue Numbers</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/Mosso/~3/fCTE8__NMs0/">The Rackspace Cloud Talks PaaS On Analyst Podcast</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/FinanceYourFreedom/~3/v6hZxNFpACo/">Not Being a Real Person: The #1 Self-Development Anti-Hack</a></p></li>
+</ul>
+</li>
+<li><p>SEO</p>
+
+<ul>
+<li><p><a href="http://feedproxy.google.com/~r/seopittfall/~3/SPgFCV0p7WA/directory-submissions-for-success">Directory Submissions for Success</a></p></li>
+<li><p><a href="http://www.mailchimp.com/blog/how-mailchimp-uses-cotweet/">How MailChimp Uses CoTweet</a></p></li>
+<li><p><a href="http://mashable.com/2009/05/15/celebrity-facebook-pages/">5 Lessons Celebrities Can Teach Us About Facebook Pages</a></p></li>
+<li><p><a href="http://www.seobook.com/trademark-schmademark">Google AdWords, PPC Industry Becoming Far More Cut Throat</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/seomoz/~3/5cqvi12MopA/headsmacking-tip-13-dont-accidentally-block-link-juice-with-robotstxt">Headsmacking Tip #13: Don't Accidentally Block Link Juice with Robots.txt</a></p></li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
