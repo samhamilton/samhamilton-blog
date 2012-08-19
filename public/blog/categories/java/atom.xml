@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Java | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/java/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-08-19T15:07:04+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Java | Sam Hamilton]]></title>
+  <link href="http://www.samhamilton.co.uk/blog/categories/java/atom.xml" rel="self"/>
+  <link href="http://www.samhamilton.co.uk/"/>
+  <updated>2012-08-19T15:41:12+08:00</updated>
+  <id>http://www.samhamilton.co.uk/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Sam Hamilton]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Rise and Fall and Rise of Java]]></title>
-    <link href="http://yoursite.com/blog/2011/06/03/the-rise-and-fall-and-rise-of-java/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2011/06/03/the-rise-and-fall-and-rise-of-java/"/>
     <updated>2011-06-03T18:21:37+08:00</updated>
-    <id>http://yoursite.com/blog/2011/06/03/the-rise-and-fall-and-rise-of-java</id>
+    <id>http://www.samhamilton.co.uk/blog/2011/06/03/the-rise-and-fall-and-rise-of-java</id>
     <content type="html"><![CDATA[<p><iframe src="http://www.slideshare.net/slideshow/embed_code/6890836" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java" title="The Rise and Fall and Rise of Java" target="_blank">The Rise and Fall and Rise of Java</a> </strong> from <strong><a href="http://www.slideshare.net/sogrady" target="_blank">sogrady</a></strong> </div></p>
 ]]></content>
   </entry>

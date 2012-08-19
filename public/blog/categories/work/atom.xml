@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Work | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/work/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-08-19T15:07:04+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Work | Sam Hamilton]]></title>
+  <link href="http://www.samhamilton.co.uk/blog/categories/work/atom.xml" rel="self"/>
+  <link href="http://www.samhamilton.co.uk/"/>
+  <updated>2012-08-19T15:41:12+08:00</updated>
+  <id>http://www.samhamilton.co.uk/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Sam Hamilton]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Warehouse Built, Back in Marketing]]></title>
-    <link href="http://yoursite.com/blog/2010/02/17/warehouse-built-back-in-marketing/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2010/02/17/warehouse-built-back-in-marketing/"/>
     <updated>2010-02-17T20:20:11+08:00</updated>
-    <id>http://yoursite.com/blog/2010/02/17/warehouse-built-back-in-marketing</id>
+    <id>http://www.samhamilton.co.uk/blog/2010/02/17/warehouse-built-back-in-marketing</id>
     <content type="html"><![CDATA[<p>Well after nearly 2 months out of Shanghai and living in a hotel, I am back.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Whats a cooking?]]></title>
-    <link href="http://yoursite.com/blog/2009/02/23/whats-a-cooking/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2009/02/23/whats-a-cooking/"/>
     <updated>2009-02-23T07:58:24+08:00</updated>
-    <id>http://yoursite.com/blog/2009/02/23/whats-a-cooking</id>
+    <id>http://www.samhamilton.co.uk/blog/2009/02/23/whats-a-cooking</id>
     <content type="html"><![CDATA[<p>Good question, two things really.</p>
 
 <p>One - the company I spend most of my time working for sprang back into profit in January which is fantastic considering how rough the seas are out there for exporters from China! Talking to some people it has come at just the right time as everyone is wondering either in the back of their mind or in the front if the company will survive these dreadful economic times. Now that profit is back and we have some great help with our accounts and cash flow forecasting I am sure that we can hold steady in the wind.</p>
@@ -37,9 +37,9 @@
   
   <entry>
     <title type="html"><![CDATA[Live Website?]]></title>
-    <link href="http://yoursite.com/blog/2008/12/28/live-website/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2008/12/28/live-website/"/>
     <updated>2008-12-28T20:14:45+08:00</updated>
-    <id>http://yoursite.com/blog/2008/12/28/live-website</id>
+    <id>http://www.samhamilton.co.uk/blog/2008/12/28/live-website</id>
     <content type="html"><![CDATA[<p>OK so the week has been and gone, and instead of getting two websites live we have only managed to get one ready and working. Learn masses about testing systems and how you need to be able to have a exact copy of the site somewhere else so that you can test before it goes live. Sounds simple but with OFBiz things never seem to be.</p>
 
 <p>Launching our website is a few tickets away from completion, hope to have it up and running before Chinese New Year when everyone disappears for holidays.</p>
@@ -48,9 +48,9 @@
   
   <entry>
     <title type="html"><![CDATA[Landmark]]></title>
-    <link href="http://yoursite.com/blog/2008/12/08/landmark/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2008/12/08/landmark/"/>
     <updated>2008-12-08T22:08:51+08:00</updated>
-    <id>http://yoursite.com/blog/2008/12/08/landmark</id>
+    <id>http://www.samhamilton.co.uk/blog/2008/12/08/landmark</id>
     <content type="html"><![CDATA[<p>D-day is nearly upon me. The day when we finally move the companies website from our current 3rd party supplier (Channel Advisor) to our own OFBiz / Rackspace / Akamai website. While Channel Advisor's website has done us good for the last 3+ years its time to move onwards and upwards with something, well customisable.</p>
 
 <p>OFBiz has proved to be a great platform for our warehouse and its really exciting to see the improved systems and processes take something to the next level. Working with developers who's first language is not your own is always a challenge but I think the end result has been worth it.</p>
@@ -61,9 +61,9 @@
   
   <entry>
     <title type="html"><![CDATA[Company Hires 101st person]]></title>
-    <link href="http://yoursite.com/blog/2008/09/21/company-hires-101-person/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2008/09/21/company-hires-101-person/"/>
     <updated>2008-09-21T22:51:28+08:00</updated>
-    <id>http://yoursite.com/blog/2008/09/21/company-hires-101-person</id>
+    <id>http://www.samhamilton.co.uk/blog/2008/09/21/company-hires-101-person</id>
     <content type="html"><![CDATA[<p>Just a quick post to say that the company has now hired their 100 and 101st employee! Its almost 4 years to the day that we started too.</p>
 ]]></content>
   </entry>

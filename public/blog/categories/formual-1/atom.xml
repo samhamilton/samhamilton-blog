@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Formual 1 | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/formual-1/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-08-19T15:07:04+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Formual 1 | Sam Hamilton]]></title>
+  <link href="http://www.samhamilton.co.uk/blog/categories/formual-1/atom.xml" rel="self"/>
+  <link href="http://www.samhamilton.co.uk/"/>
+  <updated>2012-08-19T15:41:12+08:00</updated>
+  <id>http://www.samhamilton.co.uk/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Sam Hamilton]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[F1 update before the race starts]]></title>
-    <link href="http://yoursite.com/blog/2009/05/25/f1-update-before-the-race-starts/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2009/05/25/f1-update-before-the-race-starts/"/>
     <updated>2009-05-25T03:23:45+08:00</updated>
-    <id>http://yoursite.com/blog/2009/05/25/f1-update-before-the-race-starts</id>
+    <id>http://www.samhamilton.co.uk/blog/2009/05/25/f1-update-before-the-race-starts</id>
     <content type="html"><![CDATA[<p>So the BBC got some scoop - <a href="http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/8065736.stm">F1 budget cap solution in sight</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[F1 - The World Gone Mad]]></title>
-    <link href="http://yoursite.com/blog/2009/05/23/f1-the-world-gone-mad/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2009/05/23/f1-the-world-gone-mad/"/>
     <updated>2009-05-23T06:53:00+08:00</updated>
-    <id>http://yoursite.com/blog/2009/05/23/f1-the-world-gone-mad</id>
+    <id>http://www.samhamilton.co.uk/blog/2009/05/23/f1-the-world-gone-mad</id>
     <content type="html"><![CDATA[<p>So I went on holiday just before the Spanish GP and in the matter of two weeks the F1 world has gone bonkers, we have had:</p>
 
 <ul>
@@ -46,9 +46,9 @@
   
   <entry>
     <title type="html"><![CDATA[F1 News Round Up]]></title>
-    <link href="http://yoursite.com/blog/2009/04/27/f1-news-round-up/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2009/04/27/f1-news-round-up/"/>
     <updated>2009-04-27T16:51:22+08:00</updated>
-    <id>http://yoursite.com/blog/2009/04/27/f1-news-round-up</id>
+    <id>http://www.samhamilton.co.uk/blog/2009/04/27/f1-news-round-up</id>
     <content type="html"><![CDATA[<ul>
 <li><p><a href="http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/8019221.stm">Hamilton considered quitting F1 </a></p></li>
 <li><p><a href="http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/8019261.stm">Bahrain Grand Prix photos </a></p></li>
@@ -65,9 +65,9 @@
   
   <entry>
     <title type="html"><![CDATA[F1 News Roundup]]></title>
-    <link href="http://yoursite.com/blog/2009/04/24/f1-news-roundup/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2009/04/24/f1-news-roundup/"/>
     <updated>2009-04-24T17:38:49+08:00</updated>
-    <id>http://yoursite.com/blog/2009/04/24/f1-news-roundup</id>
+    <id>http://www.samhamilton.co.uk/blog/2009/04/24/f1-news-roundup</id>
     <content type="html"><![CDATA[<ul>
 <li><p><a href="http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/8015028.stm">Legal battle threatens British GP </a></p></li>
 <li><p><a href="http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/circuit_guide/default.stm?circuitID=04#top">Formula 1 circuit guides - Bahrain</a></p></li>
@@ -80,9 +80,9 @@
   
   <entry>
     <title type="html"><![CDATA[Wicked but Wet F1 in Shangai]]></title>
-    <link href="http://yoursite.com/blog/2009/04/20/wicked-but-wet-f1-in-shangai/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2009/04/20/wicked-but-wet-f1-in-shangai/"/>
     <updated>2009-04-20T17:14:18+08:00</updated>
-    <id>http://yoursite.com/blog/2009/04/20/wicked-but-wet-f1-in-shangai</id>
+    <id>http://www.samhamilton.co.uk/blog/2009/04/20/wicked-but-wet-f1-in-shangai</id>
     <content type="html"><![CDATA[<p>Had a great day at the F1 yesterday, we managed to get covered seating which was a godsend as the rain was relentless</p>
 
 <ul>

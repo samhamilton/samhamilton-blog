@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Business | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/business/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-08-19T15:07:04+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Business | Sam Hamilton]]></title>
+  <link href="http://www.samhamilton.co.uk/blog/categories/business/atom.xml" rel="self"/>
+  <link href="http://www.samhamilton.co.uk/"/>
+  <updated>2012-08-19T15:41:12+08:00</updated>
+  <id>http://www.samhamilton.co.uk/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Sam Hamilton]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Crappy Internet]]></title>
-    <link href="http://yoursite.com/blog/2011/07/25/crappy-internet/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2011/07/25/crappy-internet/"/>
     <updated>2011-07-25T20:51:33+08:00</updated>
-    <id>http://yoursite.com/blog/2011/07/25/crappy-internet</id>
+    <id>http://www.samhamilton.co.uk/blog/2011/07/25/crappy-internet</id>
     <content type="html"><![CDATA[<p>Alex, a good friend of mine here in Shanghai, recently vented his <a href="http://alex-duncan.co.uk/i-spend-3-weeks-a-year-waiting-for-websites-to-load-2011-07-23.html">frustration about working and living in China</a> when your work relies on a good quality internet connection and I can't agree more.</p>
 
 <p>For the last couple of weeks Google has been once again targeted by the censors but in a truly frustrating way, you can search for something and get back the first page of results (most of the time) but then if you refine your search or do another search straight after the great firewall blocks Google and you end up with an error page. I am very ashamed to say that I have had to resort to using Bing to find some things over the past couple of weeks but the Bing results are just of a poorer quality which then frustrates me even more as I know Google would have found what I was looking for after a couple of refinements.</p>
@@ -42,18 +42,18 @@
   
   <entry>
     <title type="html"><![CDATA[Data-Driven Startups]]></title>
-    <link href="http://yoursite.com/blog/2011/07/06/data-driven-startups/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2011/07/06/data-driven-startups/"/>
     <updated>2011-07-06T21:29:22+08:00</updated>
-    <id>http://yoursite.com/blog/2011/07/06/data-driven-startups</id>
+    <id>http://www.samhamilton.co.uk/blog/2011/07/06/data-driven-startups</id>
     <content type="html"><![CDATA[<p><iframe src="http://www.slideshare.net/slideshow/embed_code/4825914" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/dcancel/data-drivenstartups" title="Data-Driven Startups" target="_blank">Data-Driven Startups</a> </strong> from <strong><a href="http://www.slideshare.net/dcancel" target="_blank">David Cancel</a></strong> </div></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Startup Metrics for Pirates]]></title>
-    <link href="http://yoursite.com/blog/2011/07/06/startup-metrics-for-pirates/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2011/07/06/startup-metrics-for-pirates/"/>
     <updated>2011-07-06T21:28:27+08:00</updated>
-    <id>http://yoursite.com/blog/2011/07/06/startup-metrics-for-pirates</id>
+    <id>http://www.samhamilton.co.uk/blog/2011/07/06/startup-metrics-for-pirates</id>
     <content type="html"><![CDATA[<p><iframe src="http://www.slideshare.net/slideshow/embed_code/89026" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version" title="Startup Metrics for Pirates" target="_blank">Startup Metrics for Pirates</a> </strong> from <strong><a href="http://www.slideshare.net/dmc500hats" target="_blank">Dave McClure</a></strong> </div></p>
 ]]></content>
   </entry>

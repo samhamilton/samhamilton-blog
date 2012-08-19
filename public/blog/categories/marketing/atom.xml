@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Marketing | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/marketing/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-08-19T15:07:04+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Marketing | Sam Hamilton]]></title>
+  <link href="http://www.samhamilton.co.uk/blog/categories/marketing/atom.xml" rel="self"/>
+  <link href="http://www.samhamilton.co.uk/"/>
+  <updated>2012-08-19T15:41:12+08:00</updated>
+  <id>http://www.samhamilton.co.uk/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Sam Hamilton]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Mobile Movement: Understanding Smartphone Consumers]]></title>
-    <link href="http://yoursite.com/blog/2011/06/11/the-mobile-movement-understanding-smartphone-consumers/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2011/06/11/the-mobile-movement-understanding-smartphone-consumers/"/>
     <updated>2011-06-11T17:59:51+08:00</updated>
-    <id>http://yoursite.com/blog/2011/06/11/the-mobile-movement-understanding-smartphone-consumers</id>
+    <id>http://www.samhamilton.co.uk/blog/2011/06/11/the-mobile-movement-understanding-smartphone-consumers</id>
     <content type="html"><![CDATA[<p>OK so this is really an add for Google but the stats before they start selling are what makes it interesting.</p>
 
 <p><iframe width="480" height="270" src="http://www.youtube.com/embed/CjUcq_E4I-s?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe></p>
@@ -26,18 +26,18 @@
   
   <entry>
     <title type="html"><![CDATA[Social Media in the Office]]></title>
-    <link href="http://yoursite.com/blog/2009/09/08/social-media-in-the-office/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2009/09/08/social-media-in-the-office/"/>
     <updated>2009-09-08T06:11:37+08:00</updated>
-    <id>http://yoursite.com/blog/2009/09/08/social-media-in-the-office</id>
+    <id>http://www.samhamilton.co.uk/blog/2009/09/08/social-media-in-the-office</id>
     <content type="html"><![CDATA[<p><iframe width="459" height="344" src="http://www.youtube.com/embed/3f-hr1iWNyI?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[The best ppt about Eye Candy]]></title>
-    <link href="http://yoursite.com/blog/2009/08/25/the-best-ppt-about-eye-candy/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2009/08/25/the-best-ppt-about-eye-candy/"/>
     <updated>2009-08-25T03:38:16+08:00</updated>
-    <id>http://yoursite.com/blog/2009/08/25/the-best-ppt-about-eye-candy</id>
+    <id>http://www.samhamilton.co.uk/blog/2009/08/25/the-best-ppt-about-eye-candy</id>
     <content type="html"><![CDATA[<p>Going to make this required reading for the company next week!</p>
 
 <p><iframe src="http://www.slideshare.net/slideshow/embed_code/161377" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/stephenpa/eye-candy-is-a-critical-business-requirement" title="Eye Candy IS A Critical Business Requirement" target="_blank">Eye Candy IS A Critical Business Requirement</a> </strong> from <strong><a href="http://www.slideshare.net/stephenpa" target="_blank">Stephen Anderson</a></strong> </div></p>
@@ -46,9 +46,9 @@
   
   <entry>
     <title type="html"><![CDATA[Secret to good customer service?]]></title>
-    <link href="http://yoursite.com/blog/2009/08/15/secret-to-good-customer-service/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2009/08/15/secret-to-good-customer-service/"/>
     <updated>2009-08-15T06:49:54+08:00</updated>
-    <id>http://yoursite.com/blog/2009/08/15/secret-to-good-customer-service</id>
+    <id>http://www.samhamilton.co.uk/blog/2009/08/15/secret-to-good-customer-service</id>
     <content type="html"><![CDATA[<p>After reading a great post on <a href="http://uk.techcrunch.com/2009/08/13/how-do-startups-make-customer-service-scale-into-awesomeness/">customer service</a>, it does make me wonder what is the best possible way to scale customer service and I don't think it can be just as simple as writing something on the wall. Things like good customer service are built on many layers, things like managers, good processes and a great working environment I reckon are all part of what really makes a small team scale. Imagine if you have a team of 40 or 50 people working out of just a single mailbox is that really going to work, I doubt it. Add a simple CRM and bingo all the customers are going to get an answer.</p>
 
 <p>Now think about the phone, perhaps one of the most badly used tools in any customer service department some companies get it right like Rackspace who always manage to pickup the phone within the first couple of rings and I speak to a human, none of this press 1 for sales press 2 for tech support and most importantly don't leave me hanging on hold! If this means that your accounting department needs to man the phone then make it happen because if I have a problem or a question anyone who is willing to help me even if they do not know the answer of the top of their head is going to make me feel 10x better.</p>
@@ -59,9 +59,9 @@
   
   <entry>
     <title type="html"><![CDATA[Required Reading]]></title>
-    <link href="http://yoursite.com/blog/2009/05/23/required-reading/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2009/05/23/required-reading/"/>
     <updated>2009-05-23T07:38:37+08:00</updated>
-    <id>http://yoursite.com/blog/2009/05/23/required-reading</id>
+    <id>http://www.samhamilton.co.uk/blog/2009/05/23/required-reading</id>
     <content type="html"><![CDATA[<ul>
 <li><p>Ecommerce</p>
 

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Linux / Apple | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/linux-apple/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-08-19T15:07:04+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Linux / Apple | Sam Hamilton]]></title>
+  <link href="http://www.samhamilton.co.uk/blog/categories/linux-apple/atom.xml" rel="self"/>
+  <link href="http://www.samhamilton.co.uk/"/>
+  <updated>2012-08-19T15:41:12+08:00</updated>
+  <id>http://www.samhamilton.co.uk/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Sam Hamilton]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,11 +15,13 @@
   
   <entry>
     <title type="html"><![CDATA[Small Script to Remove a List of Directories]]></title>
-    <link href="http://yoursite.com/blog/2011/09/23/small-script-to-remove-a-list-of-directories/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2011/09/23/small-script-to-remove-a-list-of-directories/"/>
     <updated>2011-09-23T04:13:38+08:00</updated>
-    <id>http://yoursite.com/blog/2011/09/23/small-script-to-remove-a-list-of-directories</id>
-    <content type="html"><![CDATA[<p><code>cat list-of-directories.txt|while read f; do
-if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
+    <id>http://www.samhamilton.co.uk/blog/2011/09/23/small-script-to-remove-a-list-of-directories</id>
+    <content type="html"><![CDATA[<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>cat list-of-directories.txt|while read f; do
+</span><span class='line'>if [ -e "$f" ]; then rm -rf "$f"; fi; done```</span></code></pre></td></tr></table></div></figure></notextile></div></p>
 
 <p>thanks <a href="http://www.linuxquestions.org/questions/programming-9/scripting-problem-rm-filelist-460910/#post2320128">unSpawn</a>!</p>
 ]]></content>
@@ -27,9 +29,9 @@ if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
   
   <entry>
     <title type="html"><![CDATA[Moving to Ubuntu, Saying goodbye to CentOS/Redhat]]></title>
-    <link href="http://yoursite.com/blog/2011/05/31/moving-to-ubuntu-saying-goodbye-to-centosredhat/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2011/05/31/moving-to-ubuntu-saying-goodbye-to-centosredhat/"/>
     <updated>2011-05-31T22:51:38+08:00</updated>
-    <id>http://yoursite.com/blog/2011/05/31/moving-to-ubuntu-saying-goodbye-to-centosredhat</id>
+    <id>http://www.samhamilton.co.uk/blog/2011/05/31/moving-to-ubuntu-saying-goodbye-to-centosredhat</id>
     <content type="html"><![CDATA[<p>I have been a fan of Redhat for a very long time I bought my first copy of Redhat back in 1997 - it was in a boxset, I kept it for years even after I upgraded! Redhat has been stable and reliable (well ok, most of the time) - just what you need for a server distribution but this month marks the first time I cheat on Redhat by installing a copy of Ubuntu on one of my production servers.</p>
 
 <p>In the beginning when I first had company production machines we also used Redhat because a couple of hundred dollars a year for support for one box seemed reasonable. Then as less and less things broke and we as sysadmins grew and learned what was needed to fix things that couple hundred dollars seems more and more expensive. Our collection of servers grew and we started switching over to CentOS as the support contracts ran out.  At the same time we also became a customer of Rackspace and we used Redhat 5 on the servers because well it was "free" with each server and it complimented the existing Redhat/CentOS we had in the office.</p>
@@ -52,9 +54,9 @@ if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
   
   <entry>
     <title type="html"><![CDATA[Editing your hosts file on a Mac]]></title>
-    <link href="http://yoursite.com/blog/2010/10/20/editing-your-hosts-file-on-a-mac/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2010/10/20/editing-your-hosts-file-on-a-mac/"/>
     <updated>2010-10-20T00:02:40+08:00</updated>
-    <id>http://yoursite.com/blog/2010/10/20/editing-your-hosts-file-on-a-mac</id>
+    <id>http://www.samhamilton.co.uk/blog/2010/10/20/editing-your-hosts-file-on-a-mac</id>
     <content type="html"><![CDATA[<p>Found a new way to edit my hosts file while normally I would use vi this means that I can use TextEdit which sometimes is easier.</p>
 
 <p>Open the Terminal:
@@ -70,26 +72,33 @@ if [ -e "$f" ]; then rm -rf "$f"; fi; done</code></p>
   
   <entry>
     <title type="html"><![CDATA[Enabling SSL in ProFTPD]]></title>
-    <link href="http://yoursite.com/blog/2010/09/14/enabling-ssl-in-proftpd/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2010/09/14/enabling-ssl-in-proftpd/"/>
     <updated>2010-09-14T05:27:07+08:00</updated>
-    <id>http://yoursite.com/blog/2010/09/14/enabling-ssl-in-proftpd</id>
+    <id>http://www.samhamilton.co.uk/blog/2010/09/14/enabling-ssl-in-proftpd</id>
     <content type="html"><![CDATA[<p>If you need to enable SSL in ProFTPD, try this out:</p>
 
-<p><code>&lt;IfModule mod_tls.c&gt;
-TLSEngine on
-TLSRequired off
-TLSRSACertificateFile /etc/httpd/conf/ssl.crt/server.crt
-TLSRSACertificateKeyFile /etc/httpd/conf/ssl.key/server.key
-TLSVerifyClient off
-&lt;/IfModule&gt;</code></p>
+<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;IfModule mod_tls.c>
+</span><span class='line'>TLSEngine on
+</span><span class='line'>TLSRequired off
+</span><span class='line'>TLSRSACertificateFile /etc/httpd/conf/ssl.crt/server.crt
+</span><span class='line'>TLSRSACertificateKeyFile /etc/httpd/conf/ssl.key/server.key
+</span><span class='line'>TLSVerifyClient off
+</span><span class='line'>&lt;/IfModule></span></code></pre></td></tr></table></div></figure></notextile></div></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Snow Leopard]]></title>
-    <link href="http://yoursite.com/blog/2009/08/28/snow-leopard/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2009/08/28/snow-leopard/"/>
     <updated>2009-08-28T03:50:02+08:00</updated>
-    <id>http://yoursite.com/blog/2009/08/28/snow-leopard</id>
+    <id>http://www.samhamilton.co.uk/blog/2009/08/28/snow-leopard</id>
     <content type="html"><![CDATA[<p>To say I am looking forward to <a href="http://www.apple.com/macosx/">Snow Leopard</a> is an understatement - the prospect of getting rid of Microsoft Entourage is making me giddy, my only worry is that it won't live up to the dream. So when at 6pm today here in Shanghai I get an email saying it is in the post I jumped for joy (literally and in a lift which freaked some people out). How do I get my copy of OS X - well first it is shipped to my address in England and from there we FedEx it to China - mad but seeing as they are not releasing it in China on the same day its the only way I can get my hands on a copy right now, well three or four days behind the rest of you but oh well.</p>
 
 <p><img src="/images/226264941_f370cddafd-300x199.jpg" alt="snow leopard" />It seems some people might already have an early release as the articles are starting to come out including this from <a href="http://www.engadget.com/2009/08/26/snow-leopard-review/">Engadget</a> but more interestingly is the fact that I think this next one also from <a href="http://www.engadget.com/2009/08/26/entelligence-will-snow-leopards-exchange-support-earn-apple-a/">Engadget</a> is spot on, they talk about how the Exchange support will have people moving over in flocks. Perhaps not flocks but if they really have got it right and it all works as you expect Apple products to work then all that is left is for people to realise that iWork is a great product or OpenOffice gets their load time down to something under 30 seconds with some better web 2.0 style graphics then the whole world can tell Microsoft to stuff it.</p>

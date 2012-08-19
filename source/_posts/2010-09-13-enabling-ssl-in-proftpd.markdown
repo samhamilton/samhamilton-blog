@@ -11,10 +11,12 @@ categories:
 
 If you need to enable SSL in ProFTPD, try this out:
 
-`<IfModule mod_tls.c>
+{% codeblock %}
+<IfModule mod_tls.c>
 TLSEngine on
 TLSRequired off
 TLSRSACertificateFile /etc/httpd/conf/ssl.crt/server.crt
 TLSRSACertificateKeyFile /etc/httpd/conf/ssl.key/server.key
 TLSVerifyClient off
-</IfModule>`
+</IfModule>
+{% endcodeblock %}

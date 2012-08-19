@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Random Stuff | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/random-stuff/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-08-19T15:07:04+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Random Stuff | Sam Hamilton]]></title>
+  <link href="http://www.samhamilton.co.uk/blog/categories/random-stuff/atom.xml" rel="self"/>
+  <link href="http://www.samhamilton.co.uk/"/>
+  <updated>2012-08-19T15:41:12+08:00</updated>
+  <id>http://www.samhamilton.co.uk/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Sam Hamilton]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Amazing Himalayas Photos]]></title>
-    <link href="http://yoursite.com/blog/2011/09/21/amazing-himalayas-photos/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2011/09/21/amazing-himalayas-photos/"/>
     <updated>2011-09-21T23:39:01+08:00</updated>
-    <id>http://yoursite.com/blog/2011/09/21/amazing-himalayas-photos</id>
+    <id>http://www.samhamilton.co.uk/blog/2011/09/21/amazing-himalayas-photos</id>
     <content type="html"><![CDATA[<p>Just ran across this guys <a href="http://www.flickr.com/photos/jankovoy/sets/72157627338647869/with/6048498636/">photos from the Himalayas</a></p>
 
 <p><a href="http://www.flickr.com/photos/jankovoy/6048498636/"><img src="http://farm7.static.flickr.com/6195/6048498636_e5d6986d4c_z.jpg" alt="NILGIRI SOUTH (6839 m)" /></a></p>
@@ -26,18 +26,18 @@
   
   <entry>
     <title type="html"><![CDATA[Windows 8 is a Mac copy]]></title>
-    <link href="http://yoursite.com/blog/2011/06/03/windows-8-is-a-mac-copy/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2011/06/03/windows-8-is-a-mac-copy/"/>
     <updated>2011-06-03T18:34:42+08:00</updated>
-    <id>http://yoursite.com/blog/2011/06/03/windows-8-is-a-mac-copy</id>
+    <id>http://www.samhamilton.co.uk/blog/2011/06/03/windows-8-is-a-mac-copy</id>
     <content type="html"><![CDATA[<p>None</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[World Petrol Prices]]></title>
-    <link href="http://yoursite.com/blog/2011/05/28/world-petrol-prices/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2011/05/28/world-petrol-prices/"/>
     <updated>2011-05-28T17:54:12+08:00</updated>
-    <id>http://yoursite.com/blog/2011/05/28/world-petrol-prices</id>
+    <id>http://www.samhamilton.co.uk/blog/2011/05/28/world-petrol-prices</id>
     <content type="html"><![CDATA[<p>Click the image if to play with a interactive version</p>
 
 <p><a href="http://www.staveleyhead.co.uk/utilities/petrol-prices/"><img src="http://www.staveleyhead.co.uk/utilities/petrol-prices/img/petrol-prices-480x326.jpg" alt="How do UK petrol prices compare with other countries?" /></a></p>
@@ -48,18 +48,18 @@
   
   <entry>
     <title type="html"><![CDATA[Making the Chevrolet Volt in 1m 55s]]></title>
-    <link href="http://yoursite.com/blog/2010/12/03/making-the-chevrolet-volt-in-1m-55s/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2010/12/03/making-the-chevrolet-volt-in-1m-55s/"/>
     <updated>2010-12-03T01:30:01+08:00</updated>
-    <id>http://yoursite.com/blog/2010/12/03/making-the-chevrolet-volt-in-1m-55s</id>
+    <id>http://www.samhamilton.co.uk/blog/2010/12/03/making-the-chevrolet-volt-in-1m-55s</id>
     <content type="html"><![CDATA[<p><iframe width="480" height="270" src="http://www.youtube.com/embed/s3dZfvTLbBE?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Where Good Ideas Come From by Steven Johnson]]></title>
-    <link href="http://yoursite.com/blog/2010/09/24/where-good-ideas-come-from-by-steven-johnson/"/>
+    <link href="http://www.samhamilton.co.uk/blog/2010/09/24/where-good-ideas-come-from-by-steven-johnson/"/>
     <updated>2010-09-24T21:27:28+08:00</updated>
-    <id>http://yoursite.com/blog/2010/09/24/where-good-ideas-come-from-by-steven-johnson</id>
+    <id>http://www.samhamilton.co.uk/blog/2010/09/24/where-good-ideas-come-from-by-steven-johnson</id>
     <content type="html"><![CDATA[<p>Don't ask why this video is super large - I am too jet lagged to fix it right now. Good video though - go to YouTube to watch it properly.</p>
 
 <p><iframe width="480" height="270" src="http://www.youtube.com/embed/NugRZGDbPFU?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe></p>
