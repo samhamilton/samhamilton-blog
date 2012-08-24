@@ -3,7 +3,7 @@ layout: post
 title: "Migrating to Octopress"
 date: 2012-08-19 15:48
 comments: true
-categories: Random Stuff
+categories: "Random Stuff"
 ---
 
 So migrated from Wordpress to [Octopress](http://octopress.org/). Most of the migration was automated by using [exitwp](https://github.com/thomasf/exitwp/) but to get slideshare I had to use [Oembed](http://shogo82148.github.com/blog/2012/08/09/oembed/), also found a great list of themes on [github](https://github.com/imathis/octopress/wiki/List-Of-Octopress-Themes). 

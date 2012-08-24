@@ -7,7 +7,17 @@
 	<meta name="author" content="Sam Hamilton">
 
 	
-	<meta name="description" content=" Great infographic about the stupid prices we pay for drugs Jul 1st, 2010 Random Stuff ">
+	<meta name="description" content="If you need to enable SSL in ProFTPD, try this out: 1
+2
+3
+4
+5
+6
+7
+&lt;IfModule mod_tls.c>
+TLSEngine on
+TLSRequired off
+TLSRSACertificateFile /etc/ &hellip;">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -90,6 +100,59 @@
 
 	
 	<div id="content" class="inner">
+
+
+    <article class="post">
+	<h1 class="title"><a href="/blog/2010/09/14/enabling-ssl-in-proftpd/">Enabling SSL in ProFTPD</a></h1>
+	<div class="entry-content">
+		<p>If you need to enable SSL in ProFTPD, try this out:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;IfModule mod_tls.c>
+</span><span class='line'>TLSEngine on
+</span><span class='line'>TLSRequired off
+</span><span class='line'>TLSRSACertificateFile /etc/httpd/conf/ssl.crt/server.crt
+</span><span class='line'>TLSRSACertificateKeyFile /etc/httpd/conf/ssl.key/server.key
+</span><span class='line'>TLSVerifyClient off
+</span><span class='line'>&lt;/IfModule></span></code></pre></td></tr></table></div></figure>
+
+
+
+
+		
+		
+	</div>
+
+
+<div class="meta">
+	<div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-09-14T05:27:07+08:00" pubdate data-updated="true">Sep 14<span>th</span>, 2010</time></div>
+	<div class="tags">
+
+
+	<a class='category' href='/blog/categories/linux-apple/'>Linux / Apple</a>
+
+
+</div>
+	
+</div></article>
 
 
     <article class="post">
@@ -410,41 +473,6 @@
 
 
 	<a class='category' href='/blog/categories/linux-apple/'>Linux / Apple</a>
-
-
-</div>
-	
-</div></article>
-
-
-    <article class="post">
-	<h1 class="title"><a href="/blog/2009/08/27/great-little-overview-of-rackspace-cloud-offering/">Great Little Overview of Rackspace Cloud Offering</a></h1>
-	<div class="entry-content">
-		<p>Checkout this great little <a href="http://bartongeorge.net/2009/08/25/talking-to-the-co-founder-of-rackspace-cloud/">interview</a> where the founder of Mosso now Rackspace Cloud talks over their products.</p>
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2009-08-27T03:27:45+08:00" pubdate data-updated="true">Aug 27<span>th</span>, 2009</time></div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/random-stuff/'>Random Stuff</a>
 
 
 </div>

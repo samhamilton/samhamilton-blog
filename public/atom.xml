@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Hamilton]]></title>
   <link href="http://www.samhamilton.co.uk/atom.xml" rel="self"/>
   <link href="http://www.samhamilton.co.uk/"/>
-  <updated>2012-08-24T11:49:34+08:00</updated>
+  <updated>2012-08-24T14:41:11+08:00</updated>
   <id>http://www.samhamilton.co.uk/</id>
   <author>
     <name><![CDATA[Sam Hamilton]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Non-www to www nginx redirect]]></title>
+    <link href="http://www.samhamilton.co.uk/blog/2012/08/24/non-www-to-www-nginx-redirect/"/>
+    <updated>2012-08-24T14:36:00+08:00</updated>
+    <id>http://www.samhamilton.co.uk/blog/2012/08/24/non-www-to-www-nginx-redirect</id>
+    <content type="html"><![CDATA[<p>Add this small block of code into your server{} block to redirect all non-www to the www version of your website.</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>if ($host != 'www.samhamilton.co.uk' ) {
+</span><span class='line'>  rewrite  ^/(.*)$  http://www.samhamilton.co.uk/$1  permanent;
+</span><span class='line'> }</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Migrating to Octopress]]></title>
@@ -278,33 +295,6 @@
     <content type="html"><![CDATA[<p>Don&#8217;t ask why this video is super large - I am too jet lagged to fix it right now. Good video though - go to YouTube to watch it properly.</p>
 
 <iframe width="480" height="270" src="http://www.youtube.com/embed/NugRZGDbPFU?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Enabling SSL in ProFTPD]]></title>
-    <link href="http://www.samhamilton.co.uk/blog/2010/09/14/enabling-ssl-in-proftpd/"/>
-    <updated>2010-09-14T05:27:07+08:00</updated>
-    <id>http://www.samhamilton.co.uk/blog/2010/09/14/enabling-ssl-in-proftpd</id>
-    <content type="html"><![CDATA[<p>If you need to enable SSL in ProFTPD, try this out:</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;IfModule mod_tls.c>
-</span><span class='line'>TLSEngine on
-</span><span class='line'>TLSRequired off
-</span><span class='line'>TLSRSACertificateFile /etc/httpd/conf/ssl.crt/server.crt
-</span><span class='line'>TLSRSACertificateKeyFile /etc/httpd/conf/ssl.key/server.key
-</span><span class='line'>TLSVerifyClient off
-</span><span class='line'>&lt;/IfModule></span></code></pre></td></tr></table></div></figure>
-
-
 
 ]]></content>
   </entry>
