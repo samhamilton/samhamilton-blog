@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Hamilton]]></title>
   <link href="http://www.samhamilton.co.uk/atom.xml" rel="self"/>
   <link href="http://www.samhamilton.co.uk/"/>
-  <updated>2012-08-19T15:45:00+08:00</updated>
+  <updated>2012-08-24T11:49:34+08:00</updated>
   <id>http://www.samhamilton.co.uk/</id>
   <author>
     <name><![CDATA[Sam Hamilton]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Migrating to Octopress]]></title>
+    <link href="http://www.samhamilton.co.uk/blog/2012/08/19/migrating-to-octopress/"/>
+    <updated>2012-08-19T15:48:00+08:00</updated>
+    <id>http://www.samhamilton.co.uk/blog/2012/08/19/migrating-to-octopress</id>
+    <content type="html"><![CDATA[<p>So migrated from Wordpress to <a href="http://octopress.org/">Octopress</a>. Most of the migration was automated by using <a href="https://github.com/thomasf/exitwp/">exitwp</a> but to get slideshare I had to use <a href="http://shogo82148.github.com/blog/2012/08/09/oembed/">Oembed</a>, also found a great list of themes on <a href="https://github.com/imathis/octopress/wiki/List-Of-Octopress-Themes">github</a>.</p>
+
+<p>So far so good, writing posts in markdown is great and also now not having to worry about keeping up with Wordpress security updates is nice but for me is about finally being free of MySQL databases and Wordpress was the last thing running on it, weird in this day and age of easy multiple database support Wordpress still forces you to use MySQL.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Internet Speed]]></title>
@@ -295,15 +306,6 @@
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Stats About Pharmaceutical Companies]]></title>
-    <link href="http://www.samhamilton.co.uk/blog/2010/07/01/the-stats-about-pharmaceutical-companies/"/>
-    <updated>2010-07-01T03:52:45+08:00</updated>
-    <id>http://www.samhamilton.co.uk/blog/2010/07/01/the-stats-about-pharmaceutical-companies</id>
-    <content type="html"><![CDATA[<p><a href="http://www.myconfinedspace.com/2010/06/30/the-stats-about-pharmaceutical-companies/pharma-jpg/">Great infographic</a> about the stupid prices we pay for drugs</p>
 ]]></content>
   </entry>
   
