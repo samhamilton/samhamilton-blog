@@ -4,6 +4,12 @@ require 'sinatra/base'
 # The project root directory
 $root = ::File.dirname(__FILE__)
 
+use Rack::Rewrite do
+  r301 %r{.*}, 'http://www.samhamilton.co.uk$&', :if => Proc.new {|rack_env|
+    rack_env['SERVER_NAME'] != 'samhamilton.co.uk'
+  }
+end
+
 class SinatraStaticServer < Sinatra::Base  
 
   get(/.+/) do
