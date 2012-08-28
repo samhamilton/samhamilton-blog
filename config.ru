@@ -137,6 +137,7 @@ use Rack::Rewrite do
   r301 %r{^/category/work/?$}, '/blog/categories/work/'
   r301 %r{^/my-music/?$}, '/about/'
   r301 %r{^/wp-content/uploads/2011/07/Equinix_Submarine_TGMap_MTS_15.pdf?$}, '/images/Equinix_Submarine_TGMap_MTS_15.pdf'
+  r301 %r{^/feed/?$}, 'http://feeds.samhamilton.co.uk/samhamilton-co-uk'
 end
 
 class SinatraStaticServer < Sinatra::Base  
