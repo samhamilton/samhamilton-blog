@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Hamilton]]></title>
   <link href="http://www.samhamilton.co.uk/atom.xml" rel="self"/>
   <link href="http://www.samhamilton.co.uk/"/>
-  <updated>2012-08-28T12:00:37+08:00</updated>
+  <updated>2012-08-28T15:44:57+08:00</updated>
   <id>http://www.samhamilton.co.uk/</id>
   <author>
     <name><![CDATA[Sam Hamilton]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Google Analytics Funnel Setup for Spree Commerce]]></title>
+    <link href="http://www.samhamilton.co.uk/blog/2012/08/28/google-analytics-funnel-setup-for-spree-commerce/"/>
+    <updated>2012-08-28T15:34:00+08:00</updated>
+    <id>http://www.samhamilton.co.uk/blog/2012/08/28/google-analytics-funnel-setup-for-spree-commerce</id>
+    <content type="html"><![CDATA[<p>During the setup of any new ecommerce system you will need to monitor your checkout for cart abandonment to find the drop off points and carefully fix them, here is how I setup analytics for Spree Commerce 1.1.x.</p>
+
+<ul>
+<li>Goal Type: URL Destination</li>
+<li>Goal URL: /orders/R[0-9]{1,8}</li>
+<li>Use funnel: Ticked</li>
+<li>Required Step: Ticked</li>
+<li>Step 1: /checkout</li>
+<li>Step 2: /checkout/delivery</li>
+<li>Step 3: /checkout/payment</li>
+</ul>
+
+
+<p><img src="http://www.samhamilton.co.uk/images/spree-funnel.png"></p>
+
+<p>Thanks to <a href="https://groups.google.com/d/topic/spree-user/_gPjQKEwug4/discussion">Ryan</a> for the RegEx</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Non-www to www nginx redirect]]></title>
@@ -284,18 +308,6 @@
 <p>Now some people I have spoken to have said I need a niche, well I am not so sure that I do. I think that webhosting companies should not specialise in what they do except they should host the web - think about that for a second what does that mean, what does that take? Its a lot of things and different things all at the same time. They should not think that people or companies are all the same - everyone is different and they should not try and offer the same experience to everyone either as that is not going to fit. The trouble is that getting to this place where my hosting company can do all the things it should do for its customers is going to take time, lots of time. Why? Because only some of this exists and the rest needs to be created but today I am going to start out with something that really does not fit everyone and just get somewhere to prove that I can 1. do this myself and 2. it can earn enough money that I don&#8217;t need to get a job while it grows (that would be super boring!)</p>
 
 <p>Hardware bought, datacenter picked, operating system chosen, hosting software purchased - time to pull it all together.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Where Good Ideas Come From by Steven Johnson]]></title>
-    <link href="http://www.samhamilton.co.uk/blog/2010/09/24/where-good-ideas-come-from-by-steven-johnson/"/>
-    <updated>2010-09-24T21:27:28+08:00</updated>
-    <id>http://www.samhamilton.co.uk/blog/2010/09/24/where-good-ideas-come-from-by-steven-johnson</id>
-    <content type="html"><![CDATA[<p>Don&#8217;t ask why this video is super large - I am too jet lagged to fix it right now. Good video though - go to YouTube to watch it properly.</p>
-
-<iframe width="480" height="270" src="http://www.youtube.com/embed/NugRZGDbPFU?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe>
-
 ]]></content>
   </entry>
   

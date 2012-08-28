@@ -7,10 +7,7 @@
 	<meta name="author" content="Sam Hamilton">
 
 	
-	<meta name="description" content="Add this small block of code into your server{} block to redirect all non-www to the www version of your website. 1
-2
-3
-if ($host != 'www. &hellip;">
+	<meta name="description" content="During the setup of any new ecommerce system you will need to monitor your checkout for cart abandonment to find the drop off points and carefully &hellip;">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -97,6 +94,52 @@ if ($host != 'www. &hellip;">
 
 	
 	<div id="content" class="inner">
+
+
+    <article class="post">
+	<h1 class="title"><a href="/blog/2012/08/28/google-analytics-funnel-setup-for-spree-commerce/">Google Analytics Funnel Setup for Spree Commerce</a></h1>
+	<div class="entry-content">
+		<p>During the setup of any new ecommerce system you will need to monitor your checkout for cart abandonment to find the drop off points and carefully fix them, here is how I setup analytics for Spree Commerce 1.1.x.</p>
+
+<ul>
+<li>Goal Type: URL Destination</li>
+<li>Goal URL: /orders/R[0-9]{1,8}</li>
+<li>Use funnel: Ticked</li>
+<li>Required Step: Ticked</li>
+<li>Step 1: /checkout</li>
+<li>Step 2: /checkout/delivery</li>
+<li>Step 3: /checkout/payment</li>
+</ul>
+
+
+<p><img src="/images/spree-funnel.png"></p>
+
+<p>Thanks to <a href="https://groups.google.com/d/topic/spree-user/_gPjQKEwug4/discussion">Ryan</a> for the RegEx</p>
+
+		
+		
+	</div>
+
+
+<div class="meta">
+	<div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-08-28T15:34:00+08:00" pubdate data-updated="true">Aug 28<span>th</span>, 2012</time></div>
+	<div class="tags">
+
+</div>
+	
+</div></article>
 
 
     <article class="post">
@@ -458,44 +501,6 @@ if ($host != 'www. &hellip;">
 
 
 	<a class='category' href='/blog/categories/cloud/'>Cloud</a>
-
-
-</div>
-	
-</div></article>
-
-
-    <article class="post">
-	<h1 class="title"><a href="/blog/2011/06/11/the-mobile-movement-understanding-smartphone-consumers/">The Mobile Movement: Understanding Smartphone Consumers</a></h1>
-	<div class="entry-content">
-		<p>OK so this is really an add for Google but the stats before they start selling are what makes it interesting.</p>
-
-<iframe width="480" height="270" src="http://www.youtube.com/embed/CjUcq_E4I-s?fs=1&feature=oembed" frameborder="0" allowfullscreen></iframe>
-
-
-		
-		
-	</div>
-
-
-<div class="meta">
-	<div class="date">
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-06-11T17:59:51+08:00" pubdate data-updated="true">Jun 11<span>th</span>, 2011</time></div>
-	<div class="tags">
-
-
-	<a class='category' href='/blog/categories/marketing/'>Marketing</a>
 
 
 </div>
