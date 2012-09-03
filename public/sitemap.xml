@@ -484,7 +484,13 @@
         <loc>
             http://www.samhamilton.co.uk/blog/2012/08/28/google-analytics-funnel-setup-for-spree-commerce/
         </loc>
-        <lastmod>2012-08-28T15:44:21+08:00</lastmod>
+        <lastmod>2012-09-03T17:23:32+08:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.samhamilton.co.uk/blog/2012/09/03/upgrading-spree-from-1-dot-1-2-to-1-dot-1-3/
+        </loc>
+        <lastmod>2012-09-03T17:27:17+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.samhamilton.co.uk/about/</loc>
@@ -492,10 +498,10 @@
     </url>
     <url>
         <loc>http://www.samhamilton.co.uk/blog/archives/</loc>
-        <lastmod>2012-08-28T15:44:21+08:00</lastmod>
+        <lastmod>2012-09-03T17:27:17+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.samhamilton.co.uk/</loc>
-        <lastmod>2012-08-28T15:44:21+08:00</lastmod>
+        <lastmod>2012-09-03T17:27:17+08:00</lastmod>
     </url>
 </urlset>

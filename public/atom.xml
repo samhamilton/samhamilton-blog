@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Hamilton]]></title>
   <link href="http://www.samhamilton.co.uk/atom.xml" rel="self"/>
   <link href="http://www.samhamilton.co.uk/"/>
-  <updated>2012-08-28T17:09:43+08:00</updated>
+  <updated>2012-09-03T17:29:49+08:00</updated>
   <id>http://www.samhamilton.co.uk/</id>
   <author>
     <name><![CDATA[Sam Hamilton]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Upgrading Spree from 1.1.2 to 1.1.3]]></title>
+    <link href="http://www.samhamilton.co.uk/blog/2012/09/03/upgrading-spree-from-1-dot-1-2-to-1-dot-1-3/"/>
+    <updated>2012-09-03T17:22:00+08:00</updated>
+    <id>http://www.samhamilton.co.uk/blog/2012/09/03/upgrading-spree-from-1-dot-1-2-to-1-dot-1-3</id>
+    <content type="html"><![CDATA[<p>If you upgraded Spree from 1.1.2 to 1.1.3 and found that the checkout didn&#8217;t work with some error about zones</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>ActiveRecord::StatementInvalid (PG::Error: ERROR:  column "zone_members_count" does not exist
+</span><span class='line'>LINE 1: ...LECT "spree_zones".* FROM "spree_zones"  ORDER BY zone_membe...
+</span><span class='line'>                                                             ^
+</span><span class='line'>: SELECT "spree_zones".* FROM "spree_zones"  ORDER BY zone_members_count, created_at):</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Then perhaps you missed that you needed to run some migrations</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>rake railties:install:migrations
+</span><span class='line'>rake db:migrate</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Google Analytics Funnel Setup for Spree Commerce]]></title>
@@ -293,21 +320,6 @@
 
 
 <p>It a good read if you have 10 mins - <a href="http://opinionator.blogs.nytimes.com/2010/10/07/make-wall-street-risk-it-all/">Opinionator: Make Wall Street Risk It All</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A New Week]]></title>
-    <link href="http://www.samhamilton.co.uk/blog/2010/10/07/a-new-week/"/>
-    <updated>2010-10-07T08:31:56+08:00</updated>
-    <id>http://www.samhamilton.co.uk/blog/2010/10/07/a-new-week</id>
-    <content type="html"><![CDATA[<p>So the last day in September was my last day working for my employeer - enough said.</p>
-
-<p>So today after a weeks rest I begin my next journey, one that has been calling me for oh&#8230;14 years or so. I am going to start a webhosting company. Yep I know I am mad, everyone and their brother is doing it, already done it, already got the biggest and best company in the world. Yep I know, don&#8217;t care because I want one too - I want to know if I can make a living out of probably one of the toughest parts of the internet.</p>
-
-<p>Now some people I have spoken to have said I need a niche, well I am not so sure that I do. I think that webhosting companies should not specialise in what they do except they should host the web - think about that for a second what does that mean, what does that take? Its a lot of things and different things all at the same time. They should not think that people or companies are all the same - everyone is different and they should not try and offer the same experience to everyone either as that is not going to fit. The trouble is that getting to this place where my hosting company can do all the things it should do for its customers is going to take time, lots of time. Why? Because only some of this exists and the rest needs to be created but today I am going to start out with something that really does not fit everyone and just get somewhere to prove that I can 1. do this myself and 2. it can earn enough money that I don&#8217;t need to get a job while it grows (that would be super boring!)</p>
-
-<p>Hardware bought, datacenter picked, operating system chosen, hosting software purchased - time to pull it all together.</p>
 ]]></content>
   </entry>
   

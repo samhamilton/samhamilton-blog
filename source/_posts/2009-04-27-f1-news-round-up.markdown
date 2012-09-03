@@ -6,7 +6,7 @@ slug: f1-news-round-up
 title: F1 News Round Up
 wordpress_id: 162
 categories:
-- Formual 1
+- Formula 1
 ---
 
 

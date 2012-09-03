@@ -6,7 +6,7 @@ slug: build-up-to-shanghai-f1
 title: Build up to Shanghai F1
 wordpress_id: 136
 categories:
-- Formual 1
+- Formula 1
 ---
 
 This weekend I am heading off to watch the Shanghai F1 and oh what an interesting build up there has been:

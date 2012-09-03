@@ -6,7 +6,7 @@ slug: wicked-but-wet-f1-in-shangai
 title: Wicked but Wet F1 in Shangai
 wordpress_id: 146
 categories:
-- Formual 1
+- Formula 1
 ---
 
 Had a great day at the F1 yesterday, we managed to get covered seating which was a godsend as the rain was relentless
