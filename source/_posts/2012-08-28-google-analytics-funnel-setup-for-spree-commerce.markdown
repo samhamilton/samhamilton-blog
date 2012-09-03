@@ -3,7 +3,7 @@ layout: post
 title: "Google Analytics Funnel Setup for Spree Commerce"
 date: 2012-08-28 15:34
 comments: true
-categories: ecommerce
+categories: Ecommerce
 ---
 
 During the setup of any new ecommerce system you will need to monitor your checkout for cart abandonment to find the drop off points and carefully fix them, here is how I setup analytics for Spree Commerce 1.1.x.

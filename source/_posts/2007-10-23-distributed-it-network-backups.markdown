@@ -5,8 +5,7 @@ layout: post
 slug: distributed-it-network-backups
 title: Distributed IT Network Backups?
 wordpress_id: 26
-categories:
-- Work
+categories: Work
 tags:
 - backups
 - rackspace

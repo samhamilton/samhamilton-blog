@@ -5,8 +5,7 @@ layout: post
 slug: f1-news-roundup
 title: F1 News Roundup
 wordpress_id: 156
-categories:
-- Formula 1
+categories: [Formula 1]
 ---
 
 

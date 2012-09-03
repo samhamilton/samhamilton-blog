@@ -5,8 +5,7 @@ layout: post
 slug: best-mac-tool-ever
 title: Best Mac tool ever!
 wordpress_id: 25
-categories:
-- Linux / Apple
+categories: Apple
 tags:
 - alt-tab
 - Apple

@@ -5,8 +5,7 @@ layout: post
 slug: ebay-checkout-changes-and-free-pp
 title: eBay Checkout Changes and Free P&P
 wordpress_id: 139
-categories:
-- Ecommerce
+categories: Ecommerce
 ---
 
 Nothing like a moving target, eBay updates the rules of the game again

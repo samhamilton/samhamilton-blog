@@ -5,8 +5,7 @@ layout: post
 slug: live-website
 title: Live Website?
 wordpress_id: 47
-categories:
-- Work
+categories: Work
 ---
 
 OK so the week has been and gone, and instead of getting two websites live we have only managed to get one ready and working. Learn masses about testing systems and how you need to be able to have a exact copy of the site somewhere else so that you can test before it goes live. Sounds simple but with OFBiz things never seem to be.

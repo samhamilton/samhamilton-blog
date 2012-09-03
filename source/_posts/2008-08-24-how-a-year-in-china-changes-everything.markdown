@@ -5,9 +5,7 @@ layout: post
 slug: how-a-year-in-china-changes-everything
 title: How a year in China changes everything
 wordpress_id: 27
-categories:
-- Open Source
-- Work
+categories: [Open Source, Work]
 tags:
 - China
 - freeipa

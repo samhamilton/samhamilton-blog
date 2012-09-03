@@ -5,8 +5,7 @@ layout: post
 slug: the-rise-and-fall-and-rise-of-java
 title: The Rise and Fall and Rise of Java
 wordpress_id: 534
-categories:
-- Java
+categories: Java
 ---
 
 {% oembed http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java %}

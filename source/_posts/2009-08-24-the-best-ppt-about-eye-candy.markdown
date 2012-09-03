@@ -5,8 +5,7 @@ layout: post
 slug: the-best-ppt-about-eye-candy
 title: The best ppt about Eye Candy
 wordpress_id: 390
-categories:
-- Marketing
+categories: Marketing
 ---
 
 Going to make this required reading for the company next week!

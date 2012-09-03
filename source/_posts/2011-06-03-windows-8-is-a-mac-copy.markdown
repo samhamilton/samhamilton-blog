@@ -5,8 +5,7 @@ layout: post
 slug: windows-8-is-a-mac-copy
 title: Windows 8 is a Mac copy
 wordpress_id: 536
-categories:
-- Random Stuff
+categories: [Random Stuff]
 ---
 
 None

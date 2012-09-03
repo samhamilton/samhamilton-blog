@@ -5,8 +5,7 @@ layout: post
 slug: startup-metrics-for-pirates
 title: Startup Metrics for Pirates
 wordpress_id: 544
-categories:
-- Business
+categories: Business
 ---
 
 {% oembed http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version %}

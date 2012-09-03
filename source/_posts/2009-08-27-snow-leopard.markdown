@@ -5,8 +5,7 @@ layout: post
 slug: snow-leopard
 title: Snow Leopard
 wordpress_id: 412
-categories:
-- Linux / Apple
+categories: Apple
 ---
 
 To say I am looking forward to [Snow Leopard](http://www.apple.com/macosx/) is an understatement - the prospect of getting rid of Microsoft Entourage is making me giddy, my only worry is that it won't live up to the dream. So when at 6pm today here in Shanghai I get an email saying it is in the post I jumped for joy (literally and in a lift which freaked some people out). How do I get my copy of OS X - well first it is shipped to my address in England and from there we FedEx it to China - mad but seeing as they are not releasing it in China on the same day its the only way I can get my hands on a copy right now, well three or four days behind the rest of you but oh well.

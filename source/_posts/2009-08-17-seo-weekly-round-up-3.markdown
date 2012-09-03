@@ -5,8 +5,7 @@ layout: post
 slug: seo-weekly-round-up-3
 title: SEO Weekly Round Up
 wordpress_id: 387
-categories:
-- SEO
+categories: SEO
 ---
 
 Affiliate Marketing

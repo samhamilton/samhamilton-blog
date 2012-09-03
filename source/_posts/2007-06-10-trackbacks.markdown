@@ -5,8 +5,7 @@ layout: post
 slug: trackbacks
 title: Trackbacks?
 wordpress_id: 14
-categories:
-- Random Stuff
+categories: [Random Stuff]
 ---
 
 I have to admit I have heard of Trackbacks years ago - but until I started blogging more frequently I never understood it.

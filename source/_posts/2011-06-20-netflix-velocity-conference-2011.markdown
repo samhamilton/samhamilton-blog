@@ -5,8 +5,7 @@ layout: post
 slug: netflix-velocity-conference-2011
 title: Netflix Velocity Conference 2011
 wordpress_id: 542
-categories:
-- Cloud
+categories: Cloud
 ---
 
 Great view into what it takes to run your website inside a cloud.

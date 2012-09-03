@@ -5,8 +5,7 @@ layout: post
 slug: new-iphone-software
 title: New iPhone software
 wordpress_id: 87
-categories:
-- News
+categories: News
 ---
 
 I have had a iPhone for a week now and just starting to get into the whole experience and culture but reading about the new features coming soon I think Apple will be onto something here.

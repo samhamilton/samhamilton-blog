@@ -5,8 +5,7 @@ layout: post
 slug: china-sensors-flickr
 title: China sensors Flickr
 wordpress_id: 16
-categories:
-- China
+categories: China
 ---
 
 So got up this morning and was reading [Slashdot](http://slashdot.org) with a cup of coffee and what do I read.... [China Sensoring Flickr](http://yro.slashdot.org/article.pl?sid=07/06/09/1914226)

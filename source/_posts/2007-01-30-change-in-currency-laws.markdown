@@ -5,8 +5,7 @@ layout: post
 slug: change-in-currency-laws
 title: Change in Currency Laws
 wordpress_id: 7
-categories:
-- China
+categories: China
 ---
 
 The Chinese government has decided to change the amount of foreign currency exchanged into RMB on a personal level from $50,000 per month to $50,000 per year!

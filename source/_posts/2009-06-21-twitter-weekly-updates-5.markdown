@@ -5,8 +5,7 @@ layout: post
 slug: twitter-weekly-updates-5
 title: Twitter Weekly Updates
 wordpress_id: 246
-categories:
-- Twitter
+categories: Twitter
 ---
 
 

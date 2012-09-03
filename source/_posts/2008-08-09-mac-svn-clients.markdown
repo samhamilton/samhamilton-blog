@@ -5,8 +5,7 @@ layout: post
 slug: mac-svn-clients
 title: Mac SVN Clients
 wordpress_id: 29
-categories:
-- Linux / Apple
+categories: Apple
 tags:
 - Apple
 - svn

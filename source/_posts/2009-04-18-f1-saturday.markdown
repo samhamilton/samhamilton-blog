@@ -5,8 +5,7 @@ layout: post
 slug: f1-saturday
 title: 'F1 Saturday '
 wordpress_id: 144
-categories:
-- Formula 1
+categories: [Formula 1]
 ---
 
 Great quaifying today - watched it on TV rather than go to the track as I had other things to do (some website launch going on), looking forward to tomorrow, the minibus is coming at 11am even though start is not till 3pm.

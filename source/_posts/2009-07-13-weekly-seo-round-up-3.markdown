@@ -5,8 +5,7 @@ layout: post
 slug: weekly-seo-round-up-3
 title: Weekly SEO Round Up
 wordpress_id: 373
-categories:
-- SEO
+categories: SEO
 ---
 
 **Ad Copy**

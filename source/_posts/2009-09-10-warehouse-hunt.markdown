@@ -5,6 +5,7 @@ layout: post
 slug: warehouse-hunt
 title: Warehouse Hunt
 wordpress_id: 430
+categories: Work
 ---
 
 So once again eBay are changing the rules for sellers so once again we need to work out how to react to their changes to keep the business alive. This time round the changes mean that shipping time is critical so our 14 day delivery from Shanghai can only live for so long, so off we go to Shenzhen to find a cross dock and a new speedier delivery system.

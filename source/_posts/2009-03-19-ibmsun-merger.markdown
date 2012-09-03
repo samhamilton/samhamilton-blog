@@ -5,8 +5,7 @@ layout: post
 slug: ibmsun-merger
 title: IBM/Sun Merger
 wordpress_id: 83
-categories:
-- News
+categories: News
 ---
 
 I really like the idea of these two getting it together, IBM is moving the right way when it comes to open source and the combination of the two could be really powerful.

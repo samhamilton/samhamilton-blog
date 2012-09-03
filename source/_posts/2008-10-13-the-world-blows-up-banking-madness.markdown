@@ -5,8 +5,7 @@ layout: post
 slug: the-world-blows-up-banking-madness
 title: 'The World Blows Up: Banking Madness'
 wordpress_id: 38
-categories:
-- News
+categories: News
 ---
 
 The world economy has gone mad - the UK government buys major stakes in HBOS and RBS!

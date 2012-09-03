@@ -5,8 +5,7 @@ layout: post
 slug: online-backup
 title: Online Backup
 wordpress_id: 20
-categories:
-- Random Stuff
+categories: [Random Stuff]
 tags:
 - Apple
 - Backup

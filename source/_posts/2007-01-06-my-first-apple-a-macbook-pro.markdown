@@ -5,8 +5,7 @@ layout: post
 slug: my-first-apple-a-macbook-pro
 title: My First Apple - a MacBook Pro
 wordpress_id: 4
-categories:
-- Linux / Apple
+categories: Apple
 ---
 
 Well I did it and took the plunge - I bought an Apple MacBook Pro. Lets just say that I read nearly every review under the sun about it, and I waited my time for the dual core to be release by Intel assuming that Apple would make the switch.

@@ -5,10 +5,7 @@ layout: post
 slug: crappy-internet
 title: Crappy Internet
 wordpress_id: 550
-categories:
-- Business
-- China
-- Ecommerce
+categories: [Business, China, Ecommerce]
 ---
 
 Alex, a good friend of mine here in Shanghai, recently vented his [frustration about working and living in China](http://alex-duncan.co.uk/i-spend-3-weeks-a-year-waiting-for-websites-to-load-2011-07-23.html) when your work relies on a good quality internet connection and I can't agree more.

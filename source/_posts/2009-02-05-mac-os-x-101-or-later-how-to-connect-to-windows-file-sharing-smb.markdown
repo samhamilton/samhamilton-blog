@@ -5,8 +5,7 @@ layout: post
 slug: mac-os-x-101-or-later-how-to-connect-to-windows-file-sharing-smb
 title: 'Mac OS X 10.1 or later: How to Connect to Windows File Sharing (SMB) '
 wordpress_id: 55
-categories:
-- Linux / Apple
+categories: Apple
 tags:
 - mac
 ---

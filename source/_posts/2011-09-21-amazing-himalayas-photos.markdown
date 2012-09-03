@@ -5,8 +5,7 @@ layout: post
 slug: amazing-himalayas-photos
 title: Amazing Himalayas Photos
 wordpress_id: 561
-categories:
-- Random Stuff
+categories: [Random Stuff]
 ---
 
 Just ran across this guys [photos from the Himalayas](http://www.flickr.com/photos/jankovoy/sets/72157627338647869/with/6048498636/)

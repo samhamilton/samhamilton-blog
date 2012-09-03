@@ -5,8 +5,7 @@ layout: post
 slug: getting-redhat-virtualization-up-and-running
 title: Getting Redhat Virtualization Up and Running
 wordpress_id: 23
-categories:
-- Linux / Apple
+categories: Linux
 ---
 
 So today I started the companies migration to Linux - Redhat EL 5 Linux to be exact from our entirely Microsoft based systems into a 99% Linux run IT system.

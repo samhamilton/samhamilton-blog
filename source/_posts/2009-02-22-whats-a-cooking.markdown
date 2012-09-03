@@ -5,8 +5,7 @@ layout: post
 slug: whats-a-cooking
 title: Whats a cooking?
 wordpress_id: 59
-categories:
-- Work
+categories: Work
 ---
 
 Good question, two things really.

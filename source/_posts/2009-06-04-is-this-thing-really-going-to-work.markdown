@@ -5,8 +5,7 @@ layout: post
 slug: is-this-thing-really-going-to-work
 title: 'is this thing really going to work? '
 wordpress_id: 221
-categories:
-- News
+categories: News
 ---
 
 watch this video and then tell me if anyone is going to get the type of experience that you just saw. Cant wait for real world experience review.

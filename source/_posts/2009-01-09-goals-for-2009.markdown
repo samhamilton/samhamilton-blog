@@ -5,8 +5,7 @@ layout: post
 slug: goals-for-2009
 title: Goals for 2009
 wordpress_id: 49
-categories:
-- Random Stuff
+categories: [Random Stuff]
 ---
 
 A random blog post reminded me to get my goals for 2009 in order so here they are:

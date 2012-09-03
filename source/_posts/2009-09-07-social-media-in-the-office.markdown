@@ -5,8 +5,7 @@ layout: post
 slug: social-media-in-the-office
 title: Social Media in the Office
 wordpress_id: 428
-categories:
-- Marketing
+categories: Marketing
 ---
 
 {% oembed http://www.youtube.com/watch?v=3f-hr1iWNyI&feature=player_embedded %}

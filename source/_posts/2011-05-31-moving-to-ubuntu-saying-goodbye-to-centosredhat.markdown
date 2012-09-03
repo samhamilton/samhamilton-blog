@@ -5,8 +5,7 @@ layout: post
 slug: moving-to-ubuntu-saying-goodbye-to-centosredhat
 title: Moving to Ubuntu, Saying goodbye to CentOS/Redhat
 wordpress_id: 524
-categories:
-- Linux / Apple
+categories: Linux
 ---
 
 I have been a fan of Redhat for a very long time I bought my first copy of Redhat back in 1997 - it was in a boxset, I kept it for years even after I upgraded! Redhat has been stable and reliable (well ok, most of the time) - just what you need for a server distribution but this month marks the first time I cheat on Redhat by installing a copy of Ubuntu on one of my production servers. 

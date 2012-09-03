@@ -5,8 +5,7 @@ layout: post
 slug: to-mysql-or-not
 title: to mySQL or not?
 wordpress_id: 171
-categories:
-- Open Source
+categories: [Open Source]
 tags:
 - mysql
 ---

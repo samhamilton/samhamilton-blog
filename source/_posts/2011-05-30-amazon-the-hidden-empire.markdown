@@ -5,9 +5,7 @@ layout: post
 slug: amazon-the-hidden-empire
 title: 'Amazon: The Hidden Empire'
 wordpress_id: 520
-categories:
-- Companies
-- Ecommerce
+categories: [Companies, Ecommerce]
 ---
 
 A comprehensive look at the business of Amazon.com

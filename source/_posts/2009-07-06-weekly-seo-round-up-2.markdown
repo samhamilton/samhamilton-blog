@@ -5,8 +5,7 @@ layout: post
 slug: weekly-seo-round-up-2
 title: Weekly SEO Round Up
 wordpress_id: 371
-categories:
-- SEO
+categories: SEO
 ---
 
 Not so much this week

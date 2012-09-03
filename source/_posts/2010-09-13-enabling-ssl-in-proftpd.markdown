@@ -5,8 +5,7 @@ layout: post
 slug: enabling-ssl-in-proftpd
 title: Enabling SSL in ProFTPD
 wordpress_id: 459
-categories:
-- Linux / Apple
+categories: Linux
 ---
 
 If you need to enable SSL in ProFTPD, try this out:

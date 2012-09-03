@@ -5,8 +5,7 @@ layout: post
 slug: omg-file-type-for-os-x
 title: .omg file type for OS X
 wordpress_id: 15
-categories:
-- Linux / Apple
+categories: Apple
 ---
 
 So I downloaded something with this strange new extension. Never heard of it before and nothing by default plays it (its a movie).

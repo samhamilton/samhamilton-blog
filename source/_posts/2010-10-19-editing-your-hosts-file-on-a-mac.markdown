@@ -5,8 +5,7 @@ layout: post
 slug: editing-your-hosts-file-on-a-mac
 title: Editing your hosts file on a Mac
 wordpress_id: 497
-categories:
-- Linux / Apple
+categories: Apple
 ---
 
 Found a new way to edit my hosts file while normally I would use vi this means that I can use TextEdit which sometimes is easier.

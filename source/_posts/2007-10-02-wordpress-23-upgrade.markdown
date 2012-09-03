@@ -5,8 +5,7 @@ layout: post
 slug: wordpress-23-upgrade
 title: Wordpress 2.3 Upgrade
 wordpress_id: 21
-categories:
-- News
+categories: News
 tags:
 - upgrade
 - wordpress

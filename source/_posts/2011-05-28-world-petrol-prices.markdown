@@ -5,8 +5,7 @@ layout: post
 slug: world-petrol-prices
 title: World Petrol Prices
 wordpress_id: 516
-categories:
-- Random Stuff
+categories: [Random Stuff]
 ---
 
 Click the image if to play with a interactive version

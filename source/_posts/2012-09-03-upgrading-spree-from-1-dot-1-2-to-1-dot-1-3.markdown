@@ -3,7 +3,7 @@ layout: post
 title: "Upgrading Spree from 1.1.2 to 1.1.3"
 date: 2012-09-03 17:22
 comments: true
-categories: ecommerce
+categories: Ecommerce
 ---
 
 If you upgraded Spree from 1.1.2 to 1.1.3 and found that the checkout didn't work with some error about zones

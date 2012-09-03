@@ -5,8 +5,7 @@ layout: post
 slug: weekly-seo-round-up
 title: Weekly SEO Round Up
 wordpress_id: 368
-categories:
-- SEO
+categories: SEO
 ---
 
 As part of my new job in the company I am now running a weekly SEO meeting where we get together and talk over SEO and its wider cousin Internet Marketing

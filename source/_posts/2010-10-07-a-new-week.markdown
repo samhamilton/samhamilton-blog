@@ -5,8 +5,7 @@ layout: post
 slug: a-new-week
 title: A New Week
 wordpress_id: 471
-categories:
-- Companies
+categories: Companies
 ---
 
 So the last day in September was my last day working for my employeer - enough said.

@@ -5,8 +5,7 @@ layout: post
 slug: seo-weekly-round-up
 title: SEO Weekly Round Up
 wordpress_id: 381
-categories:
-- SEO
+categories: SEO
 ---
 
 **Link Building**

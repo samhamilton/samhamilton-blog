@@ -5,8 +5,7 @@ layout: post
 slug: f1-the-world-gone-mad
 title: F1 - The World Gone Mad
 wordpress_id: 176
-categories:
-- Formula 1
+categories: [Formula 1]
 ---
 
 So I went on holiday just before the Spanish GP and in the matter of two weeks the F1 world has gone bonkers, we have had:

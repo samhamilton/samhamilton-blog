@@ -5,8 +5,7 @@ layout: post
 slug: channeladvisor-buy-marketworks
 title: ChannelAdvisor buy Marketworks
 wordpress_id: 22
-categories:
-- News
+categories: News
 tags:
 - ChannelAdvisor
 - Marketworks

@@ -5,8 +5,7 @@ layout: post
 slug: ofbiz-postgresql-and-a-worldwide-audience
 title: OFBiz, PostgreSQL and a worldwide audience
 wordpress_id: 30
-categories:
-- Work
+categories: Work
 tags:
 - Netsuite
 - OfBiz

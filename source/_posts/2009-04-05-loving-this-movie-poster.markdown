@@ -5,8 +5,7 @@ layout: post
 slug: loving-this-movie-poster
 title: Loving this Movie Poster
 wordpress_id: 104
-categories:
-- Marketing
+categories: Marketing
 ---
 
 Just thought I would share this great movie poster for the upcoming "The Girlfriend Experience"

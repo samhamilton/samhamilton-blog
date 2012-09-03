@@ -5,8 +5,7 @@ layout: post
 slug: how-to-increase-the-max-upload-size-in-php-using-htaccess
 title: How to increase the max upload size in php using .htaccess
 wordpress_id: 186
-categories:
-- Linux / Apple
+categories: Linux
 ---
 
 So if you are like me using [Mosso](http://www.mosso.com) and cant edit the php.ini file then if you want to increase the default upload size you need to edit your .htaccess file and add the following (adjust as needed):

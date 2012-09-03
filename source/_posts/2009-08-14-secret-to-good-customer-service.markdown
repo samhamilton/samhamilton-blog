@@ -5,8 +5,7 @@ layout: post
 slug: secret-to-good-customer-service
 title: Secret to good customer service?
 wordpress_id: 258
-categories:
-- Marketing
+categories: Marketing
 ---
 
 After reading a great post on [customer service](http://uk.techcrunch.com/2009/08/13/how-do-startups-make-customer-service-scale-into-awesomeness/), it does make me wonder what is the best possible way to scale customer service and I don't think it can be just as simple as writing something on the wall. Things like good customer service are built on many layers, things like managers, good processes and a great working environment I reckon are all part of what really makes a small team scale. Imagine if you have a team of 40 or 50 people working out of just a single mailbox is that really going to work, I doubt it. Add a simple CRM and bingo all the customers are going to get an answer.

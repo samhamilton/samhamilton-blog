@@ -5,11 +5,7 @@ layout: post
 slug: required-reading
 title: Required Reading
 wordpress_id: 178
-categories:
-- China
-- Marketing
-- Open Source
-- Random Stuff
+categories: [China, Marketing, Open Source, Random Stuff]
 ---
 
 

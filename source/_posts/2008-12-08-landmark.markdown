@@ -5,8 +5,7 @@ layout: post
 slug: landmark
 title: Landmark
 wordpress_id: 43
-categories:
-- Work
+categories: Work
 ---
 
 D-day is nearly upon me. The day when we finally move the companies website from our current 3rd party supplier (Channel Advisor) to our own OFBiz / Rackspace / Akamai website. While Channel Advisor's website has done us good for the last 3+ years its time to move onwards and upwards with something, well customisable.

@@ -5,8 +5,7 @@ layout: post
 slug: how-to-run-banks
 title: How to run Banks
 wordpress_id: 474
-categories:
-- Companies
+categories: Companies
 ---
 
 I just read this interesting piece on the New York Times website where due to the change in how the companies that work on Wall Street have changed their corporate structure has had massive effects on how they work but the bit that really stuck out was

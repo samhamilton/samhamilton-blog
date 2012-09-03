@@ -5,8 +5,7 @@ layout: post
 slug: small-script-to-remove-a-list-of-directories
 title: Small Script to Remove a List of Directories
 wordpress_id: 564
-categories:
-- Linux / Apple
+categories: Linux
 ---
 
 {% codeblock %}

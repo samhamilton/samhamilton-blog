@@ -5,8 +5,7 @@ layout: post
 slug: my-top-free-magento-plugins
 title: My Top Free Magento Plugins
 wordpress_id: 95
-categories:
-- Ecommerce
+categories: Ecommerce
 ---
 
 Here are my top free plugins for [Magento Commerce](http://www.magentocommerce.com/)
