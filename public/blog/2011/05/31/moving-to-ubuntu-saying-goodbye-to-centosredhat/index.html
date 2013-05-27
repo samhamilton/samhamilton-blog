@@ -1,122 +1,82 @@
 
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
-	<meta charset="utf-8">
-	<title>Moving to Ubuntu, Saying goodbye to CentOS/Redhat - Sam Hamilton</title>
-	<meta name="author" content="Sam Hamilton">
+  <meta charset="utf-8">
+  <title>Moving to Ubuntu, Saying goodbye to CentOS/Redhat - Sam Hamilton</title>
+  <meta name="author" content="Sam Hamilton">
 
-	
-	<meta name="description" content="I have been a fan of Redhat for a very long time I bought my first copy of Redhat back in 1997 - it was in a boxset, I kept it for years even after I &hellip;">
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+  <meta name="description" content="I have been a fan of Redhat for a very long time I bought my first copy of Redhat back in 1997 &ndash; it was in a boxset, I kept it for years even &hellip;">
+  
 
-	<link href="http://feeds.samhamilton.co.uk/samhamilton-co-uk" rel="alternate" title="Sam Hamilton" type="application/atom+xml">
-	<link rel="canonical" href="">
-	<link href="/favicon.png" rel="shortcut icon">
-	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.samhamilton.co.uk/blog/2011/05/31/moving-to-ubuntu-saying-goodbye-to-centosredhat">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="http://feeds.samhamilton.co.uk/samhamilton-co-uk" rel="alternate" title="Sam Hamilton" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-4507040-7']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
 </head>
 
-<body>
-	<header id="header" class="inner"><h1><a href="/">Sam Hamilton</a></h1>
-<nav id="main-nav"><ul class="main">
-	<li><a href="/">Blog</a></li>
-	<li><a href="/blog/archives">Archives</a></li>
-	<li><a href="/about">About</a></li>
-</ul>
-</nav>
-<nav id="mobile-nav">
-	<div class="alignleft menu">
-		<a class="button">Menu</a>
-		<div class="container"><ul class="main">
-	<li><a href="/">Blog</a></li>
-	<li><a href="/blog/archives">Archives</a></li>
-	<li><a href="/about">About</a></li>
-</ul>
-</div>
-	</div>
-	<div class="alignright search">
-		<a class="button"></a>
-		<div class="container">
-			<form action="http://google.com/search" method="get">
-				<input type="text" name="q" results="0">
-				<input type="hidden" name="q" value="site:www.samhamilton.co.uk">
-			</form>
-		</div>
-	</div>
-</nav>
-<nav id="sub-nav" class="alignright">
-	<div class="social">
-		
-		<a class="facebook" href="http://www.facebook.com/samhamilton" title="Facebook">Facebook</a>
-		
-		
-		<a class="google" href="https://plus.google.com/105616892210904293027?rel=author" title="Google+">Google+</a>
-		
-		
-		<a class="twitter" href="http://twitter.com/sam_hamilton_uk" title="Twitter">Twitter</a>
-		
-		
-		<a class="github" href="https://github.com/samhamilton" title="GitHub">GitHub</a>
-		
-		
-		
-		
-		
-		<a class="rss" href="http://feeds.samhamilton.co.uk/samhamilton-co-uk" title="RSS">RSS</a>
-		
-	</div>
-	<form class="search" action="http://google.com/search" method="get">
-		<input class="alignright" type="text" name="q" results="0">
-		<input type="hidden" name="q" value="site:www.samhamilton.co.uk">
-	</form>
-</nav>
-
+<body   >
+  <header role="banner">
 </header>
-	
-		
-<div id="banner" class="inner">
-	<div class="container">
-		<ul class="feed"></ul>
-	</div>
-	<small><a href="http://twitter.com/sam_hamilton_uk">sam_hamilton_uk</a> @ <a href="http://twitter.com">Twitter</a></small>
-	<div class="loading">Loading...</div>
-</div>
-<script src="/javascripts/twitter.js"></script>
-<script type="text/javascript">
-	(function($){
-		$('#banner').getTwitterFeed('sam_hamilton_uk', 4, false);
-	})(jQuery);
-</script>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="http://feeds.samhamilton.co.uk/samhamilton-co-uk" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:www.samhamilton.co.uk" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+	<li><a href="/about">About</a></li>
+</ul>
 
-	
-	<div id="content" class="inner"><article class="post">
-	<h1 class="title">Moving to Ubuntu, Saying Goodbye to CentOS/Redhat</h1>
-	<div class="entry-content"><p>I have been a fan of Redhat for a very long time I bought my first copy of Redhat back in 1997 - it was in a boxset, I kept it for years even after I upgraded! Redhat has been stable and reliable (well ok, most of the time) - just what you need for a server distribution but this month marks the first time I cheat on Redhat by installing a copy of Ubuntu on one of my production servers.</p>
-
-<p>In the beginning when I first had company production machines we also used Redhat because a couple of hundred dollars a year for support for one box seemed reasonable. Then as less and less things broke and we as sysadmins grew and learned what was needed to fix things that couple hundred dollars seems more and more expensive. Our collection of servers grew and we started switching over to CentOS as the support contracts ran out.  At the same time we also became a customer of Rackspace and we used Redhat 5 on the servers because well it was &#8220;free&#8221; with each server and it complimented the existing Redhat/CentOS we had in the office.</p>
-
-<p>We were happy with our lot - things were at peace, CentOS boxes got point upgrades fairly quickly but it never really mattered too much they were not facing the outside world or targets of external hacks.</p>
-
-<p>After leaving my last company I started out with my own hardware which I bought and put into a datacenter in the UK. I stuck CentOS on it and things again were all good. Then Redhat released 5.6 and CentOS started working on the upgrade and they kept working and working and working. Then Redhat started patching security holes but still no upgrade came from CentOS.</p>
-
-<p>For a long time using CentOS was a pleasure but now after sitting with a bunch of unpatched servers that were targets of hacking attempts for several months while they work out the upgrade process to 5.6 left me with a very bitter taste in my mouth. While I totally understand that they cant change the OS they are building, that defeats the point of binary compatibility with Redhat, the amount of time that it took to get a dot point release upgrade was just too long. Think about how many web hosting companies were sitting there with unpatched servers waiting for the upgrade - scary!</p>
-
-<p>I toyed with the idea of moving to Fedora but they dont officially support a yum version upgrade route and physically upgrading all the physical machines from media is crazy, so instead Ubuntu jumped to my mind. Its has been on the up for the last few years and more projects seem to be using it as a starting point for releasing software.</p>
-
-<p>Ubuntu ticks all the right boxes, it has a free server version, apt based version upgrades and paid support if I ever really need it. I have had the server now online for 2 weeks and things have been rather smooth, everything works as expected. Some config files are in a different location but thats no biggie and the system is getting regular security updates.</p>
-
-<p>The only negative I have with Ubuntu is that PostgreSQL 9 is not in the default distribution even though they have had it out for a couple of Ubuntu releases now, but if that is all I have to gripe about then things are defiantly ok.</p>
-
-<p>Somehow I think CentOS is going to keep having an uphill battle to keep up with Redhat who seem intent to try and disrupt other companies making a buck off their software like Oracle and even though they have the best of intentions I now don&#8217;t think that CentOS is the distro of choice for a internet facing server, sad times.</p>
-</div>
-
-
-<div class="meta">
-	<div class="date">
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Moving to Ubuntu, Saying Goodbye to CentOS/Redhat</h1>
+    
+    
+      <p class="meta">
+        
 
 
 
@@ -128,50 +88,176 @@
   
 
 
-<time datetime="2011-05-31T22:51:38+08:00" pubdate data-updated="true">May 31<span>st</span>, 2011</time></div>
-	<div class="tags">
+<time datetime="2011-05-31T22:51:38+08:00" pubdate data-updated="true">May 31<span>st</span>, 2011</time>
+        
+      </p>
+    
+  </header>
 
 
-	<a class='category' href='/blog/categories/linux/'>Linux</a>
+<div class="entry-content"><p>I have been a fan of Redhat for a very long time I bought my first copy of Redhat back in 1997 &ndash; it was in a boxset, I kept it for years even after I upgraded! Redhat has been stable and reliable (well ok, most of the time) &ndash; just what you need for a server distribution but this month marks the first time I cheat on Redhat by installing a copy of Ubuntu on one of my production servers.</p>
 
+<p>In the beginning when I first had company production machines we also used Redhat because a couple of hundred dollars a year for support for one box seemed reasonable. Then as less and less things broke and we as sysadmins grew and learned what was needed to fix things that couple hundred dollars seems more and more expensive. Our collection of servers grew and we started switching over to CentOS as the support contracts ran out.  At the same time we also became a customer of Rackspace and we used Redhat 5 on the servers because well it was &ldquo;free&rdquo; with each server and it complimented the existing Redhat/CentOS we had in the office.</p>
 
+<p>We were happy with our lot &ndash; things were at peace, CentOS boxes got point upgrades fairly quickly but it never really mattered too much they were not facing the outside world or targets of external hacks.</p>
+
+<p>After leaving my last company I started out with my own hardware which I bought and put into a datacenter in the UK. I stuck CentOS on it and things again were all good. Then Redhat released 5.6 and CentOS started working on the upgrade and they kept working and working and working. Then Redhat started patching security holes but still no upgrade came from CentOS.</p>
+
+<p>For a long time using CentOS was a pleasure but now after sitting with a bunch of unpatched servers that were targets of hacking attempts for several months while they work out the upgrade process to 5.6 left me with a very bitter taste in my mouth. While I totally understand that they cant change the OS they are building, that defeats the point of binary compatibility with Redhat, the amount of time that it took to get a dot point release upgrade was just too long. Think about how many web hosting companies were sitting there with unpatched servers waiting for the upgrade &ndash; scary!</p>
+
+<p>I toyed with the idea of moving to Fedora but they dont officially support a yum version upgrade route and physically upgrading all the physical machines from media is crazy, so instead Ubuntu jumped to my mind. Its has been on the up for the last few years and more projects seem to be using it as a starting point for releasing software.</p>
+
+<p>Ubuntu ticks all the right boxes, it has a free server version, apt based version upgrades and paid support if I ever really need it. I have had the server now online for 2 weeks and things have been rather smooth, everything works as expected. Some config files are in a different location but thats no biggie and the system is getting regular security updates.</p>
+
+<p>The only negative I have with Ubuntu is that PostgreSQL 9 is not in the default distribution even though they have had it out for a couple of Ubuntu releases now, but if that is all I have to gripe about then things are defiantly ok.</p>
+
+<p>Somehow I think CentOS is going to keep having an uphill battle to keep up with Redhat who seem intent to try and disrupt other companies making a buck off their software like Oracle and even though they have the best of intentions I now don&rsquo;t think that CentOS is the distro of choice for a internet facing server, sad times.</p>
 </div>
-	
-</div></article>
 
-	<div class="share">
-	<div class="addthis_toolbox addthis_default_style ">
-	
-	
-	<a class="addthis_button_tweet"></a>
-	
-	
-	<a class="addthis_counter addthis_pill_style"></a>
-	</div>
-  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Sam Hamilton</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-05-31T22:51:38+08:00" pubdate data-updated="true">May 31<span>st</span>, 2011</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/linux/'>Linux</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.samhamilton.co.uk/blog/2011/05/31/moving-to-ubuntu-saying-goodbye-to-centosredhat/" data-via="sam_hamilton_uk" data-counturl="http://www.samhamilton.co.uk/blog/2011/05/31/moving-to-ubuntu-saying-goodbye-to-centosredhat/" >Tweet</a>
+  
+  
+  
 </div>
 
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2011/05/31/amazon-the-hidden-empire/" title="Previous Post: Amazon: The Hidden Empire">&laquo; Amazon: The Hidden Empire</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2011/06/03/the-rise-and-fall-and-rise-of-java/" title="Next Post: The Rise and Fall and Rise of Java">The Rise and Fall and Rise of Java &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
 
-
-<section id="comment">
-    <h1 class="title">Comments</h1>
+  <section>
+    <h1>Comments</h1>
     <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>
-</section>
+  </section>
+
 </div>
-	<footer id="footer" class="inner">Copyright &copy; 2012
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/01/24/getting-rvm/">Getting RVM</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/01/18/heroku-my-new-best-friend/">Heroku - My New Best Friend</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/09/03/upgrading-spree-from-1-dot-1-2-to-1-dot-1-3/">Upgrading Spree From 1.1.2 to 1.1.3</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/08/28/google-analytics-funnel-setup-for-spree-commerce/">Google Analytics Funnel Setup for Spree Commerce</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/08/24/non-www-to-www-nginx-redirect/">Non-www to Www Nginx Redirect</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/samhamilton">@samhamilton</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'samhamilton',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/105616892210904293027?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo">Copyright &copy; 2013
 
     Sam Hamilton
 
-</footer>
-	<script src="/javascripts/slash.js"></script>
-<script src="/javascripts/jquery.fancybox.pack.js"></script>
-<script type="text/javascript">
-(function($){
-	$('.fancybox').fancybox();
-})(jQuery);
-</script> <!-- Delete or comment this line to disable Fancybox -->
 
+</footer>
+  
 
 <script type="text/javascript">
       var disqus_shortname = 'samhamilton';
@@ -191,17 +277,20 @@
 
 
 
-	<script type="text/javascript">
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-4507040-7']);
-		_gaq.push(['_trackPageview']);
 
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
 
 
 

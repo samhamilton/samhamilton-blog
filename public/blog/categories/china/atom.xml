@@ -4,7 +4,7 @@
   <title><![CDATA[Category: China | Sam Hamilton]]></title>
   <link href="http://www.samhamilton.co.uk/blog/categories/china/atom.xml" rel="self"/>
   <link href="http://www.samhamilton.co.uk/"/>
-  <updated>2012-09-04T18:12:56+08:00</updated>
+  <updated>2013-05-27T16:38:04+08:00</updated>
   <id>http://www.samhamilton.co.uk/</id>
   <author>
     <name><![CDATA[Sam Hamilton]]></name>
@@ -29,7 +29,7 @@
     <link href="http://www.samhamilton.co.uk/blog/2011/07/25/crappy-internet/"/>
     <updated>2011-07-25T20:51:33+08:00</updated>
     <id>http://www.samhamilton.co.uk/blog/2011/07/25/crappy-internet</id>
-    <content type="html"><![CDATA[<p>Alex, a good friend of mine here in Shanghai, recently vented his <a href="http://alex-duncan.co.uk/i-spend-3-weeks-a-year-waiting-for-websites-to-load-2011-07-23.html">frustration about working and living in China</a> when your work relies on a good quality internet connection and I can't agree more.</p>
+    <content type="html"><![CDATA[<p>Alex, a good friend of mine here in Shanghai, recently vented his <a href="http://alex-duncan.co.uk/i-spend-3-weeks-a-year-waiting-for-websites-to-load-2011-07-23.html">frustration about working and living in China</a> when your work relies on a good quality internet connection and I can&rsquo;t agree more.</p>
 
 <p>For the last couple of weeks Google has been once again targeted by the censors but in a truly frustrating way, you can search for something and get back the first page of results (most of the time) but then if you refine your search or do another search straight after the great firewall blocks Google and you end up with an error page. I am very ashamed to say that I have had to resort to using Bing to find some things over the past couple of weeks but the Bing results are just of a poorer quality which then frustrates me even more as I know Google would have found what I was looking for after a couple of refinements.</p>
 
@@ -37,17 +37,17 @@
 
 <p>He brings up the point that a US company will need good internet to the USA to use their tools (ERP, CRM etc etc) but this is not what the majority of the companies who are here need to use, the government regulations have restricted the truely massive corporations coming into China in one way or another and so far the largest companies in China probably are mostly Chinese in origin and probably most of them are government owned.</p>
 
-<p>Alex ponders if bad internet will have a knock on economic effect and I think it will but not in the way that he expects. Instead of China becoming the next India where you can outsource your "services", bad international internet will localise people and already has, just look at the Chinese Twitter and Facebook clones. China will become more introverted and that is a bad thing because a country so large and a people so proud should be sharing with the rest of the world not looking inwards.</p>
+<p>Alex ponders if bad internet will have a knock on economic effect and I think it will but not in the way that he expects. Instead of China becoming the next India where you can outsource your &ldquo;services&rdquo;, bad international internet will localise people and already has, just look at the Chinese Twitter and Facebook clones. China will become more introverted and that is a bad thing because a country so large and a people so proud should be sharing with the rest of the world not looking inwards.</p>
 
-<p>What you have to remember is that local internet, i.e. internet within China is OK - you can perfectly stream videos, watch tv, search the internet, tweet on the local twitter clone and not hit a single problem. I have had 2M internet for nearly seven years and ok the upgrade to 10M+ is well overdue if you compare internet speeds to Hong Kong, Korea or even the UK but compared to the USA it seems just about on a par.</p>
+<p>What you have to remember is that local internet, i.e. internet within China is OK &ndash; you can perfectly stream videos, watch tv, search the internet, tweet on the local twitter clone and not hit a single problem. I have had 2M internet for nearly seven years and ok the upgrade to 10M+ is well overdue if you compare internet speeds to Hong Kong, Korea or even the UK but compared to the USA it seems just about on a par.</p>
 
 <p>Companies who want to expand into China need to remember that China is almost like a sparate zone of the internet where the normal rule dont apply, sticking a CDN box in Hong Kong does not mean people in Shanghai or Beijing will have good speeds even if the normal rules about proximity would mean that it would. If you truly want fast local access to your services in China then get a CDN with local Chinese nodes and no Hong Kong does not count.</p>
 
-<p>Here is the China network diagram from a <a href="http://www.cdnetworks.com/solutions/china-acceleration/">decent CDN</a> who truly understand China - show me another CDN that has that network in China? Akamai perhaps but they won't show.</p>
+<p>Here is the China network diagram from a <a href="http://www.cdnetworks.com/solutions/china-acceleration/">decent CDN</a> who truly understand China &ndash; show me another CDN that has that network in China? Akamai perhaps but they won&rsquo;t show.</p>
 
 <p><img src="/images/china_acceleration.jpg"></p>
 
-<p>One last thing to throw on the fire - Shanghai has plenty of <a href="/images/Equinix_Submarine_TGMap_MTS_15.pdf">submarine cables</a> and also China has Hong Kong one of the greatest gathering of submarine cables in the world, if they wanted international internet to work they could, the trouble is that they dont.</p>
+<p>One last thing to throw on the fire &ndash; Shanghai has plenty of <a href="/images/Equinix_Submarine_TGMap_MTS_15.pdf">submarine cables</a> and also China has Hong Kong one of the greatest gathering of submarine cables in the world, if they wanted international internet to work they could, the trouble is that they dont.</p>
 ]]></content>
   </entry>
   
@@ -101,8 +101,8 @@
 <ul>
 <li><p><a href="http://feedproxy.google.com/~r/blogspot/Dcni/~3/6GtC-PyydnU/yahoo-pipes-and.html">Yahoo! Pipes and the HTML5 canvas tag</a></p></li>
 <li><p><a href="http://feedproxy.google.com/~r/readwriteweb/~3/rYa_G525ROc/linked_data_is_blooming_why_you_should_care.php">Linked Data is Blooming: Why You Should Care</a></p></li>
-<li><p><a href="http://feedproxy.google.com/~r/ProbloggerHelpingBloggersEarnMoney/~3/9T1zER9sGWQ/">Designing a Custom WordPress Theme - Working with a Designer</a></p></li>
-<li><p><a href="http://feedproxy.google.com/~r/ProbloggerHelpingBloggersEarnMoney/~3/cB5G32NhESU/">Designing a Custom WordPress Theme - Working with a Designer [PART 2]</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/ProbloggerHelpingBloggersEarnMoney/~3/9T1zER9sGWQ/">Designing a Custom WordPress Theme &ndash; Working with a Designer</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/ProbloggerHelpingBloggersEarnMoney/~3/cB5G32NhESU/">Designing a Custom WordPress Theme &ndash; Working with a Designer [PART 2]</a></p></li>
 </ul>
 </li>
 <li><p>Random Others:</p>
@@ -124,7 +124,7 @@
 <li><p><a href="http://www.mailchimp.com/blog/how-mailchimp-uses-cotweet/">How MailChimp Uses CoTweet</a></p></li>
 <li><p><a href="http://mashable.com/2009/05/15/celebrity-facebook-pages/">5 Lessons Celebrities Can Teach Us About Facebook Pages</a></p></li>
 <li><p><a href="http://www.seobook.com/trademark-schmademark">Google AdWords, PPC Industry Becoming Far More Cut Throat</a></p></li>
-<li><p><a href="http://feedproxy.google.com/~r/seomoz/~3/5cqvi12MopA/headsmacking-tip-13-dont-accidentally-block-link-juice-with-robotstxt">Headsmacking Tip #13: Don't Accidentally Block Link Juice with Robots.txt</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/seomoz/~3/5cqvi12MopA/headsmacking-tip-13-dont-accidentally-block-link-juice-with-robotstxt">Headsmacking Tip #13: Don&rsquo;t Accidentally Block Link Juice with Robots.txt</a></p></li>
 </ul>
 </li>
 </ul>

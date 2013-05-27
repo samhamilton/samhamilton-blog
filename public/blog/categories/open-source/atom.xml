@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Open Source | Sam Hamilton]]></title>
   <link href="http://www.samhamilton.co.uk/blog/categories/open-source/atom.xml" rel="self"/>
   <link href="http://www.samhamilton.co.uk/"/>
-  <updated>2012-09-04T18:12:56+08:00</updated>
+  <updated>2013-05-27T16:38:04+08:00</updated>
   <id>http://www.samhamilton.co.uk/</id>
   <author>
     <name><![CDATA[Sam Hamilton]]></name>
@@ -63,8 +63,8 @@
 <ul>
 <li><p><a href="http://feedproxy.google.com/~r/blogspot/Dcni/~3/6GtC-PyydnU/yahoo-pipes-and.html">Yahoo! Pipes and the HTML5 canvas tag</a></p></li>
 <li><p><a href="http://feedproxy.google.com/~r/readwriteweb/~3/rYa_G525ROc/linked_data_is_blooming_why_you_should_care.php">Linked Data is Blooming: Why You Should Care</a></p></li>
-<li><p><a href="http://feedproxy.google.com/~r/ProbloggerHelpingBloggersEarnMoney/~3/9T1zER9sGWQ/">Designing a Custom WordPress Theme - Working with a Designer</a></p></li>
-<li><p><a href="http://feedproxy.google.com/~r/ProbloggerHelpingBloggersEarnMoney/~3/cB5G32NhESU/">Designing a Custom WordPress Theme - Working with a Designer [PART 2]</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/ProbloggerHelpingBloggersEarnMoney/~3/9T1zER9sGWQ/">Designing a Custom WordPress Theme &ndash; Working with a Designer</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/ProbloggerHelpingBloggersEarnMoney/~3/cB5G32NhESU/">Designing a Custom WordPress Theme &ndash; Working with a Designer [PART 2]</a></p></li>
 </ul>
 </li>
 <li><p>Random Others:</p>
@@ -86,7 +86,7 @@
 <li><p><a href="http://www.mailchimp.com/blog/how-mailchimp-uses-cotweet/">How MailChimp Uses CoTweet</a></p></li>
 <li><p><a href="http://mashable.com/2009/05/15/celebrity-facebook-pages/">5 Lessons Celebrities Can Teach Us About Facebook Pages</a></p></li>
 <li><p><a href="http://www.seobook.com/trademark-schmademark">Google AdWords, PPC Industry Becoming Far More Cut Throat</a></p></li>
-<li><p><a href="http://feedproxy.google.com/~r/seomoz/~3/5cqvi12MopA/headsmacking-tip-13-dont-accidentally-block-link-juice-with-robotstxt">Headsmacking Tip #13: Don't Accidentally Block Link Juice with Robots.txt</a></p></li>
+<li><p><a href="http://feedproxy.google.com/~r/seomoz/~3/5cqvi12MopA/headsmacking-tip-13-dont-accidentally-block-link-juice-with-robotstxt">Headsmacking Tip #13: Don&rsquo;t Accidentally Block Link Juice with Robots.txt</a></p></li>
 </ul>
 </li>
 </ul>
@@ -99,7 +99,7 @@
     <link href="http://www.samhamilton.co.uk/blog/2009/05/23/to-mysql-or-not/"/>
     <updated>2009-05-23T06:16:37+08:00</updated>
     <id>http://www.samhamilton.co.uk/blog/2009/05/23/to-mysql-or-not</id>
-    <content type="html"><![CDATA[<p>So this blog runs on mySQL but most things critical for the company run on postgreSQL unless horror of horrors it requires a MS SQL database. With first Sun buying mySQL then Oracle you would expect better things from them and they do seem to have most of the limelight when it comes to scaling outward into the cloud (this blog is running from <a href="http://www.mosso.com">Mosso</a>) but what is becoming apparent is that mySQL seems to be a melt down - have a <a href="http://infoworld.com/d/developer-world/mysql-forked-beyond-repair-262">read here</a> (updated with...) and <a href="http://www.dbms2.com/2009/05/22/yet-more-on-mysql-forks-and-storage-engines/">also here</a> as it seems that more people are thinking the same way</p>
+    <content type="html"><![CDATA[<p>So this blog runs on mySQL but most things critical for the company run on postgreSQL unless horror of horrors it requires a MS SQL database. With first Sun buying mySQL then Oracle you would expect better things from them and they do seem to have most of the limelight when it comes to scaling outward into the cloud (this blog is running from <a href="http://www.mosso.com">Mosso</a>) but what is becoming apparent is that mySQL seems to be a melt down &ndash; have a <a href="http://infoworld.com/d/developer-world/mysql-forked-beyond-repair-262">read here</a> (updated with&hellip;) and <a href="http://www.dbms2.com/2009/05/22/yet-more-on-mysql-forks-and-storage-engines/">also here</a> as it seems that more people are thinking the same way</p>
 ]]></content>
   </entry>
   
@@ -108,7 +108,7 @@
     <link href="http://www.samhamilton.co.uk/blog/2009/05/21/fedora-11/"/>
     <updated>2009-05-21T20:51:36+08:00</updated>
     <id>http://www.samhamilton.co.uk/blog/2009/05/21/fedora-11</id>
-    <content type="html"><![CDATA[<p>I am looking forward to getting hold of the Fedora 11 - the beta reviews have been good and it will be a welcome upgrade for my desktop</p>
+    <content type="html"><![CDATA[<p>I am looking forward to getting hold of the Fedora 11 &ndash; the beta reviews have been good and it will be a welcome upgrade for my desktop</p>
 ]]></content>
   </entry>
   
@@ -128,11 +128,11 @@
     <id>http://www.samhamilton.co.uk/blog/2008/08/25/how-a-year-in-china-changes-everything</id>
     <content type="html"><![CDATA[<p>So this time last year I was planning on building a distributed IT system across many small offices with a maximum of 30 people in each. This year we are consolidated in one building on two different floors with all the servers in one room. Amazing change.</p>
 
-<p>But to be honest it does not really change the overall IT plan that much. Our customers are still spread out all over the world and we now have staff members on three continents - not bad for a 100 person company.</p>
+<p>But to be honest it does not really change the overall IT plan that much. Our customers are still spread out all over the world and we now have staff members on three continents &ndash; not bad for a 100 person company.</p>
 
-<p>The one thing that has changed is what software we use - we are driving firmly away from Microsoft and into the hands of Linux and open source software.</p>
+<p>The one thing that has changed is what software we use &ndash; we are driving firmly away from Microsoft and into the hands of Linux and open source software.</p>
 
-<p>We are working with an Apache project ERP system called <a href="http://www.ofbiz.org">OFBiz</a> with help from the great guys at <a href="http://www.hotwaxmedia.com">Hotwax Media</a> - the improvements we have seen from in our warehouse are just amazing.</p>
+<p>We are working with an Apache project ERP system called <a href="http://www.ofbiz.org">OFBiz</a> with help from the great guys at <a href="http://www.hotwaxmedia.com">Hotwax Media</a> &ndash; the improvements we have seen from in our warehouse are just amazing.</p>
 
 <p>How to handle user authentication has also become clearer with the help of a Redhat project called <a href="http://www.freeipa.org">FreeIPA</a>. This really looks good enough to replace our current Active Directory setup.</p>
 
