@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Hamilton]]></title>
   <link href="http://www.samhamilton.co.uk/atom.xml" rel="self"/>
   <link href="http://www.samhamilton.co.uk/"/>
-  <updated>2013-08-29T13:52:10+08:00</updated>
+  <updated>2013-08-29T14:16:06+08:00</updated>
   <id>http://www.samhamilton.co.uk/</id>
   <author>
     <name><![CDATA[Sam Hamilton]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Shanghai Internet speed - Updated for 2013]]></title>
+    <link href="http://www.samhamilton.co.uk/blog/2013/08/29/shanghai-internet-speed-updated-for-2013/"/>
+    <updated>2013-08-29T14:11:00+08:00</updated>
+    <id>http://www.samhamilton.co.uk/blog/2013/08/29/shanghai-internet-speed-updated-for-2013</id>
+    <content type="html"><![CDATA[<p>Well things have got better in Shanghai, when I left 18 months ago I have 2M ADSL, then in Hangzhou we got 10M ADSL which they then decided was too fast and said their equipment could only handle 4M so after the end of the first year they downgraded us. Now back in Shanghai we have 20M fiber to the building (FTTB). It flies! I have also noticed that Akamai is now doing a much better job in China, Apple App Store updates are now whizzing down the line at nearly the full 20M.</p>
+
+<p><img src="http://www.samhamilton.co.uk/images/2841513976.png" alt="" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[We launched our wholesale site - Zooron.com]]></title>
@@ -153,7 +164,7 @@
     <id>http://www.samhamilton.co.uk/blog/2011/11/12/internet-speed</id>
     <content type="html"><![CDATA[<p>Well the internet speed in Hangzhou is much better than Shanghai. I am paying the same amount of money as in Shanghai but getting a better connection!</p>
 
-<p><img src="http://www.speedtest.net/result/1587255700.png" alt="" /></p>
+<p><img src="http://www.samhamilton.co.uk/images/1587255700.png" alt="" /></p>
 ]]></content>
   </entry>
   
@@ -305,20 +316,6 @@
 <p>The only negative I have with Ubuntu is that PostgreSQL 9 is not in the default distribution even though they have had it out for a couple of Ubuntu releases now, but if that is all I have to gripe about then things are defiantly ok.</p>
 
 <p>Somehow I think CentOS is going to keep having an uphill battle to keep up with Redhat who seem intent to try and disrupt other companies making a buck off their software like Oracle and even though they have the best of intentions I now don&rsquo;t think that CentOS is the distro of choice for a internet facing server, sad times.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Amazon: The Hidden Empire]]></title>
-    <link href="http://www.samhamilton.co.uk/blog/2011/05/31/amazon-the-hidden-empire/"/>
-    <updated>2011-05-31T00:21:06+08:00</updated>
-    <id>http://www.samhamilton.co.uk/blog/2011/05/31/amazon-the-hidden-empire</id>
-    <content type="html"><![CDATA[<p>A comprehensive look at the business of Amazon.com</p>
-
-<iframe src="http://www.slideshare.net/slideshow/embed_code/7928875" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
-
-
-<p> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire" title="Amazon.com: the Hidden Empire" target="_blank">Amazon.com: the Hidden Empire</a> </strong> from <strong><a href="http://www.slideshare.net/faberNovel" target="_blank">faberNovel</a></strong> </div></p>
 ]]></content>
   </entry>
   
