@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Linux | Sam Hamilton]]></title>
   <link href="http://www.samhamilton.co.uk/blog/categories/linux/atom.xml" rel="self"/>
   <link href="http://www.samhamilton.co.uk/"/>
-  <updated>2013-08-29T14:16:06+08:00</updated>
+  <updated>2013-09-02T16:37:55+08:00</updated>
   <id>http://www.samhamilton.co.uk/</id>
   <author>
     <name><![CDATA[Sam Hamilton]]></name>
@@ -20,18 +20,14 @@
     <id>http://www.samhamilton.co.uk/blog/2012/08/24/non-www-to-www-nginx-redirect</id>
     <content type="html"><![CDATA[<p>Add this small block of code into your server{} block to redirect all non-www to the www version of your website.</p>
 
-<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>if ($host != &lsquo;www.samhamilton.co.uk&rsquo; ) {&lt;/p>
-</span><span class='line'>
-</span><span class='line'>&lt;pre>&lt;code>rewrite  ^/(.*)$  http://www.samhamilton.co.uk/$1  permanent;
-</span><span class='line'>&lt;/code>&lt;/pre>
-</span><span class='line'>
-</span><span class='line'>&lt;p> }</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+<p>{% codeblock %}
+if ($host != &lsquo;www.samhamilton.co.uk&rsquo; ) {</p>
+
+<pre><code>rewrite  ^/(.*)$  http://www.samhamilton.co.uk/$1  permanent;
+</code></pre>
+
+<p> }
+{% endcodeblock %}</p>
 ]]></content>
   </entry>
   
@@ -40,10 +36,10 @@
     <link href="http://www.samhamilton.co.uk/blog/2011/09/23/small-script-to-remove-a-list-of-directories/"/>
     <updated>2011-09-23T04:13:38+08:00</updated>
     <id>http://www.samhamilton.co.uk/blog/2011/09/23/small-script-to-remove-a-list-of-directories</id>
-    <content type="html"><![CDATA[<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>cat list-of-directories.txt|while read f; do
-</span><span class='line'>if [ -e &ldquo;$f&rdquo; ]; then rm -rf &ldquo;$f&rdquo;; fi; done```</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+    <content type="html"><![CDATA[<p>{% codeblock %}
+cat list-of-directories.txt|while read f; do
+if [ -e &ldquo;$f&rdquo; ]; then rm -rf &ldquo;$f&rdquo;; fi; done```
+{% endcodeblock %}</p>
 
 <p>thanks <a href="http://www.linuxquestions.org/questions/programming-9/scripting-problem-rm-filelist-460910/#post2320128">unSpawn</a>!</p>
 ]]></content>
@@ -81,20 +77,15 @@
     <id>http://www.samhamilton.co.uk/blog/2010/09/14/enabling-ssl-in-proftpd</id>
     <content type="html"><![CDATA[<p>If you need to enable SSL in ProFTPD, try this out:</p>
 
-<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;IfModule mod_tls.c>
-</span><span class='line'>TLSEngine on
-</span><span class='line'>TLSRequired off
-</span><span class='line'>TLSRSACertificateFile /etc/httpd/conf/ssl.crt/server.crt
-</span><span class='line'>TLSRSACertificateKeyFile /etc/httpd/conf/ssl.key/server.key
-</span><span class='line'>TLSVerifyClient off
-</span><span class='line'>&lt;/IfModule></span></code></pre></td></tr></table></div></figure></notextile></div></p>
+<p>{% codeblock %}
+<IfModule mod_tls.c>
+TLSEngine on
+TLSRequired off
+TLSRSACertificateFile /etc/httpd/conf/ssl.crt/server.crt
+TLSRSACertificateKeyFile /etc/httpd/conf/ssl.key/server.key
+TLSVerifyClient off
+</IfModule>
+{% endcodeblock %}</p>
 ]]></content>
   </entry>
   
@@ -105,12 +96,11 @@
     <id>http://www.samhamilton.co.uk/blog/2009/05/24/how-to-increase-the-max-upload-size-in-php-using-htaccess</id>
     <content type="html"><![CDATA[<p>So if you are like me using <a href="http://www.mosso.com">Mosso</a> and cant edit the php.ini file then if you want to increase the default upload size you need to edit your .htaccess file and add the following (adjust as needed):</p>
 
-<pre><code><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>php_value post_max_size 16M
-</span><span class='line'>php_value upload_max_filesize 16M
-</span><span class='line'>php_value max_execution_time 600</span></code></pre></td></tr></table></div></figure></notextile></div>
+<pre><code>{% codeblock %}
+php_value post_max_size 16M
+php_value upload_max_filesize 16M
+php_value max_execution_time 600
+{% endcodeblock %}
 </code></pre>
 ]]></content>
   </entry>

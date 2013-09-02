@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Random Stuff | Sam Hamilton]]></title>
   <link href="http://www.samhamilton.co.uk/blog/categories/random-stuff/atom.xml" rel="self"/>
   <link href="http://www.samhamilton.co.uk/"/>
-  <updated>2013-08-29T14:16:06+08:00</updated>
+  <updated>2013-09-02T16:37:55+08:00</updated>
   <id>http://www.samhamilton.co.uk/</id>
   <author>
     <name><![CDATA[Sam Hamilton]]></name>
@@ -62,7 +62,7 @@
     <link href="http://www.samhamilton.co.uk/blog/2010/12/03/making-the-chevrolet-volt-in-1m-55s/"/>
     <updated>2010-12-03T01:30:01+08:00</updated>
     <id>http://www.samhamilton.co.uk/blog/2010/12/03/making-the-chevrolet-volt-in-1m-55s</id>
-    <content type="html"><![CDATA[<p><a href="http://www.youtube.com/watch?v=s3dZfvTLbBE">http://www.youtube.com/watch?v=s3dZfvTLbBE</a>">http://www.youtube.com/watch?v=s3dZfvTLbBE">http://www.youtube.com/watch?v=s3dZfvTLbBE</a></a></p>
+    <content type="html"><![CDATA[<p>{% oembed <a href="http://www.youtube.com/watch?v=s3dZfvTLbBE">http://www.youtube.com/watch?v=s3dZfvTLbBE</a> %}</p>
 ]]></content>
   </entry>
   

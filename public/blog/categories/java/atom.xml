@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Java | Sam Hamilton]]></title>
   <link href="http://www.samhamilton.co.uk/blog/categories/java/atom.xml" rel="self"/>
   <link href="http://www.samhamilton.co.uk/"/>
-  <updated>2013-08-29T14:16:06+08:00</updated>
+  <updated>2013-09-02T16:37:55+08:00</updated>
   <id>http://www.samhamilton.co.uk/</id>
   <author>
     <name><![CDATA[Sam Hamilton]]></name>
@@ -18,7 +18,7 @@
     <link href="http://www.samhamilton.co.uk/blog/2011/06/03/the-rise-and-fall-and-rise-of-java/"/>
     <updated>2011-06-03T18:21:37+08:00</updated>
     <id>http://www.samhamilton.co.uk/blog/2011/06/03/the-rise-and-fall-and-rise-of-java</id>
-    <content type="html"><![CDATA[<p><a href="http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java">http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java</a>">http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java">http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java</a></a></p>
+    <content type="html"><![CDATA[<p>{% oembed <a href="http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java">http://www.slideshare.net/sogrady/the-rise-and-fall-and-rise-of-java</a> %}</p>
 ]]></content>
   </entry>
   

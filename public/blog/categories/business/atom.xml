@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Business | Sam Hamilton]]></title>
   <link href="http://www.samhamilton.co.uk/blog/categories/business/atom.xml" rel="self"/>
   <link href="http://www.samhamilton.co.uk/"/>
-  <updated>2013-08-29T14:16:06+08:00</updated>
+  <updated>2013-09-02T16:37:55+08:00</updated>
   <id>http://www.samhamilton.co.uk/</id>
   <author>
     <name><![CDATA[Sam Hamilton]]></name>
@@ -34,7 +34,7 @@
 
 <p>Here is the China network diagram from a <a href="http://www.cdnetworks.com/solutions/china-acceleration/">decent CDN</a> who truly understand China &ndash; show me another CDN that has that network in China? Akamai perhaps but they won&rsquo;t show.</p>
 
-<p><img src="/images/china_acceleration.jpg"></p>
+<p>{% img /images/china_acceleration.jpg %}</p>
 
 <p>One last thing to throw on the fire &ndash; Shanghai has plenty of <a href="/images/Equinix_Submarine_TGMap_MTS_15.pdf">submarine cables</a> and also China has Hong Kong one of the greatest gathering of submarine cables in the world, if they wanted international internet to work they could, the trouble is that they dont.</p>
 ]]></content>
@@ -45,7 +45,7 @@
     <link href="http://www.samhamilton.co.uk/blog/2011/07/06/data-driven-startups/"/>
     <updated>2011-07-06T21:29:22+08:00</updated>
     <id>http://www.samhamilton.co.uk/blog/2011/07/06/data-driven-startups</id>
-    <content type="html"><![CDATA[<p><a href="http://www.slideshare.net/dcancel/data-drivenstartups">http://www.slideshare.net/dcancel/data-drivenstartups</a>">http://www.slideshare.net/dcancel/data-drivenstartups">http://www.slideshare.net/dcancel/data-drivenstartups</a></a></p>
+    <content type="html"><![CDATA[<p>{% oembed <a href="http://www.slideshare.net/dcancel/data-drivenstartups">http://www.slideshare.net/dcancel/data-drivenstartups</a> %}</p>
 ]]></content>
   </entry>
   
@@ -54,7 +54,7 @@
     <link href="http://www.samhamilton.co.uk/blog/2011/07/06/startup-metrics-for-pirates/"/>
     <updated>2011-07-06T21:28:27+08:00</updated>
     <id>http://www.samhamilton.co.uk/blog/2011/07/06/startup-metrics-for-pirates</id>
-    <content type="html"><![CDATA[<p><a href="http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version">http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version</a>">http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version">http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version</a></a></p>
+    <content type="html"><![CDATA[<p>{% oembed <a href="http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version">http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version</a> %}</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Cloud | Sam Hamilton]]></title>
   <link href="http://www.samhamilton.co.uk/blog/categories/cloud/atom.xml" rel="self"/>
   <link href="http://www.samhamilton.co.uk/"/>
-  <updated>2013-08-29T14:16:06+08:00</updated>
+  <updated>2013-09-02T16:37:55+08:00</updated>
   <id>http://www.samhamilton.co.uk/</id>
   <author>
     <name><![CDATA[Sam Hamilton]]></name>
@@ -20,7 +20,7 @@
     <id>http://www.samhamilton.co.uk/blog/2011/06/20/netflix-velocity-conference-2011</id>
     <content type="html"><![CDATA[<p>Great view into what it takes to run your website inside a cloud.</p>
 
-<p><a href="http://www.slideshare.net/adrianco/netflix-velocity-conference-2011">http://www.slideshare.net/adrianco/netflix-velocity-conference-2011</a>">http://www.slideshare.net/adrianco/netflix-velocity-conference-2011">http://www.slideshare.net/adrianco/netflix-velocity-conference-2011</a></a></p>
+<p>{% oembed <a href="http://www.slideshare.net/adrianco/netflix-velocity-conference-2011">http://www.slideshare.net/adrianco/netflix-velocity-conference-2011</a> %}</p>
 ]]></content>
   </entry>
   

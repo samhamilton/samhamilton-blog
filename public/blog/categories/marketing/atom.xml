@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Marketing | Sam Hamilton]]></title>
   <link href="http://www.samhamilton.co.uk/blog/categories/marketing/atom.xml" rel="self"/>
   <link href="http://www.samhamilton.co.uk/"/>
-  <updated>2013-08-29T14:16:06+08:00</updated>
+  <updated>2013-09-02T16:37:55+08:00</updated>
   <id>http://www.samhamilton.co.uk/</id>
   <author>
     <name><![CDATA[Sam Hamilton]]></name>
@@ -20,7 +20,7 @@
     <id>http://www.samhamilton.co.uk/blog/2011/06/11/the-mobile-movement-understanding-smartphone-consumers</id>
     <content type="html"><![CDATA[<p>OK so this is really an add for Google but the stats before they start selling are what makes it interesting.</p>
 
-<p><a href="http://www.youtube.com/watch?v=CjUcq_E4I-s">http://www.youtube.com/watch?v=CjUcq_E4I-s</a>">http://www.youtube.com/watch?v=CjUcq_E4I-s">http://www.youtube.com/watch?v=CjUcq_E4I-s</a></a></p>
+<p>{% oembed <a href="http://www.youtube.com/watch?v=CjUcq_E4I-s">http://www.youtube.com/watch?v=CjUcq_E4I-s</a> %}</p>
 ]]></content>
   </entry>
   
@@ -29,7 +29,7 @@
     <link href="http://www.samhamilton.co.uk/blog/2009/09/08/social-media-in-the-office/"/>
     <updated>2009-09-08T06:11:37+08:00</updated>
     <id>http://www.samhamilton.co.uk/blog/2009/09/08/social-media-in-the-office</id>
-    <content type="html"><![CDATA[<p><a href="http://www.youtube.com/watch?v=3f-hr1iWNyI&amp;feature=player_embedded">http://www.youtube.com/watch?v=3f-hr1iWNyI&amp;feature=player_embedded</a>">http://www.youtube.com/watch?v=3f-hr1iWNyI&amp;feature=player_embedded">http://www.youtube.com/watch?v=3f-hr1iWNyI&amp;feature=player_embedded</a></a></p>
+    <content type="html"><![CDATA[<p>{% oembed <a href="http://www.youtube.com/watch?v=3f-hr1iWNyI&amp;feature=player_embedded">http://www.youtube.com/watch?v=3f-hr1iWNyI&amp;feature=player_embedded</a> %}</p>
 ]]></content>
   </entry>
   
@@ -40,7 +40,7 @@
     <id>http://www.samhamilton.co.uk/blog/2009/08/25/the-best-ppt-about-eye-candy</id>
     <content type="html"><![CDATA[<p>Going to make this required reading for the company next week!</p>
 
-<p><a href="http://www.slideshare.net/stephenpa/eye-candy-is-a-critical-business-requirement">http://www.slideshare.net/stephenpa/eye-candy-is-a-critical-business-requirement</a>">http://www.slideshare.net/stephenpa/eye-candy-is-a-critical-business-requirement">http://www.slideshare.net/stephenpa/eye-candy-is-a-critical-business-requirement</a></a></p>
+<p>{% oembed <a href="http://www.slideshare.net/stephenpa/eye-candy-is-a-critical-business-requirement">http://www.slideshare.net/stephenpa/eye-candy-is-a-critical-business-requirement</a> %}</p>
 ]]></content>
   </entry>
   

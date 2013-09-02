@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ecommerce | Sam Hamilton]]></title>
   <link href="http://www.samhamilton.co.uk/blog/categories/ecommerce/atom.xml" rel="self"/>
   <link href="http://www.samhamilton.co.uk/"/>
-  <updated>2013-08-29T14:16:06+08:00</updated>
+  <updated>2013-09-02T16:37:55+08:00</updated>
   <id>http://www.samhamilton.co.uk/</id>
   <author>
     <name><![CDATA[Sam Hamilton]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Brilliant Guide on Upgrading Spree 1.3.3 to 2.0.4]]></title>
+    <link href="http://www.samhamilton.co.uk/blog/2013/09/02/brilliant-guide-on-upgrading-spree-1-dot-3-3-to-2-dot-0-4/"/>
+    <updated>2013-09-02T16:34:00+08:00</updated>
+    <id>http://www.samhamilton.co.uk/blog/2013/09/02/brilliant-guide-on-upgrading-spree-1-dot-3-3-to-2-dot-0-4</id>
+    <content type="html"><![CDATA[<p>This is the best guide I have seen for upgrading Spree from 1.3.3 to 2.0.4</p>
+
+<script src="https://gist.github.com/swrobel/6343549.js"></script>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[We launched our wholesale site - Zooron.com]]></title>
@@ -29,27 +41,22 @@
     <id>http://www.samhamilton.co.uk/blog/2012/09/03/upgrading-spree-from-1-dot-1-2-to-1-dot-1-3</id>
     <content type="html"><![CDATA[<p>If you upgraded Spree from 1.1.2 to 1.1.3 and found that the checkout didn&rsquo;t work with some error about zones</p>
 
-<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>ActiveRecord::StatementInvalid (PG::Error: ERROR:  column &ldquo;zone_members_count&rdquo; does not exist
-</span><span class='line'>LINE 1: &hellip;LECT &ldquo;spree_zones&rdquo;.* FROM &ldquo;spree_zones&rdquo;  ORDER BY zone_membe&hellip;&lt;/p>
-</span><span class='line'>
-</span><span class='line'>&lt;pre>&lt;code>                                                         ^
-</span><span class='line'>&lt;/code>&lt;/pre>
-</span><span class='line'>
-</span><span class='line'>&lt;p>: SELECT &ldquo;spree_zones&rdquo;.* FROM &ldquo;spree_zones&rdquo;  ORDER BY zone_members_count, created_at):</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+<p>{% codeblock %}
+ActiveRecord::StatementInvalid (PG::Error: ERROR:  column &ldquo;zone_members_count&rdquo; does not exist
+LINE 1: &hellip;LECT &ldquo;spree_zones&rdquo;.* FROM &ldquo;spree_zones&rdquo;  ORDER BY zone_membe&hellip;</p>
+
+<pre><code>                                                         ^
+</code></pre>
+
+<p>: SELECT &ldquo;spree_zones&rdquo;.* FROM &ldquo;spree_zones&rdquo;  ORDER BY zone_members_count, created_at):
+{% endcodeblock %}</p>
 
 <p>Then perhaps you missed that you needed to run some migrations</p>
 
-<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>rake railties:install:migrations
-</span><span class='line'>rake db:migrate</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+<p>{% codeblock %}
+rake railties:install:migrations
+rake db:migrate
+{% endcodeblock %}</p>
 ]]></content>
   </entry>
   
@@ -71,7 +78,7 @@
 </ul>
 
 
-<p><img src="/images/spree-funnel.png"></p>
+<p>{% img /images/spree-funnel.png %}</p>
 
 <p>Thanks to <a href="https://groups.google.com/d/topic/spree-user/_gPjQKEwug4/discussion">Ryan</a> for the RegEx</p>
 ]]></content>
@@ -98,20 +105,9 @@
 
 <p>Here is the China network diagram from a <a href="http://www.cdnetworks.com/solutions/china-acceleration/">decent CDN</a> who truly understand China &ndash; show me another CDN that has that network in China? Akamai perhaps but they won&rsquo;t show.</p>
 
-<p><img src="/images/china_acceleration.jpg"></p>
+<p>{% img /images/china_acceleration.jpg %}</p>
 
 <p>One last thing to throw on the fire &ndash; Shanghai has plenty of <a href="/images/Equinix_Submarine_TGMap_MTS_15.pdf">submarine cables</a> and also China has Hong Kong one of the greatest gathering of submarine cables in the world, if they wanted international internet to work they could, the trouble is that they dont.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Amazon: The Hidden Empire]]></title>
-    <link href="http://www.samhamilton.co.uk/blog/2011/05/31/amazon-the-hidden-empire/"/>
-    <updated>2011-05-31T00:21:06+08:00</updated>
-    <id>http://www.samhamilton.co.uk/blog/2011/05/31/amazon-the-hidden-empire</id>
-    <content type="html"><![CDATA[<p>A comprehensive look at the business of Amazon.com</p>
-
-<p><a href="http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire">http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire</a>">http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire">http://www.slideshare.net/faberNovel/amazoncom-the-hidden-empire</a></a></p>
 ]]></content>
   </entry>
   
