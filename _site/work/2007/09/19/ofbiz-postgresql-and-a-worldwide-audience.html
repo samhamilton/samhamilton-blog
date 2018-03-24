@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.4.0 -->
+<title>OFBiz, PostgreSQL and a worldwide audience | Sam Hamilton</title>
+<meta name="generator" content="Jekyll v3.7.3" />
+<meta property="og:title" content="OFBiz, PostgreSQL and a worldwide audience" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="So we were starting to talk to Netsuite about replacing our systems with theirs, I have to admit I do like the idea of one complete system from one person. It was just before they were going public so they wanted all the business they could muster and we had a “good” price until we got into extra storage space. I mean what does 1GB of storage space cost these days even if you do run Oracle databases like they do to at Netsuite. Well it just made the whole deal crazy the scale out plans made the deal practically blow up and this is with me supporting the integrated system totally and really thinking about the cost savings, it just no longer made sense." />
+<meta property="og:description" content="So we were starting to talk to Netsuite about replacing our systems with theirs, I have to admit I do like the idea of one complete system from one person. It was just before they were going public so they wanted all the business they could muster and we had a “good” price until we got into extra storage space. I mean what does 1GB of storage space cost these days even if you do run Oracle databases like they do to at Netsuite. Well it just made the whole deal crazy the scale out plans made the deal practically blow up and this is with me supporting the integrated system totally and really thinking about the cost savings, it just no longer made sense." />
+<link rel="canonical" href="http://localhost:4000/work/2007/09/19/ofbiz-postgresql-and-a-worldwide-audience.html" />
+<meta property="og:url" content="http://localhost:4000/work/2007/09/19/ofbiz-postgresql-and-a-worldwide-audience.html" />
+<meta property="og:site_name" content="Sam Hamilton" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2007-09-19T17:39:31+08:00" />
+<script type="application/ld+json">
+{"description":"So we were starting to talk to Netsuite about replacing our systems with theirs, I have to admit I do like the idea of one complete system from one person. It was just before they were going public so they wanted all the business they could muster and we had a “good” price until we got into extra storage space. I mean what does 1GB of storage space cost these days even if you do run Oracle databases like they do to at Netsuite. Well it just made the whole deal crazy the scale out plans made the deal practically blow up and this is with me supporting the integrated system totally and really thinking about the cost savings, it just no longer made sense.","@type":"BlogPosting","url":"http://localhost:4000/work/2007/09/19/ofbiz-postgresql-and-a-worldwide-audience.html","headline":"OFBiz, PostgreSQL and a worldwide audience","dateModified":"2007-09-19T17:39:31+08:00","datePublished":"2007-09-19T17:39:31+08:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/work/2007/09/19/ofbiz-postgresql-and-a-worldwide-audience.html"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Sam Hamilton" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Sam Hamilton</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about.html">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">OFBiz, PostgreSQL and a worldwide audience</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2007-09-19T17:39:31+08:00" itemprop="datePublished">Sep 19, 2007
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>So we were starting to talk to <a href="http://www.netsuite.com">Netsuite</a> about replacing our systems with theirs, I have to admit I do like the idea of one complete system from one person. It was just before they were going public so they wanted all the business they could muster and we had a “good” price until we got into extra storage space. I mean what does 1GB of storage space cost these days even if you do run <a href="http://www.oracle.com">Oracle</a> databases like they do to at Netsuite. Well it just made the whole deal crazy the scale out plans made the deal practically blow up and this is with me supporting the integrated system totally and really thinking about the cost savings, it just no longer made sense.</p>
+
+<p>Well fortunate as luck would have it we bumped into someone using OFBiz to run their warehouse here in China. To cut a long story short we then started working out how we could use it including getting me up to speed on Java which is a technology I have never touched. The fun begins we hire our first developer, we think which databases to use and we work out if this thing scales.</p>
+
+<p>The database is an easy choice after a short amount of reading, <a href="http://www.postgresql.org">postgreSQL</a> is a clear winner - why? Well really it comes down to data integrity. We are not building a social media site so really we are not going to end up with huge amounts of database writes after all, instead we are going to end up (in a few short years) with TB’s of data.</p>
+
+<p>The interesting part of the mix is that we need to have multiple database sites which include USA, UK, Hong Kong and China. The USA, UK and HK sites will be the ecommerce backbones and then also China as we need to ship the goods - the packing stations in the warehouse get PDF files of the address which can be quite large so a local server there keeps the speed and productivity up.</p>
+
+<p>Let me explain why three data centeres - first you always have a primary data centre so for us this will be Hong Kong as this is physically closest to Shanghai so for any internal tool this need to be as fast as possible. We build out tools such as <a href="http://www.alfresco.com">Alfresco</a> and <a href="http://www.jivesoftware.com/products/clearspace">Clearspace</a> in Hong Kong plus also a copy of OFBiz as all the customer and order information is inside, this node can also provide service to any Asian ecommerce customers.</p>
+
+<p>The US and UK sites are the main points of ecommerce so these sites primary function is to host anything customer facing and provide services using <a href="http://www.cisco.com/warp/public/117/css_glb_sticky.html">global load balancing</a> to ensure that each customer is getting just about the fastest response from our servers.</p>
+
+<p>Having customers in 9+ primary and 50+ secondary countries really makes delivering a great experiance to them all hard.</p>
+
+<p>Thats all for now - lets see how this gets on.</p>
+
+  </div><a class="u-url" href="/work/2007/09/19/ofbiz-postgresql-and-a-worldwide-audience.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Sam Hamilton</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Sam Hamilton</li><li><a class="u-email" href="mailto:sam@sh81.com">sam@sh81.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/jekyll"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">jekyll</span></a></li><li><a href="https://www.twitter.com/jekyllrb"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">jekyllrb</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
