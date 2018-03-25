@@ -8,7 +8,7 @@ subtitle:
 description:
 keywords:
 author: Sam Hamilton
-language:
+language: en
 timezone:
 
 # URL
@@ -79,9 +79,6 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 # theme: landscape
 theme: clean-blog
-
-# Google Analytics Tracking ID
-google_analytics: UA-4507040-7
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
