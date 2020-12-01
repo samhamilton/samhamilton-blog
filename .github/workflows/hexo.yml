@@ -3,7 +3,7 @@ name: hexo
 on: push
 
 env:
-  NODE-VERSION: "12.x"
+  NODE-VERSION: "14.x"
 
 jobs:
   hexo:
