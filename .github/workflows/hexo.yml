@@ -28,5 +28,5 @@ jobs:
           ${{ runner.os }}-node-v1-
     - run: yarn install
     # https://help.github.com/en/actions/reference/workflow-commands-for-github-actions#adding-a-system-path
-    - run: echo "::add-path::$GITHUB_WORKSPACE/assets/node_modules/.bin"
+    - run: echo "$GITHUB_WORKSPACE/assets/node_modules/.bin" >> $GITHUB_PATH
     - run: yarn hexo deploy
