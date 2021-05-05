@@ -1,9 +1,12 @@
 version: 2
 updates:
 - package-ecosystem: npm
-  directory: "/"
+  directory: "/assets"
   schedule:
-    interval: monthly
-    time: "21:00"
-    timezone: Etc/UTC
+    interval: "weekly"
+    day: "saturday"
+    time: "03:00"
+    timezone: "Asia/Singapore"
   open-pull-requests-limit: 99
+  reviewers:
+  - samhamilton
