@@ -1,9 +1,18 @@
+# Build check: proves `hexo generate` still produces the site.
+#
+# This workflow deliberately does NOT deploy. It runs on every push, including
+# Dependabot branches, and `npm run deploy` now means `wrangler deploy` — so
+# building is the only safe thing to do here. Deployment is main-only and lives
+# in deploy_worker.yml.
 name: hexo
 
 on: push
 
 env:
-  NODE-VERSION: "22.x"
+  NODE_VERSION: "24"
+
+permissions:
+  contents: read
 
 jobs:
   hexo:
@@ -11,18 +20,21 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - uses: actions/setup-node@v6
-      - name: Get npm cache directory
-        id: npm-cache-dir
-        run: |
-          echo "::set-output name=dir::$(npm config get cache)"
-      - uses: actions/cache@v5
-        id: npm-cache # use this to check for `cache-hit` ==> if: steps.npm-cache.outputs.cache-hit != 'true'
         with:
-          path: ${{ steps.npm-cache-dir.outputs.dir }}
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
       - run: npm ci
-      # https://help.github.com/en/actions/reference/workflow-commands-for-github-actions#adding-a-system-path
-      - run: echo "$GITHUB_WORKSPACE/assets/node_modules/.bin" >> $GITHUB_PATH
-      - run: npm run deploy
+      - run: npm run build
+      # wrangler.jsonc points `assets.directory` at public/ and names files that
+      # must exist for the routing config to mean anything. Catching a missing
+      # 404.html here is cheaper than finding out from a live 404.
+      - name: Verify build output
+        run: |
+          set -euo pipefail
+          test -f public/index.html
+          test -f public/404.html
+          test -f public/sitemap.xml
+          echo "public/: $(find public -type f | wc -l) files"
+      # Validates wrangler.jsonc — bindings, routes, asset limits — and packages
+      # the upload without sending it.
+      - run: npx wrangler deploy --dry-run

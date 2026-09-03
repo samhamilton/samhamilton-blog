@@ -81,6 +81,6 @@ pagination_dir: page
 theme: Hacker
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type:
+## Not Hexo's deployer: `hexo generate` writes public/, and that directory is
+## uploaded to Cloudflare Workers as static assets. See wrangler.jsonc and
+## .github/workflows/deploy_worker.yml.

@@ -1,0 +1,45 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "prod-samhamilton-www",
+  // No `main`: Hexo emits a wholly static site, so this is an assets-only
+  // Worker. Requests are answered by Cloudflare's Asset Worker directly and
+  // never invoke a user Worker — which is also why static asset requests are
+  // unbilled. Add `main` (and a `binding` below) only if this site ever needs
+  // request-time logic.
+  "compatibility_date": "2026-09-02",
+  "workers_dev": false,
+  "assets": {
+    // `hexo generate` writes here (public_dir in _config.yml). Gitignored and
+    // rebuilt in CI, so the deploy always ships a fresh build.
+    "directory": "./public",
+    // Hexo's `permalink: :title/` writes <post>/index.html, and pages the same
+    // (about/index.html). auto-trailing-slash serves those at /<post>/ and
+    // redirects the extensionless form onto it, matching the URLs already
+    // baked into sitemap.xml, atom.xml and every og:url.
+    "html_handling": "auto-trailing-slash",
+    // Serves public/404.html (generated from source/404.md) with a 404 status
+    // rather than an empty body.
+    "not_found_handling": "404-page",
+  },
+  "observability": {
+    "logs": {
+      "enabled": true,
+      "invocation_logs": true,
+    },
+  },
+  // Custom domain — Cloudflare provisions the DNS record and routes the Worker.
+  //
+  // www ONLY, deliberately. `url` in _config.yml is the www host, so that is
+  // what sitemap.xml, atom.xml and every og:url already declare. Routing the
+  // apex here as well would serve identical bytes on two hostnames with no
+  // <link rel="canonical"> to disambiguate them — hexo-auto-canonical is a
+  // dependency but is not wired into themes/Hacker/layout/components/head.ejs.
+  // Send the apex to www with a zone Redirect Rule instead, so there is exactly
+  // one indexable host.
+  "routes": [
+    {
+      "pattern": "www.samhamilton.co.uk",
+      "custom_domain": true,
+    },
+  ],
+}
