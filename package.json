@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "global": "^4.4.0",
-    "hexo": "^8.1.1",
+    "hexo": "^8.1.2",
     "hexo-auto-canonical": "^0.1.1",
     "hexo-cli": "^4.3.2",
     "hexo-generator-archive": "^2.0.0",
