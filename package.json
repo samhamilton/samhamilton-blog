@@ -27,6 +27,6 @@
     "hexo-server": "^3.0.0"
   },
   "devDependencies": {
-    "wrangler": "^4.128.0"
+    "wrangler": "^4.131.0"
   }
 }
